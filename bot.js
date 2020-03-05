@@ -19,7 +19,7 @@ async function main() {
         console.log(key, current_headers[key]);
       }
       console.log(request.postData());
-      console.log(page.cookies());
+      //console.log(page.cookies());
       dumpFrameTree(page.mainFrame(), '');
 
     }
@@ -27,13 +27,14 @@ async function main() {
   ;
   await page.goto('https://vk.com/');
 
-  const cookies = await page.cookies()
-  console.log(cookies);
+  //const cookies = await page.cookies()
+  //console.log(cookies);
 
   function dumpFrameTree(frame, indent) {
     console.log(indent + frame.url());
     for (let child of frame.childFrames())
       dumpFrameTree(child, indent + '  ');
+
   }
 }
 
