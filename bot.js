@@ -1,6 +1,7 @@
 'use strict';
 
 const puppeteer = require('puppeteer');
+let name_index = 0
 
 async function main() {
   const browser = await puppeteer.launch({
@@ -8,26 +9,31 @@ async function main() {
         args: ['--no-sandbox']
     });
   const page = await browser.newPage();
-  
+  const fs = require("fs");
+
   //await page.setRequestInterception(true);
   page.on('request', request => {
-    //console.log(request);
     if (request.method() == 'POST') {
-      console.log(request.method() + ' '+ request.url());
+      let name = `${name_index}.txt`
+      //console.log(request.method() + ' '+ request.url());
+      let data = request.method() + ' '+ request.url();
+
       let current_headers = request.headers();
       for (let key in current_headers) {
-        console.log(key, current_headers[key]);
+        //console.log(key, current_headers[key]);
+        data += '\n' + key + ' ' + current_headers[key];
       }
-      console.log(request.postData());
-      //console.log(page.cookies());
-      dumpFrameTree(page.mainFrame(), '');
+      //console.log(request.postData());
+      data += '\n\n' + request.postData();
 
+      console.log(data);
+      fs.writeFileSync(name, data);
+      name_index += 1;
     }
   });
   ;
   await page.goto('https://vk.com/');
 
-  //const cookies = await page.cookies()
   //console.log(cookies);
 
   function dumpFrameTree(frame, indent) {
