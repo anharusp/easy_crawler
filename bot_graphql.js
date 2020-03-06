@@ -1,6 +1,8 @@
 'use strict';
 
 const puppeteer = require('puppeteer');
+const fs = require("fs");
+const filesDirectory = '/home/anna/Documents/7 semester/Thesis/easy_crawler/posts/';
 let name_index = 0
 
 async function main() {
@@ -9,7 +11,10 @@ async function main() {
         args: ['--no-sandbox']
     });
   const page = await browser.newPage();
-  const fs = require("fs");
+  
+  if (!fs.existsSync(filesDirectory)) {
+    fs.mkdirSync(filesDirectory);
+  }
 
   //await page.setRequestInterception(true);
 
@@ -30,8 +35,9 @@ async function main() {
 
       console.log(data);
       if (request.url().indexOf('graphql') != -1) {
-       fs.writeFileSync(name, data);
+       fs.writeFileSync(filesDirectory + name, data);
       }
+      dumpFrameTree(page.mainFrame())
       name_index += 1;
     }
   });
