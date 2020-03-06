@@ -1,7 +1,9 @@
 'use strict';
 
 const puppeteer = require('puppeteer');
-let name_index = 0
+const fs = require("fs");
+const filesDirectory = '/home/anna/Documents/7 semester/Thesis/easy_crawler/posts/';
+let name_index = 0;
 
 async function main() {
   const browser = await puppeteer.launch({
@@ -9,9 +11,14 @@ async function main() {
         args: ['--no-sandbox']
     });
   const page = await browser.newPage();
-  const fs = require("fs");
+
+  if (!fs.existsSync(filesDirectory)) {
+    fs.mkdirSync(filesDirectory);
+  }
 
   //await page.setRequestInterception(true);
+
+
   page.on('request', request => {
     if (request.method() == 'POST') {
       let name = `${name_index}.txt`
@@ -27,12 +34,13 @@ async function main() {
       data += '\n\n' + request.postData();
 
       console.log(data);
-      fs.writeFileSync(name, data);
+      fs.writeFileSync(filesDirectory + name, data);
       name_index += 1;
     }
   });
   ;
-  await page.goto('https://vk.com/');
+
+  await page.goto('https://www.coursera.org/');
 
   //console.log(cookies);
 
