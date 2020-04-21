@@ -1,0 +1,7 @@
+POST https://bam.eu01.nr-data.net/events/1/91d3f19a9b?a=16405072&v=1167.2a4546b&to=MhBSZQoZDUEABRUMXAtacVIMEQxcTgUAEVIJGlc%3D&rst=4765&ref=https://www.perekrestok.ru/catalog/hleb-sladosti-sneki/pirogi-sdoba-keksy-rulety
+Referer https://www.perekrestok.ru/catalog/hleb-sladosti-sneki/pirogi-sdoba-keksy-rulety
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type text/plain;charset=UTF-8
+
+bel.6;e,'fp,1by,;e,'fcp,1by,;e,'fi,254,2;5,'type,'pointerdown;6,'fid,254.;e,'lcp,1e2,2;6,'size,35964.;5,'eid;e,'unload,3od,

@@ -1,0 +1,7 @@
+POST https://a.et.nytimes.com/track
+Referer https://www.nytimes.com/article/plastics-to-avoid.html?algo=identity&fellback=false&imp_id=967086591&imp_id=383983429&action=click&module=Science%20%20Technology&pgtype=Homepage
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type text/plain;charset=UTF-8
+
+[{"context_id":"0AvZB2LZbziJMlekD82KVWbt","pageview_id":"qqNQ5Le5trjwP_5Rzjjm5RO1","event_id":"g_foYMvOyHt1SO_SjpwpPcxe","client_lib":"v1.0.6","sourceApp":"nyt-vi","how":"beacon","client_ts":1587229655401,"data":{"subject":"ab_alloc","allocs":[{"test":"ON_nl_hscroll_0320","variant":"0"}],"sourceApp":"nyt-vi"}}]

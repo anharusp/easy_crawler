@@ -1,0 +1,7 @@
+POST https://bat.bing.com/actionp/0?ti=5317757&Ver=2&mid=db7858ab-9b93-c6fd-306e-17f5f17cdbe0&sid=6612f166-d246-a886-b0fe-d739ccb1d4b3&evt=pageHide
+Referer https://www.skyscanner.ru/hotels?sd=2020-04-24&ed=2020-05-01
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type text/plain;charset=UTF-8
+
+undefined

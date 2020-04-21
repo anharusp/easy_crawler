@@ -1,0 +1,17 @@
+POST https://kraken.rambler.ru/cnt/
+Host kraken.rambler.ru
+Connection keep-alive
+Content-Length 200
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type text/plain;charset=UTF-8
+Accept */*
+Origin https://woman.rambler.ru
+Sec-Fetch-Site same-site
+Sec-Fetch-Mode no-cors
+Referer https://woman.rambler.ru/psychology/44046317-nadeyus-eta-pandemiya-nas-s-vami-mnogomu-nauchit-medik-o-tom-chto-proishodit-v-infektsionnyh-bolnitsah/?utm_source=head&utm_campaign=self_promo&utm_medium=news&utm_content=news
+Accept-Encoding gzip, deflate, br
+Accept-Language ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie ruid=vAsAAORcnV6xb/MlAQ5ZEAB=; user-id_1.0.5_lr_lruid=pQ8AAOVcnV4rM5n8AYd83wA%3D; user-id_1.0.5_FingerPrint=pA8AAGsis1e8O%2FWjAZsgGwA%3D; sspjs_2.29.0_af_lpdid=%7B%22DATE%22%3A1587371236743%2C%22ID%22%3A%223%3A1704298438%22%7D; dvr=gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA:1587371236; _ga=GA1.2.789105107.1587371237; _gid=GA1.2.569175972.1587371237; _gat=1; c8980c62834072c480df58741f1fd039393df9aaea5446dbb1dd2187750209fe_2=vAsAAORcnV6xb%2FMlAQ5ZEAB%3D; _ym_uid=1587371237691198303; _ym_d=1587371237; _ym_visorc_28161048=b; top100_id=t1.29811.214753684.1587371237820; proto_uid=1CIAAOVcnV47O5iXARUDtQB=; sts=0.1587371237.1.1587371237.2.1587371237.3.1587371237.4.1587371237; _ym_isad=2; _ym_visorc_26649402=b; _ym_visorc_25662806=b; _ym_visorc_250894=w; rambler_3rdparty_v2=; uuts=4vrJyDWBj5fP5odDEaafX2XG189CutVx; declinesbc=1; detect_count=0; _gat_portal=1; _ym_visorc_26557647=b; _ym_visorc_27440552=b; _ym_visorc_34134440=b; _ym_visorc_251983=w; chash=2060448999; __gads=ID=5746782097f1ff2f:T=1587371256:S=ALNI_MbHauHU3nimcEtZEow9nkJBXHCEzQ; last_visit=1587360463148::1587371263148; _ym_visorc_44184774=b; _ym_visorc_44184839=b; _ym_visorc_259474=w; lvr=1587371269
+
+et=act&pid=4422985&rid=1587371265.835-892661796&tid=t1.29811.214753684.1587371237820&v=1.8.0&meta=%7B%22time%22%3A9%2C%22screens%22%3A%5B3%2C4%2C1%2C5%2C5%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%5D%7D

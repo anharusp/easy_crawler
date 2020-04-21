@@ -1,0 +1,17 @@
+POST https://top-fwz1.mail.ru/tracker?js=13;id=undefined;u=https%3A//www.perekrestok.ru/catalog/soki-vody-napitki/bezalkogolnoe-pivo/nap-piv-heyneken-0-0-past-0-jb-0-45l--523709;r=https%3A//www.perekrestok.ru/catalog/dacha-i-gril;st=1587310427691;s=1920*1080;vp=785*600;touch=0;hds=1;flash=;sid=5a31459144a9124a;ver=60.1.0;tz=-180%2FEurope%2FMoscow;ni=10//4g/50/0/;detect=0;lvid=1587310346349%3A1587310430003%3A138%3Aa8ec92b6f36ea5ce4b1e53d48e069241;opts=sec%2Cdl;_=0.6372142780316052;e=RT/unload;et=1587310429988;pvt=2297
+Host top-fwz1.mail.ru
+Connection keep-alive
+Content-Length 0
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type text/plain;charset=UTF-8
+Accept */*
+Origin https://www.perekrestok.ru
+Sec-Fetch-Site cross-site
+Sec-Fetch-Mode no-cors
+Referer https://www.perekrestok.ru/catalog/soki-vody-napitki/bezalkogolnoe-pivo/nap-piv-heyneken-0-0-past-0-jb-0-45l--523709
+Accept-Encoding gzip, deflate, br
+Accept-Language ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie VID=2YNtsE0Qw3nw00000Q0qD4Hw:::0-0-0-3b6c7ca:CAASEKm6AFfqBI6SDP7rklo-57YaYCw_7xwVFmegELqfkaqxbHtQIVEOLAjCF06CIQzoG9eK4WUpjew4gcbmGSzjIxjOmEFlxWJRMy9Rm0UVqhzjD9phHPbEm2i5kIRxYoJRr1FkndhI89db9GrS9YUwjzjyVQ
+
+undefined

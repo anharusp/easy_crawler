@@ -1,0 +1,11 @@
+POST https://samizdat-graphql.nytimes.com/graphql/v2
+nyt-token MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAs+/oUCTBmD/cLdmcecrnBMHiU/pxQCn2DDyaPKUOXxi4p0uUSZQzsuq1pJ1m5z1i0YGPd1U1OeGHAChWtqoxC7bFMCXcwnE1oyui9G1uobgpm1GdhtwkR7ta7akVTcsF8zxiXx7DNXIPd2nIJFH83rmkZueKrC4JVaNzjvD+Z03piLn5bHWU6+w+rA+kyJtGgZNTXKyPh6EC6o5N+rknNMG5+CdTq35p8f99WjFawSvYgP9V64kgckbTbtdJ6YhVP58TnuYgr12urtwnIqWP9KSJ1e5vmgf3tunMqWNm6+AnsqNj8mCLdCuc5cEB74CwUeQcP2HQQmbCddBy2y0mEwIDAQAB
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+nyt-app-type project-vi
+content-type application/json
+accept */*
+Referer https://www.nytimes.com/
+nyt-app-version 0.0.5
+Sec-Fetch-Dest empty
+
+{"operationName":"Well","variables":{"ids":["section/world","section/us","section/politics","section/nyregion","section/business","section/technology","section/science","section/sports","section/obituaries","section/upshot","section/climate","section/education","section/health","section/reader-center","section/opinion","section/opinion/columnists","section/opinion/editorials","section/opinion/contributors","section/opinion/sunday","section/arts","section/arts/design","section/movies","section/arts/television","section/arts/music","section/theater","section/arts/dance","section/books","section/books/review","section/style","section/food","section/smarter-living","section/magazine","section/t-magazine","section/travel","section/fashion/weddings","section/realestate"]},"extensions":{"persistedQuery":{"version":1,"sha256Hash":"179367746997d2d1fbfad8f603c6dad4b95a2da7688e05080c408583b8c48b69"}}}

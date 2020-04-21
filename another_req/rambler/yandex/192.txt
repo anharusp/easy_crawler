@@ -1,0 +1,7 @@
+POST https://mc.yandex.ru/watch/251983/1?cnt-class=1&page-url=https%3A%2F%2Ffinance.rambler.ru%2Fmoney%2F44045557-moshenniki-kradut-dengi-rossiyan-s-pomoschyu-virusov-i-zerkal%2F%3Futm_source%3Dhead%26utm_campaign%3Dself_promo%26utm_medium%3Dnews%26utm_content%3Dnews&charset=utf-8&force-urlencoded=1&browser-info=ti%3A1%3Adp%3A0%3Ans%3A1587371367373%3As%3A1920x1080x24%3Ask%3A1%3Ahdl%3A1%3Aadb%3A2%3Afpr%3A207118962501%3Acn%3A5%3Az%3A180%3Ai%3A20200420112928%3Aet%3A1587371369%3Aen%3Autf-8%3Ac%3A1%3Ala%3Aru-ru%3Antf%3A1%3Aar%3A1%3Apa%3A1%3Als%3A795771707318%3Arqn%3A3%3Arn%3A574710131%3Ahid%3A692256867%3Ads%3A0%2C0%2C160%2C56%2C16%2C0%2C0%2C178%2C45%2C%2C%2C%2C616%3Afp%3A315%3Agdpr%3A14%3Afu%3A1%3Av%3A1853%3Awv%3A2%3Arqnl%3A1%3Ast%3A1587371369%3Au%3A1587371237691198303%3App%3A3629563401
+Referer https://finance.rambler.ru/money/44045557-moshenniki-kradut-dengi-rossiyan-s-pomoschyu-virusov-i-zerkal/?utm_source=head&utm_campaign=self_promo&utm_medium=news&utm_content=news
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type text/plain;charset=UTF-8
+
+site-info=%7B%22__ym%22%3A%7B%22adSessionID%22%3A%226501631587371368712%22%7D%7D

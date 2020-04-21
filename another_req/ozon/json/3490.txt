@@ -1,0 +1,7 @@
+POST https://ozon-api.exponea.com/bulk
+Referer https://www.ozon.ru/context/detail/id/166512697/?stat=YW5fNw%3D%3D
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type text/plain;charset=UTF-8
+
+{"sdk":"js-client","sdk_version":"v1.41.1","commands":[{"name":"crm/events","data":{"customer_ids":{"cookie":"b23eed31-8236-11ea-92cb-8e95e2ca184a"},"company_id":"09568822-e4af-11e7-9f8d-ac1f6b02225e","type":"view item","age":0.10100007057189941,"properties":{"location":"https://www.ozon.ru/context/detail/id/166512697/?stat=YW5fNw%3D%3D","os":"Linux","browser":"Chrome","device":"Other","name":"Черника Всегда пожалуйста, дикорастущая, 300 г","price":250,"id":"166512697","itemAvailability":1,"categoryName":"Супермаркет/Замороженные продукты/Замороженные овощи, фрукты, ягоды/Замороженные ягоды и фрукты/Всегда пожалуйста","category_web0":"Супермаркет","category_web1":"Замороженные продукты","category_web2":"Замороженные овощи, фрукты, ягоды","category_web3":"Замороженные ягоды и фрукты","category_web4":"Всегда пожалуйста"},"timestamp":1587302848.5531263}}]}

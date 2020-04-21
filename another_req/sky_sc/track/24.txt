@@ -1,0 +1,17 @@
+POST https://mc.yandex.ru/watch/541364?wmode=7&page-ref=https%3A%2F%2Fwww.skyscanner.ru%2Fsttc%2Fpx%2Fcaptcha-v2%2Findex.html%3Furl%3DL2NhcmhpcmU%2F%26uuid%3Dfbb8d5c0-825f-11ea-a64a-3d89978e0302%26vid%3Dba4fd701-825f-11ea-ad8a-83a1ee03969f&page-url=https%3A%2F%2Fwww.skyscanner.ru%2Fcarhire%3F&charset=utf-8&site-info=%7B%7D&browser-info=ti%3A10%3Ans%3A1587316007822%3As%3A1920x1080x24%3Ask%3A1%3Ahdl%3A1%3Aadb%3A2%3Afpr%3A207118962501%3Acn%3A1%3Aw%3A785x600%3Az%3A180%3Ai%3A20200419200649%3Aet%3A1587316010%3Aen%3Autf-8%3Ac%3A1%3Ala%3Aru-ru%3Apv%3A1%3Als%3A1002402784789%3Arqn%3A6%3Arn%3A616763953%3Ahid%3A678581699%3Ads%3A1%2C143%2C293%2C125%2C6%2C0%2C0%2C714%2C0%2C1937%2C1937%2C28%2C1237%3Afp%3A1104%3Agdpr%3A14-2%3Av%3A1850%3Arqnl%3A1%3Ast%3A1587316010%3Au%3A1587315828297496647%3At%3A%D0%90%D1%80%D0%B5%D0%BD%D0%B4%D0%B0%20%D0%B0%D0%B2%D1%82%D0%BE.%20%D0%A1%D1%80%D0%B0%D0%B2%D0%BD%D0%B8%D1%82%D0%B5%20%D1%86%D0%B5%D0%BD%D1%8B%20%D0%BD%D0%B0%20%D0%BF%D1%80%D0%BE%D0%BA%D0%B0%D1%82%2C%20%D0%B0%D1%80%D0%B5%D0%BD%D0%B4%D1%83%D0%B9%D1%82%D0%B5%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D1%83%20%D0%B4%D0%B5%D1%88%D0%B5%D0%B2%D0%BB%D0%B5
+Host mc.yandex.ru
+Connection keep-alive
+Content-Length 0
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type application/x-www-form-urlencoded
+Accept */*
+Origin https://www.skyscanner.ru
+Sec-Fetch-Site cross-site
+Sec-Fetch-Mode cors
+Referer https://www.skyscanner.ru/carhire?
+Accept-Encoding gzip, deflate, br
+Accept-Language ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie yandexuid=8826347231587315828; yuidss=8826347231587315828; yabs-sid=472066931587315828; i=//gg/boppxyU0VebAjwsRZ/xO34PTQWIrbxy/Py9AvDzPCltovXmrbYfEg3MfnZeTx7Rh1wBMXNaYTDRqg3hBvGzOM8=; ymex=1902675828.yrts.1587315828#1902675828.yrtsi.1587315828
+
+undefined

@@ -1,0 +1,16 @@
+POST https://stat.media/counter/api
+Host stat.media
+Connection keep-alive
+Content-Length 982
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type application/x-www-form-urlencoded;charset=UTF-8
+Accept */*
+Origin https://news.rambler.ru
+Sec-Fetch-Site cross-site
+Sec-Fetch-Mode cors
+Referer https://news.rambler.ru/community/44045696-g-m-zakidayut-makarevich-oskorbil-rossiyan/?utm_source=head&utm_campaign=self_promo&utm_medium=news&utm_content=news
+Accept-Encoding gzip, deflate, br
+Accept-Language ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+action=v1&payload=Gs4FCgYxLjEwLjAQuHMY_aDhtZkuIiQwN2YxNjRiYi1lMWEwLTQxYjctYjk4OS0zYzhkNTc5ZWMxODIo8aPNtZkuMiQ5ODc2YjgyMi03ZGIyLTQzNjEtOWNmYy1jMGJhMTJiZDE2MmE6JGYyMjk2OWNmLWY0NmEtNGUwNi05OTM1LWRlMGFiMjNlMmU3OWJnTW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODAuMC4zOTg3LjAgU2FmYXJpLzUzNy4zNnCAD3i4CIABGJIBEHBvcnRyYWl0LXByaW1hcnmaAQVydS1SVaABzP7_________AagBAbABAdgBCOIBdMKr0JMqKioq0LzCoNC30LDQutC40LTQsNGO0YLCuzog0JzQsNC60LDRgNC10LLQuNGHINC-0YHQutC-0YDQsdC40Lsg0YDQvtGB0YHQuNGP0L0g4oCUINCg0LDQvNCx0LvQtdGAL9C90L7QstC-0YHRgtC46gGfAWh0dHBzOi8vbmV3cy5yYW1ibGVyLnJ1L2NvbW11bml0eS80NDA0NTY5Ni1nLW0temFraWRheXV0LW1ha2FyZXZpY2gtb3Nrb3JiaWwtcm9zc2l5YW4vP3V0bV9zb3VyY2U9aGVhZCZ1dG1fY2FtcGFpZ249c2VsZl9wcm9tbyZ1dG1fbWVkaXVtPW5ld3MmdXRtX2NvbnRlbnQ9bmV3c_IBVmh0dHBzOi8vbmV3cy5yYW1ibGVyLnJ1L2NvbW11bml0eS80NDA0NTY5Ni1nLW0temFraWRheXV0LW1ha2FyZXZpY2gtb3Nrb3JiaWwtcm9zc2l5YW4vggIXaHR0cHM6Ly93d3cucmFtYmxlci5ydS-wAn24AjHYAgPyAwI0Z_0DAAAgQQ..

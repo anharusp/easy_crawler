@@ -1,0 +1,7 @@
+POST https://a.et.nytimes.com/track
+Referer https://myaccount.nytimes.com/auth/iframe/enter-email?response_type=cookie&client_id=freex&redirect_uri=https%3A%2F%2Fwww.nytimes.com%2Fsubscription%2Fmultiproduct%2Flp8KQUS.html%3FcampaignID%3D7QQFH%26EXIT_URI%3Dhttps%253A%252F%252Fwww.nytimes.com%252F2020%252F04%252F16%252Fus%252Fpolitics%252Ftrump-coronavirus-promises-fact-check.html&display=hubpage_lire&asset=RegiWall&campaign_id=CoronaVirus&application=Free_Experience&preloaded=true
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type text/plain;charset=UTF-8
+
+[{"context_id":"aTTCaLxJ0qUNSsPeElVpYvGX","pageview_id":"BlctaDtwv4JE1PeiBcI4ARy6","event_id":"BlctaDtwv4JE1PeiBcI4ARy6","client_lib":"v1.0.5","sourceApp":"nyt-lire","how":"beacon","client_ts":1587230230535,"data":{"subject":"page","url":"https://myaccount.nytimes.com/auth/iframe/enter-email?response_type=cookie&client_id=freex&redirect_uri=https%3A%2F%2Fwww.nytimes.com%2Fsubscription%2Fmultiproduct%2Flp8KQUS.html%3FcampaignID%3D7QQFH%26EXIT_URI%3Dhttps%253A%252F%252Fwww.nytimes.com%252F2020%252F04%252F16%252Fus%252Fpolitics%252Ftrump-coronavirus-promises-fact-check.html&display=hubpage_lire&asset=RegiWall&campaign_id=CoronaVirus&application=Free_Experience&preloaded=true#lire-ui-135183","referrer":"https://www.nytimes.com/2020/04/16/us/politics/trump-coronavirus-promises-fact-check.html","client_tz_offset":-180,"is_iframe":true,"sourceApp":"nyt-lire"}}]

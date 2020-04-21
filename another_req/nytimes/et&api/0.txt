@@ -1,0 +1,54 @@
+POST https://et.nytimes.com/
+Host et.nytimes.com
+Connection keep-alive
+Content-Length 6418
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type text/plain;charset=UTF-8
+Accept */*
+Origin https://www.nytimes.com
+Sec-Fetch-Site same-site
+Sec-Fetch-Mode cors
+Referer https://www.nytimes.com/
+Accept-Encoding gzip, deflate, br
+Accept-Language ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie nyt-a=0yTYLfRMKQUBgzGZ81wbbq; nyt-gdpr=0; nyt-purr=cfhhcfh; nyt-geo=RU; sessionActive=true; sessionIndex=1|1587229318347|0yTYLfRMKQUBgzGZ81wbbq|1587229318347|true
+
+subject=ab-alloc&test=dfp_1p2&variant=2_fp&url=https%3A%2F%2Fwww.nytimes.com%2F&et2_pageview_id=pKK08EdvXf7-PsNm8YMELuUu&instant=1&skipAugment=true
+subject=ab-alloc&test=DFP_1p&variant=2_fp&url=https%3A%2F%2Fwww.nytimes.com%2F&et2_pageview_id=pKK08EdvXf7-PsNm8YMELuUu&instant=1&skipAugment=true
+subject=ab-alloc&test=dfp_adslot4v2&variant=1_external&url=https%3A%2F%2Fwww.nytimes.com%2F&et2_pageview_id=pKK08EdvXf7-PsNm8YMELuUu&instant=1&skipAugment=true
+subject=ab-alloc&test=DFP_als_home&variant=1_als&url=https%3A%2F%2Fwww.nytimes.com%2F&et2_pageview_id=pKK08EdvXf7-PsNm8YMELuUu&instant=1&skipAugment=true
+subject=ab-alloc&test=DFP_als&variant=1_als&url=https%3A%2F%2Fwww.nytimes.com%2F&et2_pageview_id=pKK08EdvXf7-PsNm8YMELuUu&instant=1&skipAugment=true
+subject=ab-alloc&test=DFP_amzn&variant=0_control&url=https%3A%2F%2Fwww.nytimes.com%2F&et2_pageview_id=pKK08EdvXf7-PsNm8YMELuUu&instant=1&skipAugment=true
+subject=ab-alloc&test=dfp_messaging_flexframe_ctr&variant=0_control&url=https%3A%2F%2Fwww.nytimes.com%2F&et2_pageview_id=pKK08EdvXf7-PsNm8YMELuUu&instant=1&skipAugment=true
+subject=ab-alloc&test=DFP_mt&variant=1_mt&url=https%3A%2F%2Fwww.nytimes.com%2F&et2_pageview_id=pKK08EdvXf7-PsNm8YMELuUu&instant=1&skipAugment=true
+subject=ab-alloc&test=HOME_timesExclusive&variant=0_control&url=https%3A%2F%2Fwww.nytimes.com%2F&et2_pageview_id=pKK08EdvXf7-PsNm8YMELuUu&instant=1&skipAugment=true
+subject=ab-alloc&test=INBOX_individualpage_redesign&variant=0_control&url=https%3A%2F%2Fwww.nytimes.com%2F&et2_pageview_id=pKK08EdvXf7-PsNm8YMELuUu&instant=1&skipAugment=true
+subject=ab-alloc&test=MAPS_fr_interests_block&variant=1_from_your_interests&url=https%3A%2F%2Fwww.nytimes.com%2F&et2_pageview_id=pKK08EdvXf7-PsNm8YMELuUu&instant=1&skipAugment=true
+subject=ab-alloc&test=MAPS_individual_redesign&variant=0_control&url=https%3A%2F%2Fwww.nytimes.com%2F&et2_pageview_id=pKK08EdvXf7-PsNm8YMELuUu&instant=1&skipAugment=true
+subject=ab-alloc&test=MC_DFP_topbar_bar_anon_1019&variant=0_control&url=https%3A%2F%2Fwww.nytimes.com%2F&et2_pageview_id=pKK08EdvXf7-PsNm8YMELuUu&instant=1&skipAugment=true
+subject=ab-alloc&test=MC_DFP_topbar_bar_regi_1019&variant=0_control&url=https%3A%2F%2Fwww.nytimes.com%2F&et2_pageview_id=pKK08EdvXf7-PsNm8YMELuUu&instant=1&skipAugment=true
+subject=ab-alloc&test=MKT_dfp_hd_paywall_zip&variant=1_zip&url=https%3A%2F%2Fwww.nytimes.com%2F&et2_pageview_id=pKK08EdvXf7-PsNm8YMELuUu&instant=1&skipAugment=true
+subject=ab-alloc&test=MKT_dfp_intl_pricing_low_conv&variant=1_25cents&url=https%3A%2F%2Fwww.nytimes.com%2F&et2_pageview_id=pKK08EdvXf7-PsNm8YMELuUu&instant=1&skipAugment=true
+subject=ab-alloc&test=MKT_dfp_intl_pricing_med_conv&variant=1_50cents&url=https%3A%2F%2Fwww.nytimes.com%2F&et2_pageview_id=pKK08EdvXf7-PsNm8YMELuUu&instant=1&skipAugment=true
+subject=ab-alloc&test=MKT_DFP_ods&variant=1_test&url=https%3A%2F%2Fwww.nytimes.com%2F&et2_pageview_id=pKK08EdvXf7-PsNm8YMELuUu&instant=1&skipAugment=true
+subject=ab-alloc&test=SA_Referral_DFP_April2020_Test&variant=1_yellow_evergreen&url=https%3A%2F%2Fwww.nytimes.com%2F&et2_pageview_id=pKK08EdvXf7-PsNm8YMELuUu&instant=1&skipAugment=true
+subject=ab-alloc&test=SEARCH_FACET_DROPDOWN&variant=0_FACET_MULTI_SELECT&url=https%3A%2F%2Fwww.nytimes.com%2F&et2_pageview_id=pKK08EdvXf7-PsNm8YMELuUu&instant=1&skipAugment=true
+subject=ab-alloc&test=STORY_intentional_links_v1&variant=0_control&url=https%3A%2F%2Fwww.nytimes.com%2F&et2_pageview_id=pKK08EdvXf7-PsNm8YMELuUu&instant=1&skipAugment=true
+subject=ab-alloc&test=STORY_MAPS_interest_collection&variant=0&url=https%3A%2F%2Fwww.nytimes.com%2F&et2_pageview_id=pKK08EdvXf7-PsNm8YMELuUu&instant=1&skipAugment=true
+subject=ab-alloc&test=STORY_MAPS_interest_with_digest&variant=0&url=https%3A%2F%2Fwww.nytimes.com%2F&et2_pageview_id=pKK08EdvXf7-PsNm8YMELuUu&instant=1&skipAugment=true
+subject=ab-alloc&test=STORY_topical_recirc&variant=1_variant&url=https%3A%2F%2Fwww.nytimes.com%2F&et2_pageview_id=pKK08EdvXf7-PsNm8YMELuUu&instant=1&skipAugment=true
+subject=ab-alloc&test=STYLN_coronavirus_alerts&variant=0&url=https%3A%2F%2Fwww.nytimes.com%2F&et2_pageview_id=pKK08EdvXf7-PsNm8YMELuUu&instant=1&skipAugment=true
+subject=ab-alloc&test=STYLN_coronavirus_briefing_alerts&variant=control&url=https%3A%2F%2Fwww.nytimes.com%2F&et2_pageview_id=pKK08EdvXf7-PsNm8YMELuUu&instant=1&skipAugment=true
+subject=ab-alloc&test=STYLN_elections_notifications&variant=1_elections_notifications&url=https%3A%2F%2Fwww.nytimes.com%2F&et2_pageview_id=pKK08EdvXf7-PsNm8YMELuUu&instant=1&skipAugment=true
+subject=ab-alloc&test=STYLN_fr_recirc_quantity_desktop&variant=0_control_fr_recirc_quantity_desktop&url=https%3A%2F%2Fwww.nytimes.com%2F&et2_pageview_id=pKK08EdvXf7-PsNm8YMELuUu&instant=1&skipAugment=true
+subject=ab-alloc&test=STYLN_homepage_service_module&variant=0&url=https%3A%2F%2Fwww.nytimes.com%2F&et2_pageview_id=pKK08EdvXf7-PsNm8YMELuUu&instant=1&skipAugment=true
+subject=ab-alloc&test=STYLN_latest_story&variant=0_control_STYLN_latest_story&url=https%3A%2F%2Fwww.nytimes.com%2F&et2_pageview_id=pKK08EdvXf7-PsNm8YMELuUu&instant=1&skipAugment=true
+subject=ab-alloc&test=STYLN_lb_newposts&variant=1_lb_newposts&url=https%3A%2F%2Fwww.nytimes.com%2F&et2_pageview_id=pKK08EdvXf7-PsNm8YMELuUu&instant=1&skipAugment=true
+subject=ab-alloc&test=STYLN_live_newupdates&variant=variant&url=https%3A%2F%2Fwww.nytimes.com%2F&et2_pageview_id=pKK08EdvXf7-PsNm8YMELuUu&instant=1&skipAugment=true
+subject=ab-alloc&test=STYLN_live_tabs&variant=2_body&url=https%3A%2F%2Fwww.nytimes.com%2F&et2_pageview_id=pKK08EdvXf7-PsNm8YMELuUu&instant=1&skipAugment=true
+subject=ab-alloc&test=STYLN_live_updates&variant=1_live_updates&url=https%3A%2F%2Fwww.nytimes.com%2F&et2_pageview_id=pKK08EdvXf7-PsNm8YMELuUu&instant=1&skipAugment=true
+subject=ab-alloc&test=STYLN_liveblog_email&variant=1_signup&url=https%3A%2F%2Fwww.nytimes.com%2F&et2_pageview_id=pKK08EdvXf7-PsNm8YMELuUu&instant=1&skipAugment=true
+subject=ab-alloc&test=STYLN_menu_coronavirus_live&variant=control&url=https%3A%2F%2Fwww.nytimes.com%2F&et2_pageview_id=pKK08EdvXf7-PsNm8YMELuUu&instant=1&skipAugment=true
+subject=ab-alloc&test=STYLN_pharmacy_components&variant=show&url=https%3A%2F%2Fwww.nytimes.com%2F&et2_pageview_id=pKK08EdvXf7-PsNm8YMELuUu&instant=1&skipAugment=true
+subject=ab-alloc&test=STYLN_remove_relatedlinks&variant=0_control_STYLN_remove_relatedlinks&url=https%3A%2F%2Fwww.nytimes.com%2F&et2_pageview_id=pKK08EdvXf7-PsNm8YMELuUu&instant=1&skipAugment=true

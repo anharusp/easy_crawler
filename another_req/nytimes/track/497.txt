@@ -1,0 +1,7 @@
+POST https://hbxlp.media.net/log
+Referer https://www.nytimes.com/2020/04/16/us/politics/latinos-coronavirus-trump.html
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type text/plain;charset=UTF-8
+
+logid=kfk&evtid=belog&pid=8PRL4E7N3&itype=HB&dn=nytimes.com&cid=8CU2553YN&svr=2020041612_790&servname=c8-web-23&gdpr=0&csex=2&csstr=&tcf_cmp=&tcf_status=&tcf_prp=&usp_status=0&usp_enf=1&usp_string=&ufca=&usp_ldf=&ugd=4&adt=desktop&vid=00001587230070536014319286093357&vsid=2302309182860962&sd=24&gtd=401&inid=0&gfd=400&cc=RU&sc=&ct=MOSCOW&abte=CONTROL&adbd=0&amp=0&version=0&sB=true&cors=true&disB=false&ice=1&vw=785&vh=600&pht=857&cl=0&__rk=0&app=0&rtype=&vendor=Google%20Inc.&isSafari=0&name=RTBS_REQUEST_RESPONSE_COUNT_MISMATCH&stack=6%7C0%7C11546&crid=&dfpDiv=&pvid=&dfpBd=&lid=&tref=false&rfc=&cpr=568.1304322732385&lvl=2&requrl=https%3A%2F%2Fwww.nytimes.com%2F2020%2F04%2F16%2Fus%2Fpolitics%2Flatinos-coronavirus-trump.html&kwrf=https%3A%2F%2Fwww.nytimes.com&epurl=https%3A%2F%2Fwww.nytimes.com%2F

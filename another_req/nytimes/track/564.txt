@@ -1,0 +1,7 @@
+POST https://a.et.nytimes.com/track
+Referer https://www.nytimes.com/section/corrections
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type text/plain;charset=UTF-8
+
+[{"context_id":"46e-CiVr7lA81L57rRSqIflW","pageview_id":"Hm41WIrvRFlG7jzA5IT00PX5","event_id":"Hm41WIrvRFlG7jzA5IT00PX5","client_lib":"v1.0.6","sourceApp":"nyt-vi","how":"beacon","client_ts":1587230204222,"data":{"subject":"page","canonicalUrl":"https://www.nytimes.com/section/corrections","url":"https://www.nytimes.com/section/corrections","referrer":"https://www.nytimes.com/news-event/2020-election","client_tz_offset":-180,"sourceApp":"nyt-vi"}}]

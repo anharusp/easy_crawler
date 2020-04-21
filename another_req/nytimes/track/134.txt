@@ -1,0 +1,7 @@
+POST https://a.et.nytimes.com/track
+Referer https://www.nytimes.com/2020/04/18/us/coronavirus-updates.html?action=click&module=Spotlight&pgtype=Homepage
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type text/plain;charset=UTF-8
+
+[{"context_id":"LmK4dQiBgL6iRfhSz_vqqt-6","pageview_id":"ioj5ksIDIbTsO7-TRzXjWc0i","event_id":"VxHR14hb4KCwWGkeSY5AXf_d","client_lib":"v1.0.6","sourceApp":"nyt-vi","how":"beacon","client_ts":1587229568998,"data":{"subject":"page_update","viewport":{"scrollTop":23443,"height":600,"width":800,"documentHeight":26331,"activeTime":30000},"gtm":"GTM-P528B3-368-Production","sourceApp":"nyt-vi"}},{"context_id":"LmK4dQiBgL6iRfhSz_vqqt-6","pageview_id":"ioj5ksIDIbTsO7-TRzXjWc0i","event_id":"PXI7pLAxaeE7sgq2oLUyQtYk","client_lib":"v1.0.6","sourceApp":"nyt-vi","how":"beacon","client_ts":1587229570867,"data":{"event":"impression","moduleObj":{"name":"styln-coronavirus","label":"show","region":"BELOW_MAIN_CONTENT","context":"storyline_faq"},"subject":"impression","gtm":"GTM-P528B3-368-Production","sourceApp":"nyt-vi"}},{"context_id":"LmK4dQiBgL6iRfhSz_vqqt-6","pageview_id":"ioj5ksIDIbTsO7-TRzXjWc0i","event_id":"UQNUyCGx4LwqFkd8JYqYSCjS","client_lib":"v1.0.6","sourceApp":"nyt-vi","how":"beacon","client_ts":1587229570939,"data":{"event":"impression","moduleObj":{"region":"article_complete","name":"article_complete","context":"","label":""},"subject":"impression","gtm":"GTM-P528B3-368-Production","sourceApp":"nyt-vi"}}]

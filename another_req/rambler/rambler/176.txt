@@ -1,0 +1,7 @@
+POST https://weekend.rambler.ru/clicks/
+Referer https://weekend.rambler.ru/read/44043635-muzhchina-nashel-na-shosse-sobaku-s-trogatelnoy-zapiskoy-i-rasplakalsya/?utm_source=head&utm_campaign=self_promo&utm_medium=news&utm_content=news
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type application/x-www-form-urlencoded
+
+id=44043635

@@ -1,0 +1,7 @@
+POST https://pagead2.googlesyndication.com/pcs/activeview?xai=AKAOjss5f6FM83UVZ-v0i39FcUZx5y9wftifMe_YJpZkJ2Vo8t7cg450y5LXK4HU34WH98do7TYlm-hWoLzhHYwwlKLZKJVgOeKn1mJ0IZRtGmYCTcie5dGjDliiujquA3d2YJKYeNL6bYKh8Ei54Mef_A&sai=AMfl-YRiHYZ5C6rrprUmw7L5f9av3wSRNQKXSzignbcO7KukXU8eSwDnd8nkyu1GUcCIOTW0gZCYdUBALCiwtfRYZ6Xgvl4Ctr86igpB5uMXNFPaFLtd69nbb0V0It7W&sig=Cg0ArKJSzPEhdbW-MN0mEAE&cid=CAASEuRoRw6PkdREKXX0DqVUOeEErQ&id=ampeos&o=0,181&d=787,204&ss=1920,1080&bs=800,600&mcvt=8840&mtos=0,0,8840,8840,8840&tos=0,0,9316,0,0&tfs=300&tls=10182&g=52.806639671325684&h=99.74586963653564&pt=142&tt=10182&rpt=142&rst=1587229345498&r=de&isd=inside&msd=top&avms=ampa
+Referer https://www.nytimes.com/
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type text/plain;charset=UTF-8
+
+undefined

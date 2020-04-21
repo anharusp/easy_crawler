@@ -1,0 +1,7 @@
+POST https://top-fwz1.mail.ru/counter?js=13;id=2686816;u=https%3A//www.ozon.ru/highlight/44764/%3Fcategory%3D15116;r=https%3A//www.ozon.ru/highlight/44764/%3Fcategory%3D15073;st=1587296228344;title=OZON.ru;s=1920*1080;vp=785*585;touch=0;hds=1;flash=;sid=c63bd77c5a72e89c;ver=60.1.0;tz=-180%2FEurope%2FMoscow;ni=10//4g/50/0/;detect=0;lvid=1587296229758%3A1587296281898%3A16%3A1bb26a8eb2fd055fbf57d462609581ac;opts=dl;_=0.6226637037128395
+Referer https://www.ozon.ru/highlight/44764/?category=15116
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type text/plain;charset=UTF-8
+
+undefined

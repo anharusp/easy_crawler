@@ -1,0 +1,10 @@
+POST https://www.perekrestok.ru/cart/put
+Accept application/json, text/plain, */*
+Referer https://www.perekrestok.ru/cart
+Sec-Fetch-Dest empty
+X-XSRF-TOKEN eyJpdiI6InViVEUzSElqVmJjUFc3TVN2dWQwblE9PSIsInZhbHVlIjoiNE83Z0FvR0dBVkZ2ZHhrcnZ4Z3RjYVwvcWNMYlZUMTA3MFErK2tFTGhOK0NpNlhNS09uVDhJSzRqTnllQnNQTjM1WEc4bGd5aGs5XC96dzVmSkRQa3F4QT09IiwibWFjIjoiOGRjMGM5MDE5ZTk4OTdjMDE3MmM1MjAzODU1ZWE3ZmIwZDU3MmIwYjk0MTE5YWI0YTE2OTExZDcyNzczNGE3YiJ9
+X-Requested-With XMLHttpRequest
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type application/json;charset=UTF-8
+
+{"ajax":true,"count":{"304640":1,"306616":37,"306678":8,"308591":30,"310793":7,"346425":6,"441944":3,"446876":5,"520633":12,"668065":6,"685981":1},"package":{"304640":0,"306616":1,"306678":0,"308591":1,"310793":0,"346425":0,"441944":0,"446876":0,"520633":0,"668065":0,"685981":0}}

@@ -1,0 +1,20 @@
+POST https://www.youtube.com/youtubei/v1/feedback?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8
+:method POST
+:authority www.youtube.com
+:scheme https
+:path /youtubei/v1/feedback?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8
+content-length 850
+sec-fetch-dest empty
+user-agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+x-goog-visitor-id CgtnLUFhU25HT3JzSSjIxPX0BQ%3D%3D
+content-type application/json
+accept */*
+origin https://www.youtube.com
+sec-fetch-site same-origin
+sec-fetch-mode same-origin
+referer https://www.youtube.com/user/KuplinovPlay/community
+accept-encoding gzip, deflate, br
+accept-language ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+cookie GPS=1; YSC=O3JXDkjQmx8; VISITOR_INFO1_LIVE=g-AaSnGOrsI
+
+{"context":{"client":{"hl":"ru","gl":"RU","visitorData":"CgtnLUFhU25HT3JzSSjDxPX0BQ%3D%3D","userAgent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36,gzip(gfe)","clientName":"WEB","clientVersion":"2.20200417.04.01","osName":"X11","browserName":"Chrome","browserVersion":"80.0.3987.0","screenWidthPoints":800,"screenHeightPoints":600,"screenPixelDensity":1,"utcOffsetMinutes":180,"userInterfaceTheme":"USER_INTERFACE_THEME_LIGHT"},"request":{"internalExperimentFlags":[],"consistencyTokenJars":[]},"user":{},"clientScreenNonce":"SGKdXpnaI7j37QSMkqv4Bw"},"feedbackTokens":["AB9zfpIxio1PcnitzHWA98yAa2DHk3ZLvVMWoKiYwS4gWAFS-b2VB1zTQzhQzSWTtfcjcHG46ODhb5Lb4m1g6ahNLph_FqhYxxP8Z80Id7DuI0lC3nW1ZlNubot7qbFI98YWLid58d-gJv0yE-WSTYykYGGUa3DKdg"],"isFeedbackTokenUnencrypted":false,"shouldMerge":false}

@@ -1,0 +1,22 @@
+POST https://www.facebook.com/tr/
+:method POST
+:authority www.facebook.com
+:scheme https
+:path /tr/
+content-length 3135
+cache-control max-age=0
+origin https://www.skyscanner.ru
+upgrade-insecure-requests 1
+content-type application/x-www-form-urlencoded
+user-agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+sec-fetch-dest iframe
+accept text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+sec-fetch-site cross-site
+sec-fetch-mode navigate
+sec-fetch-user ?1
+referer https://www.skyscanner.ru/
+accept-encoding gzip, deflate, br
+accept-language ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+cookie fr=0cBwpyqpgtPl3daM4..BenIR0..F6c.1.0.BenIR0.
+
+id=561358470665569&ev=SubscribedButtonClick&dl=https%3A%2F%2Fwww.skyscanner.ru%2F&rl=&if=false&ts=1587315907904&cd%5BbuttonFeatures%5D=%7B%22classList%22%3A%22BpkButtonBase_bpk-button__1pnhi+BpkButtonBase_bpk-button--large__24bi-+App_submit-button__3OawW+App_submit-button-oneline__23Etl%22%2C%22destination%22%3A%22https%3A%2F%2Fwww.skyscanner.ru%2F%22%2C%22id%22%3A%22%22%2C%22imageUrl%22%3A%22%22%2C%22innerText%22%3A%22H%D0%B0%D0%B9%D1%82%D0%B8+%D0%B1%D0%B8%D0%BB%D0%B5%D1%82%D1%8B+%22%2C%22numChildButtons%22%3A0%2C%22tag%22%3A%22button%22%2C%22name%22%3A%22%22%2C%22value%22%3A%22%22%7D&cd%5BbuttonText%5D=H%D0%B0%D0%B9%D1%82%D0%B8+%D0%B1%D0%B8%D0%BB%D0%B5%D1%82%D1%8B+&cd%5BformFeatures%5D=%5B%7B%22id%22%3A%22fsc-trip-type-selector-return%22%2C%22name%22%3A%22trip-type-selector%22%2C%22tag%22%3A%22input%22%2C%22inputType%22%3A%22radio%22%7D%2C%7B%22id%22%3A%22fsc-trip-type-selector-one-way%22%2C%22name%22%3A%22trip-type-selector%22%2C%22tag%22%3A%22input%22%2C%22inputType%22%3A%22radio%22%7D%2C%7B%22id%22%3A%22fsc-trip-type-selector-multi-destination%22%2C%22name%22%3A%22trip-type-selector%22%2C%22tag%22%3A%22input%22%2C%22inputType%22%3A%22radio%22%7D%2C%7B%22id%22%3A%22fsc-origin-search%22%2C%22name%22%3A%22fsc-origin-search%22%2C%22tag%22%3A%22input%22%2C%22placeholder%22%3A%22%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B0%2C+%D0%B3%D0%BE%D1%80%D0%BE%D0%B4+%D0%B8%D0%BB%D0%B8+%D0%B0%D1%8D%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82%22%2C%22inputType%22%3A%22text%22%7D%2C%7B%22id%22%3A%22%22%2C%22name%22%3A%22originFlexible%22%2C%22tag%22%3A%22input%22%2C%22inputType%22%3A%22checkbox%22%7D%2C%7B%22id%22%3A%22%22%2C%22name%22%3A%22%22%2C%22tag%22%3A%22button%22%7D%2C%7B%22id%22%3A%22fsc-destination-search%22%2C%22name%22%3A%22fsc-destination-search%22%2C%22tag%22%3A%22input%22%2C%22placeholder%22%3A%22%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B0%2C+%D0%B3%D0%BE%D1%80%D0%BE%D0%B4+%D0%B8%D0%BB%D0%B8+%D0%B0%D1%8D%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82%22%2C%22inputType%22%3A%22text%22%7D%2C%7B%22id%22%3A%22%22%2C%22name%22%3A%22destinationFlexible%22%2C%22tag%22%3A%22input%22%2C%22inputType%22%3A%22checkbox%22%7D%2C%7B%22id%22%3A%22depart-fsc-datepicker-button%22%2C%22name%22%3A%22%22%2C%22tag%22%3A%22button%22%7D%2C%7B%22id%22%3A%22return-fsc-datepicker-button%22%2C%22name%22%3A%22%22%2C%22tag%22%3A%22button%22%7D%2C%7B%22id%22%3A%22CabinClassTravellersSelector_fsc-class-travellers-trigger__1qSiF%22%2C%22name%22%3A%22class-travellers-trigger%22%2C%22tag%22%3A%22button%22%7D%2C%7B%22id%22%3A%22%22%2C%22name%22%3A%22directOnly%22%2C%22tag%22%3A%22input%22%2C%22inputType%22%3A%22checkbox%22%7D%5D&cd%5BpageFeatures%5D=%7B%22title%22%3A%22%D0%94%D0%B5%D1%88%D0%B5%D0%B2%D1%8B%D0%B5+%D0%B0%D0%B2%D0%B8%D0%B0%D0%B1%D0%B8%D0%BB%D0%B5%D1%82%D1%8B+%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD%3A+%D0%BF%D0%BE%D0%B8%D1%81%D0%BA+%D0%B8+%D1%81%D1%80%D0%B0%D0%B2%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5+%D1%86%D0%B5%D0%BD+%D0%BD%D0%B0+%D0%B1%D0%B8%D0%BB%D0%B5%D1%82%D1%8B+-+Skyscanner+%22%7D&cd%5Bparameters%5D=%5B%5D&sw=1920&sh=1080&v=2.9.15&r=stable&ec=2&o=30&fbp=fb.1.1587315828710.863091432&it=1587315828499&coo=false&es=automatic&tm=3&rqm=formPOST

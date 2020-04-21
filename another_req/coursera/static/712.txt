@@ -1,0 +1,7 @@
+POST https://vc.hotjar.io/views/469298?s=0.25
+Referer https://www.coursera.org/professional-certificates/google-it-support
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type text/plain
+
+undefined

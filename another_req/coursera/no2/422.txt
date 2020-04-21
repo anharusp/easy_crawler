@@ -1,0 +1,21 @@
+POST https://www.coursera.org/graphqlBatch?opname=PartnerListingHeaderStatsQuery
+:method POST
+:authority www.coursera.org
+:scheme https
+:path /graphqlBatch?opname=PartnerListingHeaderStatsQuery
+content-length 294
+accept */*
+sec-fetch-dest empty
+r2-app-version d273c5102bbc2cc059de7b2cfe0b71e118123df2
+user-agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+operation-name PartnerListingHeaderStatsQuery
+content-type application/json
+origin https://www.coursera.org
+sec-fetch-site same-origin
+sec-fetch-mode cors
+referer https://www.coursera.org/about/partners
+accept-encoding gzip, deflate, br
+accept-language ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+cookie CSRF3-Token=1588072357.K0GJfrvDVe40bquf; __204u=3279858587-1587208357347; __204r=; __400v=98ca0175-482f-462d-bf70-a33bd38b5f19; _ga=GA1.2.1691686412.1587208359; _gid=GA1.2.1945633046.1587208359; _gd_visitor=5e873043-9dd8-420f-8c23-81a0d48f226f; _gd_session=b03aab4c-d1a8-4e82-80c0-e60485039987; _fbp=fb.1.1587208359219.2024235120; _gd_svisitor=4d1f1602f73e0000a7e09a5e35000000dd5e0100; maId={"cid":"ee2371d08004a5f0b7512d7d641ac3ec","sid":"c89b1d2f-3e5b-4ef2-bf0d-987ae3b493e7","isSidSaved":true,"sessionStart":"2020-04-18T11:12:39.000Z"}; __adroll_fpc=05a97eb481ec47ecf0485bf6ea7832a3-1587208365283; _hjid=f3b8d0d4-b5e5-4d0e-99bd-4ca7ffc88f90; _dc_gtm_UA-28377374-1=1; _dc_gtm_UA-86370891-1=1; _uetsid=_uet3b863ac7-29d1-ba39-1937-00fa80591ae0; _tq_id.TV-63455409-1.39ed=4f08826157f61a26.1587208359.0.1587208737..; stc113717=tsa:1587208365210.1340974541.7103577.44638949274998985:20200418114856|env:1%7C20200519111245%7C20200418114856%7C35%7C1030880:20210418111856|uid:1587208365210.354400231.6202531.113717.269751842.3:20210418111856|srchist:1030880%3A1%3A20200519111245:20210418111856; __ar_v4=AMNEINFG7NFARPVLM7GV2K%3A20200418%3A35%7C7VNBYGWF3BE5DKOOGWWP2Z%3A20200418%3A35%7CEFLOYRV5JRB3ZIZXJZ5MP7%3A20200418%3A35; __400vt=1587208759566
+
+[{"operationName":"PartnerListingHeaderStatsQuery","variables":{},"query":"query PartnerListingHeaderStatsQuery {\n  StatsV1Resource {\n    getAll(limit: 1) {\n      elements {\n        partners\n        courses\n        __typename\n      }\n      __typename\n    }\n    __typename\n  }\n}\n"}]

@@ -1,0 +1,7 @@
+POST https://top-fwz1.mail.ru/counter?js=13;id=2686816;u=https%3A//www.ozon.ru/context/detail/id/159140318/%3Fadvert%3Dd2nC7N4NyPT5FpnRmqKxRQMzXiA5zRKQBnBt5sadugLgN_R0pfhuvkEJ2oovY1wdTcoBW61Vp4vtSWUvWur5oup-SVTpXKbZsKWeamcKP0TuAP1Vh2ywiPCaMBguwA_ObzksjKHx_FKcA3KpbQ%26hs%3D1;r=https%3A//www.ozon.ru/context/detail/id/152312299/%3Fstat%3DYW5fNw%253D%253D;st=1587298290926;title=USB%20%D0%B0%D0%BA%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D0%B1%D0%B0%D1%82%D0%B0%D1%80%D0%B5%D0%B9%D0%BA%D0%B0;s=1920*1080;vp=785*585;touch=0;hds=1;flash=;sid=c07332dc0bdc61d6;ver=60.1.0;tz=-180%2FEurope%2FMoscow;ni=10//4g/50/0/;detect=0;lvid=1587298201583%3A1587301720968%3A103%3A6dead8d27e3f49b881b57cd59ee04ee8;opts=dl;_=0.4916054520181605
+Referer https://www.ozon.ru/context/detail/id/159140318/?advert=d2nC7N4NyPT5FpnRmqKxRQMzXiA5zRKQBnBt5sadugLgN_R0pfhuvkEJ2oovY1wdTcoBW61Vp4vtSWUvWur5oup-SVTpXKbZsKWeamcKP0TuAP1Vh2ywiPCaMBguwA_ObzksjKHx_FKcA3KpbQ&hs=1
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type text/plain;charset=UTF-8
+
+undefined

@@ -1,0 +1,7 @@
+POST https://a.et.nytimes.com/track
+Referer https://www.nytimes.com/2020/04/18/us/coronavirus-updates.html
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type text/plain;charset=UTF-8
+
+[{"context_id":"McroSEYKAr78MDpDf_yd2M7H","pageview_id":"qi-HAeN0zGZmmMn1_sDNlSk7","event_id":"mujL2i8uFfX7p0SiySCvFa9h","client_lib":"v1.0.6","sourceApp":"nyt-vi","how":"beacon","client_ts":1587229595955,"data":{"subject":"ab_expose","test":"STYLN_coronavirus_briefing_alerts","variant":"variant","gtm":"GTM-P528B3-368-Production","sourceApp":"nyt-vi"}}]

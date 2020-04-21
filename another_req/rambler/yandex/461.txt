@@ -1,0 +1,23 @@
+POST https://mc.yandex.ru/webvisor/25662845?wmode=0&rn=448333537&page-url=https%3A%2F%2Fnews.rambler.ru%2Fcommunity%2F44045696-g-m-zakidayut-makarevich-oskorbil-rossiyan%2F%3Futm_source%3Dhead%26utm_campaign%3Dself_promo%26utm_medium%3Dnews%26utm_content%3Dnews&wv-type=5&wv-hit=788416399&wv-part=1&browser-info=ti%3A8%3Aet%3A1587371593%3Aw%3A785x600%3Av%3A1853%3Az%3A180%3Ai%3A20200420113312%3Ast%3A1587371595%3Au%3A1587371237691198303%3App%3A3629563401
+Host mc.yandex.ru
+Connection keep-alive
+Content-Length 364
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type text/plain
+Accept */*
+Origin https://news.rambler.ru
+Sec-Fetch-Site cross-site
+Sec-Fetch-Mode cors
+Referer https://news.rambler.ru/community/44045696-g-m-zakidayut-makarevich-oskorbil-rossiyan/?utm_source=head&utm_campaign=self_promo&utm_medium=news&utm_content=news
+Accept-Encoding gzip, deflate, br
+Accept-Language ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie yuidss=70307391587371236; yandexuid=70307391587371236; yabs-sid=1880803411587371237; i=4zTrgMiZsIow6FLwBw4K7Ef9zq06EctqGG2AgexPtzsowkWBQrZnqgGxkCC1t/uRFKavc7Z2iB0VlI9JxGOLb9CTrm8=; ymex=1902731237.yrts.1587371237#1902731237.yrtsi.1587371237
+
+
+¿Ü	¹"¶Ê¾òßVhttps://news.rambler.ru/community/44045696-g-m-zakidayut-makarevich-oskorbil-rossiyan/RÂ«Ð****Ð¼Â Ð·Ð°ÐºÐ¸Ð´Ð°ÑÑÂ»: ÐÐ°ÐºÐ°ÑÐµÐ²Ð¸Ñ Ð¾ÑÐºÐ¾ÑÐ±Ð¸Ð» ÑÐ¾ÑÑÐ¸ÑÐ½"
+Ð Ð°Ð¼Ð±Ð»ÐµÑ/Ð½Ð¾Ð²Ð¾ÑÑÐ¸*
+ÐÐ±ÑÐµÑÑÐ²Ð¾22020-04-20T09:25:12+03:008ñB
+ÐÐ±ÑÐµÑÑÐ²Ð¾J2020-04-20T09:53:09+03:00
+(´#*!
+Ê¾òß	® (É0Á$=RI?@ñû0

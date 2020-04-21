@@ -1,0 +1,7 @@
+POST https://hbxlp.media.net/log
+Referer https://www.nytimes.com/news-event/2020-election
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type text/plain;charset=UTF-8
+
+logid=kfk&evtid=belog&pid=8PRL4E7N3&itype=HB&dn=nytimes.com&cid=8CU2553YN&svr=2020041612_790&servname=c8-web-23&gdpr=0&csex=2&csstr=&tcf_cmp=&tcf_status=&tcf_prp=&usp_status=0&usp_enf=1&usp_string=&ufca=&usp_ldf=&ugd=4&adt=desktop&vid=00001587230090214014319286092406&vsid=2302309182860962&sd=25&gtd=401&inid=0&gfd=400&cc=RU&sc=&ct=MOSCOW&abte=CONTROL&adbd=0&amp=0&version=0&sB=true&cors=true&disB=false&ice=1&vw=785&vh=600&pht=4454&cl=0&__rk=0&app=0&rtype=&vendor=Google%20Inc.&isSafari=0&name=RTBS_REQUEST_RESPONSE_COUNT_MISMATCH&stack=3%7C0%7C11796&crid=&dfpDiv=&pvid=&dfpBd=&lid=&tref=false&rfc=&cpr=629.4766115207293&lvl=2&requrl=https%3A%2F%2Fwww.nytimes.com%2Fnews-event%2F2020-election&kwrf=https%3A%2F%2Fwww.nytimes.com&epurl=https%3A%2F%2Fwww.nytimes.com%2F

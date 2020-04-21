@@ -1,0 +1,18 @@
+POST https://api-js.mixpanel.com/track/?ip=1&_=1587315826394
+:method POST
+:authority api-js.mixpanel.com
+:scheme https
+:path /track/?ip=1&_=1587315826394
+content-length 861
+sec-fetch-dest empty
+user-agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+content-type application/x-www-form-urlencoded
+accept */*
+origin https://www.skyscanner.ru
+sec-fetch-site cross-site
+sec-fetch-mode cors
+referer https://www.skyscanner.ru/
+accept-encoding gzip, deflate, br
+accept-language ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiTGludXgiLCIkYnJvd3NlciI6ICJDaHJvbWUiLCIkY3VycmVudF91cmwiOiAiaHR0cHM6Ly93d3cuc2t5c2Nhbm5lci5ydS8iLCIkYnJvd3Nlcl92ZXJzaW9uIjogODAsIiRzY3JlZW5faGVpZ2h0IjogMTA4MCwiJHNjcmVlbl93aWR0aCI6IDE5MjAsIm1wX2xpYiI6ICJ3ZWIiLCIkbGliX3ZlcnNpb24iOiAiMi4zNS4wIiwiJGluc2VydF9pZCI6ICJ4YmNpbmZyYmJ4OTV5NXN3IiwidGltZSI6IDE1ODczMTU4MjYuMzk0LCJkaXN0aW5jdF9pZCI6ICIxNzE5MzY1NWVjNDE3NC0wNzk4N2NiMTdjNDMyZC02YjJiN2EyNi0xZmE0MDAtMTcxOTM2NTVlYzVjYjkiLCIkZGV2aWNlX2lkIjogIjE3MTkzNjU1ZWM0MTc0LTA3OTg3Y2IxN2M0MzJkLTZiMmI3YTI2LTFmYTQwMC0xNzE5MzY1NWVjNWNiOSIsIiRpbml0aWFsX3JlZmVycmVyIjogIiRkaXJlY3QiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogIiRkaXJlY3QiLCJtcF9wYWdlIjogImh0dHBzOi8vd3d3LnNreXNjYW5uZXIucnUvIiwibXBfYnJvd3NlciI6ICJDaHJvbWUiLCJtcF9wbGF0Zm9ybSI6ICJMaW51eCIsInRva2VuIjogIjI0MzQ3NDg5NTRjMzBjY2M1MDE3ZmFhNDU2ZmEzZDM4In19

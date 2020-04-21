@@ -1,0 +1,7 @@
+POST https://a.et.nytimes.com/track
+Referer https://www.nytimes.com/2020/04/17/sports/hockey/rangers-kandre-miller-zoom-racism.html
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type text/plain;charset=UTF-8
+
+[{"context_id":"WXwLPElwbt82lSfAAIHkokpj","pageview_id":"nwTLGMYQCFQlTRcdjLhVZjpk","event_id":"iyIOSEEE0viJ3GnjyKFGfnm6","client_lib":"v1.0.6","sourceApp":"nyt-vi","how":"beacon","client_ts":1587230196638,"data":{"subject":"page_update","performance":{"first-paint":362,"first-contentful-paint":362,"appRenderTime":355},"gtm":"GTM-P528B3-368-Production","sourceApp":"nyt-vi"}},{"context_id":"WXwLPElwbt82lSfAAIHkokpj","pageview_id":"nwTLGMYQCFQlTRcdjLhVZjpk","event_id":"-GGh65IuwHpOG84xQ6AwoCkF","client_lib":"v1.0.6","sourceApp":"nyt-vi","how":"beacon","client_ts":1587230196712,"data":{"event":"impression","moduleObj":{"name":"RegiWall","label":"FREEX_Redbird_Rollout","region":"1","context":""},"subject":"impression","gtm":"GTM-P528B3-368-Production","sourceApp":"nyt-vi"}},{"context_id":"WXwLPElwbt82lSfAAIHkokpj","pageview_id":"nwTLGMYQCFQlTRcdjLhVZjpk","event_id":"KUO7gTquf80peQLwz0Xy97L9","client_lib":"v1.0.6","sourceApp":"nyt-vi","how":"beacon","client_ts":1587230196799,"data":{"event":"impression","moduleObj":{"name":"meter","context":"eae06a2","label":"1","region":"false"},"priority":true,"subject":"impression","gtm":"GTM-P528B3-368-Production","sourceApp":"nyt-vi"}}]

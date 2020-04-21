@@ -1,0 +1,7 @@
+POST https://mc.yandex.ru/watch/140541?wmode=7&cnt-class=1&nohit=1&page-ref=https%3A%2F%2Fwww.rambler.ru%2F&page-url=https%3A%2F%2Fnews.rambler.ru%2Fweapon%2F44046152-tank-t-14-armata-proshel-ispytaniya-v-sirii%2F%3Futm_source%3Dhead%26utm_campaign%3Dself_promo%26utm_medium%3Dnews%26utm_content%3Dnews&charset=utf-8&browser-info=ti%3A10%3Adp%3A0%3Ans%3A1587371292816%3As%3A1920x1080x24%3Ask%3A1%3Ahdl%3A1%3Aadb%3A2%3Afpr%3A207118962501%3Acn%3A5%3Aw%3A785x600%3Az%3A180%3Ai%3A20200420112813%3Aet%3A1587371294%3Aen%3Autf-8%3Ac%3A1%3Ala%3Aru-ru%3Aad%3A1%3Apv%3A1%3Als%3A572330167571%3Arn%3A856147858%3Ahid%3A478441967%3Agdpr%3A14%3Av%3A1853%3Awv%3A2%3Arqnl%3A1%3Ast%3A1587371294%3Au%3A1587371237691198303%3App%3A3629563401%3At%3A%D0%A2%D0%B0%D0%BD%D0%BA%20%D0%A2-14%C2%A0%C2%AB%D0%90%D1%80%D0%BC%D0%B0%D1%82%D0%B0%C2%BB%20%D0%BF%D1%80%D0%BE%D1%88%D0%B5%D0%BB%20%D0%B8%D1%81%D0%BF%D1%8B%D1%82%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%B2%C2%A0%D0%A1%D0%B8%D1%80%D0%B8%D0%B8%20%E2%80%94%20%D0%A0%D0%B0%D0%BC%D0%B1%D0%BB%D0%B5%D1%80%2F%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8
+Referer https://news.rambler.ru/weapon/44046152-tank-t-14-armata-proshel-ispytaniya-v-sirii/?utm_source=head&utm_campaign=self_promo&utm_medium=news&utm_content=news
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type application/x-www-form-urlencoded
+
+undefined

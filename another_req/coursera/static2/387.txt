@@ -1,0 +1,21 @@
+POST https://www.facebook.com/tr/
+:method POST
+:authority www.facebook.com
+:scheme https
+:path /tr/
+content-length 1850
+cache-control max-age=0
+origin https://www.coursera.org
+upgrade-insecure-requests 1
+content-type application/x-www-form-urlencoded
+user-agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+sec-fetch-dest iframe
+accept text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+sec-fetch-site cross-site
+sec-fetch-mode navigate
+referer https://www.coursera.org/learn/big-data-services
+accept-encoding gzip, deflate, br
+accept-language ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+cookie fr=0C6yoC1A1DNluhlIp..BemuCn..F6a.1.0.BemuCn.
+
+id=946401778754875&ev=Microdata&dl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fbig-data-services&rl=https%3A%2F%2Fwww.coursera.org%2Fyandex&if=false&ts=1587208666510&cd%5BDataLayer%5D=%5B%5D&cd%5BMeta%5D=%7B%22title%22%3A%22Big+Data+Services%3A+Capstone+Project+%7C+Coursera%22%2C%22meta%3Adescription%22%3A%22Learn+Big+Data+Services%3A+Capstone+Project+from+%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81.+Are+you+ready+to+close+the+loop+on+your+Big+Data+skills%3F+Do+you+want+to+apply+all+your+knowledge+you+got+from+the+previous+courses+in+practice%3F+Finally%2C+in+the+Capstone+project%2C+you+will+...%22%7D&cd%5BOpenGraph%5D=%7B%22og%3Asite_name%22%3A%22Coursera%22%2C%22og%3Aurl%22%3A%22https%3A%2F%2Fwww.coursera.org%2Flearn%2Fbig-data-services%22%2C%22og%3Alocale%22%3A%22en_US%22%2C%22og%3Atype%22%3A%22website%22%2C%22og%3Atitle%22%3A%22Big+Data+Services%3A+Capstone+Project+%7C+Coursera%22%2C%22og%3Adescription%22%3A%22Learn+Big+Data+Services%3A+Capstone+Project+from+%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81.+Are+you+ready+to+close+the+loop+on+your+Big+Data+skills%3F+Do+you+want+to+apply+all+your+knowledge+you+got+from+the+previous+courses+in+practice%3F+Finally%2C+in+the+Capstone+project%2C+you+will+...%22%2C%22og%3Aimage%22%3A%22https%3A%2F%2Fs3.amazonaws.com%2Fcoursera%2Fmedia%2FPartner_Logos.png%22%2C%22twitter%3Atitle%22%3A%22Big+Data+Services%3A+Capstone+Project+%7C+Coursera%22%2C%22twitter%3Adescription%22%3A%22Learn+Big+Data+Services%3A+Capstone+Project+from+%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81.+...%22%2C%22twitter%3Aimage%3Asrc%22%3A%22https%3A%2F%2Fs3.amazonaws.com%2Fcoursera%2Fmedia%2FPartner_Logos.png%22%2C%22twitter%3Acard%22%3A%22summary%22%7D&cd%5BSchema.org%5D=%5B%5D&cd%5BJSON-LD%5D=%5B%5D&sw=1920&sh=1080&v=2.9.15&r=stable&ec=1&o=30&fbp=fb.1.1587208359219.2024235120&it=1587208665602&coo=false&es=automatic&tm=3&rqm=formPOST

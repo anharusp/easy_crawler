@@ -1,0 +1,16 @@
+POST https://6852bd07.akstat.io/
+Host 6852bd07.akstat.io
+Connection keep-alive
+Content-Length 4761
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type application/x-www-form-urlencoded
+Accept */*
+Origin https://www.skyscanner.ru
+Sec-Fetch-Site cross-site
+Sec-Fetch-Mode no-cors
+Referer https://www.skyscanner.ru/transport/flights-from/mosc/200424/200501/?adults=1&children=0&adultsv2=1&childrenv2=&infants=0&cabinclass=economy&rtn=1&preferdirects=false&outboundaltsenabled=false&inboundaltsenabled=false&ref=home
+Accept-Encoding gzip, deflate, br
+Accept-Language ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+undefined

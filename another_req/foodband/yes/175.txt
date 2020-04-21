@@ -1,0 +1,9 @@
+POST https://foodband.ru/
+Accept text/html, */*; q=0.01
+Referer https://foodband.ru/otzyvy/
+Sec-Fetch-Dest empty
+X-Requested-With XMLHttpRequest
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type application/x-www-form-urlencoded; charset=UTF-8
+
+postid=8&commentname=xY5Qqv%3EavJ&commenttel=%2B7+(936)+839-27-37&commentmail=%7CZ%40mail.ru&commentordercode=&commenttext=5F%25%3FE3%40jmQTP%3CjIP%09oEyyagT%26ly%21U%25%7C2rL%5C%0AV5Pgx-S%2C%26u%2B0%22%27MD%3FrLVY%2FowPa%60oi5%2CKxlPzTmWVL%21DZYUn0c%7C%3CiqL%29%2BsH%3EGX%7EnGQpt%40u%7BoBO2%0B%5BuLH&commentrating=1&event=ajaxmailsend&script=addcomment

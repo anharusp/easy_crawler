@@ -1,0 +1,18 @@
+POST https://collector-pxrf8vapwa.px-cloud.net/api/v2/collector
+:method POST
+:authority collector-pxrf8vapwa.px-cloud.net
+:scheme https
+:path /api/v2/collector
+content-length 967
+sec-fetch-dest empty
+user-agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+content-type application/x-www-form-urlencoded
+accept */*
+origin https://www.skyscanner.ru
+sec-fetch-site cross-site
+sec-fetch-mode cors
+referer https://www.skyscanner.ru/carhire?
+accept-encoding gzip, deflate, br
+accept-language ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+payload=aUkQRhAIEGJqCgQGEB4QVhAISRBiagUAEAgQEVFTQFpbQFcfQVdTQFFaH1FdXEZAXV5BH0FXU0BRWh9QR0ZGXVwQHhBiagUEEAgHAQYeEGJqBQUQCAQDBxwHBAAHHhBiagUGEAgDBgceEGJqBQcQCAYAHhBiagUKEAgEBgEeEGJqBQsQCAYEBh4QYmoDBwUQCEZAR1ceEGJqBQIQCAcBCwEEHhBiagoHAhAIBB4QYmoKBwMQCAcHAQQGHhBiagEFAxAIRkBHVx4QYmoLBBAIEFpGRkJBCB0dRUVFHEFZS0FRU1xcV0AcQEcdUVNAWltAVw0QT08eSRBGEAgQYmoKBAYQHhBWEAhJEGJqBQAQCBARUVNAWltAVx9BV1NAUVofUV1cRkBdXkEfXl1RU0ZbXVwfQltRWR9HQhAeEGJqBQQQCAEKBB4QYmoFBRAIAAYeEGJqBQYQCAUBBR4QYmoFBxAIAQQeEGJqBQoQCAADAR4QYmoFCxAIBgIEHhBiagMHBRAIRkBHVx4QYmoFAhAIBwcBBwAeEGJqCgcCEAgFHhBiagoHAxAIBwcBBAceEGJqAQUDEAhGQEdXT09v&appId=PXrf8vapwA&tag=v5.3.7&uuid=28aba3f0-8260-11ea-b8f4-711b1fe97398&ft=139&seq=5&en=NTA&cs=3affca023ce0a3aa9855443da2154305c7b4d347ec6861e130b7d8d920b6397e&pc=8066251713822079&sid=bc660cd0-825f-11ea-9eec-0587f99f8e98&vid=ba4fd701-825f-11ea-ad8a-83a1ee03969f&pxhd=5afeb20009dec207faeafb8ad2d977159bca69c5673df60862e26b7408b8af8f:ba4fd701-825f-11ea-ad8a-83a1ee03969f

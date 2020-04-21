@@ -1,0 +1,18 @@
+POST https://an.yandex.ru/jstracer
+:method POST
+:authority an.yandex.ru
+:scheme https
+:path /jstracer
+content-length 1087
+sec-fetch-dest empty
+user-agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+content-type text/plain;charset=UTF-8
+accept */*
+origin https://weekend.rambler.ru
+sec-fetch-site cross-site
+sec-fetch-mode cors
+referer https://weekend.rambler.ru/read/44043635-muzhchina-nashel-na-shosse-sobaku-s-trogatelnoy-zapiskoy-i-rasplakalsya/?utm_source=head&utm_campaign=self_promo&utm_medium=news&utm_content=news
+accept-encoding gzip, deflate, br
+accept-language ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"service":"pcode_errors","version":"10936","sid":"7660511587371392628","labels":{"device":"desktop","version":"10936","pageId":"Other"},"data":{"pageId":"137168","loading":5.809999998746207,"domRendering":14.35999999739579,"pendingDetect":8.969999998953426,"waitingLayout":8.995000000140863,"postRendering":2.4900000025809277,"totalRendering":25.84500000011758,"total":34.819999997125706,"id":"yap-R-137168-42-1","slotIndex":3,"isRefreshed":false,"isDocumentHidden":false,"isInViewport":true,"isAsyncReady":false,"format":"oldPosterVertical","limit":1,"startTime":10956.890000001295,"bundle":"rambler_main"},"timestamp":1587371402439,"userAgent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36","referrer":"https://www.rambler.ru/","location":"https://weekend.rambler.ru/read/44043635-muzhchina-nashel-na-shosse-sobaku-s-trogatelnoy-zapiskoy-i-rasplakalsya/?utm_source=head&utm_campaign=self_promo&utm_medium=news&utm_content=news","eventType":"event","eventName":"IMPORTANT_renderMarks","tags":{"event_IMPORTANT_renderMarks":1}}

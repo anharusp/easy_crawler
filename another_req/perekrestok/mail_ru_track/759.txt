@@ -1,0 +1,7 @@
+POST https://mc.yandex.ru/watch/43992189?wmode=7&page-ref=https%3A%2F%2Fwww.perekrestok.ru%2Fcatalog%2Favto-dom-sad-kuhnya%2Fkuhonnye-prinadlejnosti%2Fkuhonnye-aksessuary%2Fdom-kuh-nab-mertsayu-karandash--446876&page-url=https%3A%2F%2Fwww.perekrestok.ru%2Fpromos%2Fsupertseny-v-perekrestke&charset=utf-8&browser-info=ti%3A10%3Avc%3Ab%3Ailt%3A0KHQutC40LTQutC4%3Ans%3A1587310757289%3As%3A1920x1080x24%3Ask%3A1%3Ahdl%3A1%3Aadb%3A2%3Afpr%3A207118962501%3Acn%3A1%3Aw%3A785x600%3Az%3A180%3Ai%3A20200419183920%3Aet%3A1587310761%3Aen%3Autf-8%3Ac%3A1%3Ala%3Aru-ru%3Antf%3A1%3Apv%3A1%3Als%3A1033978566134%3Arqn%3A120%3Arn%3A42616670%3Ahid%3A438967094%3Ads%3A0%2C0%2C2244%2C4%2C3%2C0%2C0%2C826%2C251%2C%2C%2C%2C3094%3Afp%3A2563%3Awn%3A58011%3Ahl%3A18%3Agdpr%3A14%3Av%3A1850%3Arqnl%3A1%3Ast%3A1587310761%3Au%3A1587310345688875454%3At%3A%D0%9F%D0%B5%D1%80%D0%B5%D0%BA%D1%80%D1%91%D1%81%D1%82%D0%BE%D0%BA%20-%20%D0%A1%D1%83%D0%BF%D0%B5%D1%80%D1%86%D0%B5%D0%BD%D1%8B%20%D0%B2%20%D0%9F%D0%B5%D1%80%D0%B5%D0%BA%D1%80%D0%B5%D1%81%D1%82%D0%BA%D0%B5
+Referer https://www.perekrestok.ru/promos/supertseny-v-perekrestke
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type application/x-www-form-urlencoded
+
+undefined

@@ -1,0 +1,7 @@
+POST https://www.skyscanner.ru/slipstream/grp/v1/applog/public/web-browser
+Referer https://www.skyscanner.ru/carhire/results/95673540/95673540/2020-04-21T10:00/2020-04-23T10:00/30
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type application/json
+
+{"message":"Could not find string with key', stored_filters_applied","fields":{"pageName":"unknown","location":"https://www.skyscanner.ru/carhire/results/95673540/95673540/2020-04-21T10:00/2020-04-23T10:00/30","level":"warn","userAgent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36","deployColour":"blue","deployRegion":"eu-central-1","component":"carhire-homepage-results"}}

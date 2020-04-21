@@ -1,0 +1,7 @@
+POST https://a.et.nytimes.com/track
+Referer https://www.nytimes.com/2020/04/18/nyregion/coronavirus-deaths-nyc.html?action=click&module=RelatedLinks&pgtype=Article
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type text/plain;charset=UTF-8
+
+[{"context_id":"8ek41PPQQKRU-tgifcRLe94t","pageview_id":"Wxq2is3srljuaKyb2Mqw7PZd","event_id":"Wxq2is3srljuaKyb2Mqw7PZd","client_lib":"v1.0.6","sourceApp":"nyt-vi","how":"beacon","client_ts":1587229572903,"data":{"subject":"page","canonicalUrl":"https://www.nytimes.com/2020/04/18/nyregion/coronavirus-deaths-nyc.html","articleId":"100000007091651","nyt_uri":"nyt://article/a3380ede-8dcf-50df-b3f4-6ff041802613","pubpEventId":"pubp://event/1db57840ad894da69c3e2a853440ce9a","url":"https://www.nytimes.com/2020/04/18/nyregion/coronavirus-deaths-nyc.html?action=click&module=RelatedLinks&pgtype=Article","referrer":"https://www.nytimes.com/2020/04/18/us/coronavirus-updates.html?action=click&module=Spotlight&pgtype=Homepage","client_tz_offset":-180,"sourceApp":"nyt-vi"}}]

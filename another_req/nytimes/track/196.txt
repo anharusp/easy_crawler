@@ -1,0 +1,7 @@
+POST https://a.et.nytimes.com/track
+Referer https://www.nytimes.com/news-event/coronavirus?action=click&pgtype=Article&state=default&module=styln-coronavirus&variant=show&region=TOP_BANNER&context=storyline_menu
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type text/plain;charset=UTF-8
+
+[{"context_id":"KLKjWHp0kp_geiS0Ri8uew2C","pageview_id":"wnub1GEyHbUJdfdYKcEz-he7","event_id":"WxRpb0eElXQe83eAss3RcUcS","client_lib":"v1.0.6","sourceApp":"nyt-vi","how":"beacon","client_ts":1587229588924,"data":{"event":"impression","moduleObj":{"name":"bar1","context":"","label":"MAG_web_anon_all_monthly-sale-April","region":"1"},"subject":"impression","gtm":"GTM-P528B3-368-Production","sourceApp":"nyt-vi"}}]

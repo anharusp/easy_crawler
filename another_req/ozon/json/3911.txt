@@ -1,0 +1,7 @@
+POST https://ozon-api.exponea.com/bulk
+Referer https://www.ozon.ru/context/detail/id/160504435/?stat=YWNfMQ%3D%3D
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type text/plain;charset=UTF-8
+
+{"sdk":"js-client","sdk_version":"v1.41.1","commands":[{"name":"crm/events","data":{"customer_ids":{"cookie":"b23eed31-8236-11ea-92cb-8e95e2ca184a"},"company_id":"09568822-e4af-11e7-9f8d-ac1f6b02225e","type":"view item","age":0.10199999809265137,"properties":{"location":"https://www.ozon.ru/context/detail/id/160504435/?stat=YWNfMQ%3D%3D","os":"Linux","browser":"Chrome","device":"Other","name":"Хлеб Рижский хлеб, ржаной, из цельносмолотой муки, 980 г","price":227,"id":"160504435","itemAvailability":1,"categoryName":"Супермаркет/Хлеб, выпечка, сладости/Хлеб, лаваши, лепешки/Рижский хлеб","category_web0":"Супермаркет","category_web1":"Хлеб, выпечка, сладости","category_web2":"Хлеб, лаваши, лепешки","category_web3":"Рижский хлеб"},"timestamp":1587302997.3691263}}]}

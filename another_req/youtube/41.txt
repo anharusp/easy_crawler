@@ -1,0 +1,18 @@
+POST https://play.google.com/log?format=json&hasfast=true
+:method POST
+:authority play.google.com
+:scheme https
+:path /log?format=json&hasfast=true
+content-length 1340
+sec-fetch-dest empty
+user-agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+content-type application/x-www-form-urlencoded;charset=UTF-8
+accept */*
+origin https://accounts.google.com
+sec-fetch-site same-site
+sec-fetch-mode cors
+referer https://accounts.google.com/signin/v2/identifier?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Dru%26next%3D%252Fchannel%252FUCdKuE7a2QZeHPhDntXVZ91w&hl=ru&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+accept-encoding gzip, deflate, br
+accept-language ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+[[1,null,null,null,null,null,null,null,null,null,[null,null,null,null,"ru"]],558,[["1587372818000",null,[],null,null,null,null,"[[null,[1,\"accounts.google.com/ServiceLogin\",null,[\"https://www.youtube.com/\"],false],null,[[6751729344897955000]]],null,3,[null,\"S1996623375:1587372816852842\"]]",null,null,null,null,null,null,null,null,null,null,null,[],1,null,null,null,null,null,[]],["1587372818000",null,[],null,null,null,null,"[[[224,42076,\"invalid-device-id\",null,null,null,null,null,null,null,null,null,\"accounts.google.com/ServiceLogin\"],null,null,[[6751729344897955000]]],null,3,[null,\"S1996623375:1587372816852842\"]]",null,null,null,null,null,null,null,null,null,null,null,[],2,null,null,null,null,null,[]],["1587372818000",null,[],null,null,null,null,"[[null,[1,\"accounts.google.com/signin/v2/identifier?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Dru%26next%3D%252Fchannel%252FUCdKuE7a2QZeHPhDntXVZ91w&hl=ru&flowName=GlifWebSignIn&flowEntry=ServiceLogin\",null,[\"https://www.youtube.com/\"],true],null,[[6751729344897955000]]],null,3,[null,\"S1996623375:1587372816852842\"]]",null,null,null,null,null,null,null,null,null,null,null,[],3,null,null,null,null,null,[]]],"1587372818551",[],null,null,null,null,null,null,null,null,0]

@@ -1,0 +1,7 @@
+POST https://a.et.nytimes.com/track
+Referer https://www.nytimes.com/news-event/2020-election
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type text/plain;charset=UTF-8
+
+[{"context_id":"noSVL1LaTe2agy3ze2geTVfK","pageview_id":"AOoqrvzxpbnbTTvATm7Ri9uY","event_id":"AOoqrvzxpbnbTTvATm7Ri9uY","client_lib":"v1.0.6","sourceApp":"nyt-vi","how":"beacon","client_ts":1587230078245,"data":{"subject":"page","canonicalUrl":"https://www.nytimes.com/news-event/2020-election","url":"https://www.nytimes.com/news-event/2020-election","referrer":"https://www.nytimes.com/section/sports","client_tz_offset":-180,"sourceApp":"nyt-vi"}}]

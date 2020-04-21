@@ -1,0 +1,7 @@
+POST https://www.ozon.ru/api/frontend-perf.bx/v2/events
+Referer https://www.ozon.ru/highlight/44369/?category=31142
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type text/plain;charset=UTF-8
+
+{"events":[{"metrics":[{"type":"TOTAL_MEMORY_USAGE","value":311442431},{"type":"JS_HEAP_MEMORY_USAGE","value":272165071}],"attributes":{"domainName":"ozon.ru","namespace":"bx","platform":"WEB","screenResolutionX":1920,"screenResolutionY":1080,"screenPixelDensity":1,"browser":"Chrome","platformVersion":"80.0.3987.0"},"object":{"type":"APPLICATION"},"actionType":"metric","timestamp":"2020-04-19T12:11:30.964Z","version":"2","user":{"abGroup":50,"regionId":2,"sessionId":"0kZ0zgTfQ9a3CMGVjYSVTw"},"page":{"current":"pdp","currentUrl":"/context/detail/id/159140318/?advert=d2nC7N4NyPT5FpnRmqKxRQMzXiA5zRKQBnBt5sadugLgN_R0pfhuvkEJ2oovY1wdTcoBW61Vp4vtSWUvWur5oup-SVTpXKbZsKWeamcKP0TuAP1Vh2ywiPCaMBguwA_ObzksjKHx_FKcA3KpbQ&hs=1","spa":true},"properties":{"connectionType":"CELLULAR_4G"}}]}

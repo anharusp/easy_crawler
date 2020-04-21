@@ -1,0 +1,7 @@
+POST https://top-fwz1.mail.ru/tracker?js=13;id=3134996;u=https%3A//www.perekrestok.ru/catalog/avto-dom-sad-kuhnya/nabor-dlya-pashi;r=https%3A//www.perekrestok.ru/catalog/vse-dlya-pashi/kulichi;st=1587310726115;pid=USER_ID;s=1920*1080;vp=785*600;touch=0;hds=1;flash=;sid=b2807fe9218cc793;ver=60.1.0;tz=-180%2FEurope%2FMoscow;nt=0/0/1587310723935/1407/1408///3/3/3/3/3//5/1397/1403/1427/2180/2180/2427/2793/2794/2813;ni=10//4g/50/0/;detect=0;lvid=1587310346349%3A1587310726956%3A357%3Aa8ec92b6f36ea5ce4b1e53d48e069241;opts=dl;_=0.5481386556475245;e=RT/load;et=1587310726955
+Referer https://www.perekrestok.ru/catalog/avto-dom-sad-kuhnya/nabor-dlya-pashi
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type text/plain;charset=UTF-8
+
+undefined

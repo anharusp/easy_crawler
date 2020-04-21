@@ -1,0 +1,17 @@
+POST https://top-fwz1.mail.ru/tracker?js=13;id=2686816;u=https%3A//www.ozon.ru/context/detail/id/163044753/%3F_bctx%3DCAYQ0doC;r=https%3A//www.ozon.ru/highlight/44369/;st=1587298290926;title=%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80%20%D0%9E%D0%BA%D1%83%D0%BB%D0%B8%D1%81%D1%82%2050%D1%8570%20%D0%B2%20%D1%82%D1%83%D0%B1%D1%83%D1%81%D0%B5;s=1920*1080;vp=785*585;touch=0;hds=1;flash=;sid=c07332dc0bdc61d6;ver=60.1.0;tz=-180%2FEurope%2FMoscow;ni=10//4g/50/0/;detect=0;lvid=1587298201583%3A1587298307046%3A43%3A6dead8d27e3f49b881b57cd59ee04ee8;opts=dl;_=0.36674521160722917;e=PVT/15
+Host top-fwz1.mail.ru
+Connection keep-alive
+Content-Length 0
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type text/plain;charset=UTF-8
+Accept */*
+Origin https://www.ozon.ru
+Sec-Fetch-Site cross-site
+Sec-Fetch-Mode no-cors
+Referer https://www.ozon.ru/context/detail/id/163044753/?_bctx=CAYQ0doC
+Accept-Encoding gzip, deflate, br
+Accept-Language ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie VID=1zWkLH2ij2Xw00000Q0qD4Hw:::0-0-0-3b69859:CAASECs5N1KEwTdwcQ6UsqGvAm8aYO6kOTjTCOYxBVs32nIAhQs_2DZXHaeKn3-arbGJZqaj69AU5ULFdsTzYspOshu5FTWjdLXoVYCaX1Y1yueHKzMgzm-8pJyelJ6GTPbsROGEyAUs5rPZWaHclpM6zMXJzg
+
+undefined

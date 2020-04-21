@@ -1,0 +1,7 @@
+POST https://mc.yandex.ru/watch/30260382/1?page-url=https%3A%2F%2Fweekend.rambler.ru%2Fcrazy-world%2F44045549-altaytsy-reshili-chto-ot-covid-ih-ohranyaet-mumiya%2F%3Futm_source%3Dhead%26utm_campaign%3Dself_promo%26utm_medium%3Dnews%26utm_content%3Dvideo&charset=utf-8&force-urlencoded=1&browser-info=ti%3A1%3Adp%3A0%3Ans%3A1587371377304%3As%3A1920x1080x24%3Ask%3A1%3Ahdl%3A1%3Aadb%3A2%3Afpr%3A207118962501%3Acn%3A4%3Az%3A180%3Ai%3A20200420112939%3Aet%3A1587371379%3Aen%3Autf-8%3Ac%3A1%3Ala%3Aru-ru%3Aar%3A1%3Apa%3A1%3Als%3A617853022001%3Arqn%3A2%3Arn%3A26530052%3Ahid%3A842275092%3Ads%3A%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C%3Agdpr%3A14%3Afu%3A1%3Av%3A1853%3Awv%3A2%3Arqnl%3A1%3Ast%3A1587371379%3Au%3A1587371237691198303
+Referer https://weekend.rambler.ru/crazy-world/44045549-altaytsy-reshili-chto-ot-covid-ih-ohranyaet-mumiya/?utm_source=head&utm_campaign=self_promo&utm_medium=news&utm_content=video
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type text/plain;charset=UTF-8
+
+site-info=%7B%22__ym%22%3A%7B%22adSessionID%22%3A%228536451587371379133%22%7D%7D

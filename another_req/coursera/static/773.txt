@@ -1,0 +1,15 @@
+POST https://www.coursera.org/api/qualificationSurveySectionResponses.v2/?action=previewStartSection&productId=Specialization~kLWnFWsyEeeVdhKUpvOPZg
+X-CSRF2-Token fsG9drai3BYoeIC1cXWrBnhv
+X-Coursera-App-Version d273c5102bbc2cc059de7b2cfe0b71e118123df2
+Accept-Language ru
+X-CSRF3-Token 1588070910.WRJsaUm57b0DmwdD
+Content-Type application/json; charset=UTF-8
+X-CSRF2-Cookie csrf2_token_nMsAg49T
+Accept */*
+Referer https://www.coursera.org/professional-certificate/applied-project-management
+Sec-Fetch-Dest empty
+X-Requested-With XMLHttpRequest
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+X-CSRFToken tWAtvPQ6jUy8XIoQo73O0SHe
+
+{}

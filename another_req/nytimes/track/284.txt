@@ -1,0 +1,7 @@
+POST https://a.et.nytimes.com/track
+Referer https://www.nytimes.com/2020/04/15/style/self-care/buzz-cut-your-own-hair.html?action=click&module=Spotlight&pgtype=Homepage
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type text/plain;charset=UTF-8
+
+[{"context_id":"tfeyzkHDdH8-JTa2WD2jerHD","pageview_id":"45z72GeTf14vdP-jiA09Ye8v","event_id":"dPVSdgzrYbgeuNHv4lAMYPlI","client_lib":"v1.0.6","sourceApp":"nyt-vi","how":"beacon","client_ts":1587229631559,"data":{"subject":"page_update","viewport":{"scrollTop":0,"height":600,"width":800,"documentHeight":958,"activeTime":0},"gtm":"GTM-P528B3-368-Production","sourceApp":"nyt-vi"}},{"context_id":"tfeyzkHDdH8-JTa2WD2jerHD","pageview_id":"45z72GeTf14vdP-jiA09Ye8v","event_id":"2EuQudh734AE8Emy0xWFX0FL","client_lib":"v1.0.6","sourceApp":"nyt-vi","how":"beacon","client_ts":1587229632162,"data":{"subject":"page_exit","assetUrl":"https://www.nytimes.com/2020/04/15/style/self-care/buzz-cut-your-own-hair.html","assetId":"100000007074026","nyt_uri":"nyt://article/2f2c45f1-bb2f-5903-8726-354daef510b7","url":"https://www.nytimes.com/2020/04/15/style/self-care/buzz-cut-your-own-hair.html?action=click&module=Spotlight&pgtype=Homepage","referrer":"https://www.nytimes.com/","client_tz_offset":-180,"activeTime":0,"exit":true,"gtm":"GTM-P528B3-368-Production","sourceApp":"nyt-vi"}}]

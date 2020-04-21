@@ -1,0 +1,7 @@
+POST https://a.et.nytimes.com/track
+Referer https://www.nytimes.com/2020/04/17/sports/hockey/rangers-kandre-miller-zoom-racism.html
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type text/plain;charset=UTF-8
+
+[{"context_id":"WXwLPElwbt82lSfAAIHkokpj","pageview_id":"nwTLGMYQCFQlTRcdjLhVZjpk","event_id":"yoLLpjMCS4zTGvxIEtywmpKN","client_lib":"v1.0.6","sourceApp":"nyt-vi","how":"beacon","client_ts":1587230202202,"data":{"subject":"page_update","adBlockEnabled":false,"sourceApp":"nyt-vi"}},{"context_id":"WXwLPElwbt82lSfAAIHkokpj","pageview_id":"nwTLGMYQCFQlTRcdjLhVZjpk","event_id":"TLTzjemFXZ0e77FEvELEnWhE","client_lib":"v1.0.6","sourceApp":"nyt-vi","how":"beacon","client_ts":1587230202643,"data":{"eventData":{"type":"response","trigger":"module"},"moduleObj":{"name":"unified-lire","label":"freex","region":"embed","element":{"name":"iframe load success","label":"","url":""}},"subject":"interaction","gtm":"GTM-P528B3-368-Production","sourceApp":"nyt-vi"}}]

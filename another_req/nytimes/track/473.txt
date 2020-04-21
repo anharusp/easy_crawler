@@ -1,0 +1,19 @@
+POST https://a.et.nytimes.com/track
+:method POST
+:authority a.et.nytimes.com
+:scheme https
+:path /track
+content-length 1543
+sec-fetch-dest empty
+user-agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+content-type text/plain;charset=UTF-8
+accept */*
+origin https://www.nytimes.com
+sec-fetch-site same-site
+sec-fetch-mode no-cors
+referer https://www.nytimes.com/section/sports
+accept-encoding gzip, deflate, br
+accept-language ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+cookie nyt-gdpr=0; nyt-purr=cfhhcfh; nyt-geo=RU; sessionActive=true; b2b_cig_opt=%7B%22isCorpUser%22:false%7D; edu_cig_opt=%7B%22isEduUser%22:false%7D; _gcl_au=1.1.971895839.1587229320; walley=GA1.2.549216957.1587229320; walley_gid=GA1.2.908571124.1587229320; purr-cache=<K0<r<C_<G_<S0; __gads=ID=8ab2d93f1ebafa16:T=1587229320:S=ALNI_Mb8OaIcwTuxqnUB-jx6KprAnh69WQ; nyt-a=8gh6-uUgmuBBisPL9GrS_M; nyt-us=0; sessionIndex=1|1587229323040|8gh6-uUgmuBBisPL9GrS_M|1587229323040|true; iter_id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhaWQiOiI1ZTliMzI4ZjEwOTA2NzAwMDFmYjAwNmMiLCJjb21wYW55X2lkIjoiNWMwOThiM2QxNjU0YzEwMDAxMmM2OGY5IiwiaWF0IjoxNTg3MjI5MzI3fQ.IggWBeen8zf_j0gPfTjCBEMonw2owjhOEFWepYCNXuY; _gat_UA-58630905-2=1; nyt-jkidd=uid=0&lastRequest=1587230009538&activeDays=%5B0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C1%5D&adv=1&a7dv=1&a14dv=1&a21dv=1&lastKnownType=anon; datadome=A2moxTltcg7rk2HzLtdGgj1LC_qpVrUOHamPdIWB63Pz6O4WMhVp_7S1MLtsPw8Gi7MBkE3MCIjAlFGsS3m3Z8PTwpqTv3oTt0Akd7HuaQ; nyt-m=20DA2500AC0CCA712904AA9F3A92BE3A&imu=i.1&ica=i.0&iga=i.0&e=i.1588291200&iub=i.0&s=s.core&uuid=s.9c8ea76d-43e9-48f1-9619-a96cbaf8f487&n=i.2&er=i.1587230014&imv=i.0&ier=i.0&l=l.1.1108468782&g=i.0&vr=l.4.0.0.0.0&cav=i.0&prt=i.0&iru=i.0&t=i.1&fv=i.0&rc=i.0&ft=i.0&ifv=i.0&ird=i.0&ira=i.0&v=i.1&pr=l.4.0.0.0.0&vp=i.0&igu=i.1&iue=i.0&igd=i.0&iir=i.0&igf=i.0; et-a1=%257B%2522agentId%2522%253A%25220yTYLfRMKQUBgzGZ81wbbq%2522%252C%2522agentStarted%2522%253A1587229319330%252C%2522sessionIndex%2522%253A1%252C%2522sessionStarted%2522%253A1587229319330%252C%2522lastModified%2522%253A1587230015547%252C%2522lastUpdate%2522%253A1587230015547%257D
+
+[{"context_id":"IkTVfxcMk-LB3UPg8El8iGpA","pageview_id":"QbPdavRPq7L9txPvOgXjOATr","event_id":"URzlJIWg73enOnXb-h4rfe5V","client_lib":"v1.0.6","sourceApp":"nyt-vi","how":"beacon","client_ts":1587230020208,"data":{"subject":"page_update","viewport":{"scrollTop":0,"height":600,"width":800,"documentHeight":4428,"activeTime":5000},"gtm":"GTM-P528B3-368-Production","sourceApp":"nyt-vi"}},{"context_id":"IkTVfxcMk-LB3UPg8El8iGpA","pageview_id":"QbPdavRPq7L9txPvOgXjOATr","event_id":"Fx38yGADL1tZJ-giOHmIPAP-","client_lib":"v1.0.6","sourceApp":"nyt-vi","how":"beacon","client_ts":1587230020997,"data":{"subject":"page_update","performance":{"first-paint":161,"first-contentful-paint":161,"appRenderTime":317,"domInteractive":341,"domContentLoaded":438,"requestStart":11,"responseStart":13,"mainScriptCached":false,"vendorScriptCached":false,"pageLoadTime":2496,"eventCategory":"Perf Metrics","eventAction":"first-input-delay","eventLabel":"mousedown","eventValue":16,"nonInteraction":true},"gtm":"GTM-P528B3-368-Production","sourceApp":"nyt-vi"}},{"context_id":"IkTVfxcMk-LB3UPg8El8iGpA","pageview_id":"QbPdavRPq7L9txPvOgXjOATr","event_id":"bFzm3EhH_Yd3EKu64Sq17cRv","client_lib":"v1.0.6","sourceApp":"nyt-vi","how":"beacon","client_ts":1587230023044,"data":{"subject":"page_exit","assetUrl":"https://www.nytimes.com/section/sports","url":"https://www.nytimes.com/section/sports","referrer":"https://www.nytimes.com/section/technology","client_tz_offset":-180,"activeTime":5000,"exit":true,"gtm":"GTM-P528B3-368-Production","sourceApp":"nyt-vi"}}]

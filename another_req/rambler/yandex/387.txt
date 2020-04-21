@@ -1,0 +1,28 @@
+POST https://mc.yandex.ru/webvisor/44184904?wmode=0&rn=462558035&page-url=https%3A%2F%2Fdoctor.rambler.ru%2Fcoronavirus%2F44033449-detki-v-kletke-vrach-o-tom-chto-delat-s-detmi-na-karantine%2F%3Futm_source%3Dhead%26utm_campaign%3Dself_promo%26utm_medium%3Dnews%26utm_content%3Dnews&wv-type=5&wv-hit=902742098&wv-part=1&browser-info=ti%3A8%3Aet%3A1587371434%3Aw%3A785x600%3Av%3A1853%3Az%3A180%3Ai%3A20200420113033%3Ast%3A1587371436%3Au%3A1587371237691198303%3App%3A3629563401
+Host mc.yandex.ru
+Connection keep-alive
+Content-Length 424
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type text/plain
+Accept */*
+Origin https://doctor.rambler.ru
+Sec-Fetch-Site cross-site
+Sec-Fetch-Mode cors
+Referer https://doctor.rambler.ru/coronavirus/44033449-detki-v-kletke-vrach-o-tom-chto-delat-s-detmi-na-karantine/?utm_source=head&utm_campaign=self_promo&utm_medium=news&utm_content=news
+Accept-Encoding gzip, deflate, br
+Accept-Language ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie yuidss=70307391587371236; yandexuid=70307391587371236; yabs-sid=1880803411587371237; i=4zTrgMiZsIow6FLwBw4K7Ef9zq06EctqGG2AgexPtzsowkWBQrZnqgGxkCC1t/uRFKavc7Z2iB0VlI9JxGOLb9CTrm8=; ymex=1902731237.yrts.1587371237#1902731237.yrtsi.1587371237
+
+
+û³
+õ"òß¯Ý
+jhttps://doctor.rambler.ru/coronavirus/44033449-detki-v-kletke-vrach-o-tom-chto-delat-s-detmi-na-karantine/pÐÐµÑÐºÐ¸ Ð²Â ÐºÐ»ÐµÑÐºÐµ: Ð²ÑÐ°Ñ Ð¾Â ÑÐ¾Ð¼, ÑÑÐ¾Â Ð´ÐµÐ»Ð°ÑÑ ÑÂ Ð´ÐµÑÑÐ¼Ð¸ Ð½Ð°Â ÐºÐ°ÑÐ°Ð½ÑÐ¸Ð½Ðµ"
+Ð Ð°Ð¼Ð±Ð»ÐµÑ/Ð´Ð¾ÐºÑÐ¾Ñ*
+ÐÐ¾ÑÐ¾Ð½Ð°Ð²Ð¸ÑÑÑ22020-04-20T11:10:09+03:008
+B
+ÐÐ¾ÑÐ¾Ð½Ð°Ð²Ð¸ÑÑÑJ2020-04-20T11:19:30+03:00
+(#*!
+ß¯Ý
+	® (ã0º0=HPÜ>@
+º0

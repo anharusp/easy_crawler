@@ -1,0 +1,18 @@
+POST https://events.mapbox.com/events/v2?access_token=pk.eyJ1Ijoibnl0Z3JhcGhpY3MiLCJhIjoiY2o5YTlyb3ptMTB5bDMybXF2ODRjdThlYyJ9.cytRa2y0Qt3Nedj4eUX67w
+:method POST
+:authority events.mapbox.com
+:scheme https
+:path /events/v2?access_token=pk.eyJ1Ijoibnl0Z3JhcGhpY3MiLCJhIjoiY2o5YTlyb3ptMTB5bDMybXF2ODRjdThlYyJ9.cytRa2y0Qt3Nedj4eUX67w
+content-length 199
+sec-fetch-dest empty
+user-agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+content-type text/plain
+accept */*
+origin https://www.nytimes.com
+sec-fetch-site cross-site
+sec-fetch-mode cors
+referer https://www.nytimes.com/interactive/2020/world/coronavirus-maps.html?action=click&pgtype=Article&state=default&module=styln-coronavirus&variant=show&region=TOP_BANNER&context=storyline_menu
+accept-encoding gzip, deflate, br
+accept-language ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+[{"event":"map.load","created":"2020-04-18T17:02:25.605Z","sdkIdentifier":"mapbox-gl-js","sdkVersion":"1.8.1","skuId":"01","userId":"6f59b235-691c-41ff-9a0d-cdb7730f01d1","skuToken":"1014UiHoR7doA"}]

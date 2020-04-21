@@ -1,0 +1,7 @@
+POST https://a.et.nytimes.com/track
+Referer https://www.nytimes.com/
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type text/plain;charset=UTF-8
+
+[{"context_id":"Pjx0M7M7uhjAsRfsp5piEtSV","pageview_id":"Xj2w7nCk2CSkh88EgJ52MBNL","event_id":"fJxxoq52q0hk5E-i7JCi7efj","client_lib":"v1.0.6","sourceApp":"nyt-vi","how":"beacon","client_ts":1587229609343,"data":{"subject":"page_update","performance":{"first-paint":207},"gtm":"GTM-P528B3-368-Production","sourceApp":"nyt-vi"}},{"context_id":"Pjx0M7M7uhjAsRfsp5piEtSV","pageview_id":"Xj2w7nCk2CSkh88EgJ52MBNL","event_id":"-1KuzUxZyyhTRwtQJRO9vGZc","client_lib":"v1.0.6","sourceApp":"nyt-vi","how":"beacon","client_ts":1587229609345,"data":{"subject":"page_update","performance":{"first-paint":207,"first-contentful-paint":207},"gtm":"GTM-P528B3-368-Production","sourceApp":"nyt-vi"}},{"context_id":"Pjx0M7M7uhjAsRfsp5piEtSV","pageview_id":"Xj2w7nCk2CSkh88EgJ52MBNL","event_id":"CmZJT57j79iIqVZHT40qgmZX","client_lib":"v1.0.6","sourceApp":"nyt-vi","how":"beacon","client_ts":1587229609348,"data":{"subject":"ab_expose","test":"dfp_adslot4v2","variant":"1_external","gtm":"GTM-P528B3-368-Production","sourceApp":"nyt-vi"}}]

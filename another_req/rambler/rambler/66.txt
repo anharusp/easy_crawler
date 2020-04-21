@@ -1,0 +1,7 @@
+POST https://kraken.rambler.ru/cnt/
+Referer https://www.rambler.ru/
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type application/x-www-form-urlencoded;charset=UTF-8
+
+et=cl&pid=29811&rid=1587371276.089-900353079&tid=t1.29811.214753684.1587371237820&v=1.8.0&bl=%5B%22cerber-head%3A%3Amain%3A%3Anews%3A%3A26%3A%3Aimg%22%5D&sp=%5B%22AdBlock_no%22%2C%22recsys_rambler%22%2C%22version_default%22%5D

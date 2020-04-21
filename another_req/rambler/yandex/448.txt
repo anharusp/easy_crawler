@@ -1,0 +1,7 @@
+POST https://mc.yandex.ru/watch/25662845?wmode=7&page-ref=https%3A%2F%2Fwww.rambler.ru%2F&page-url=https%3A%2F%2Fnews.rambler.ru%2Fcommunity%2F44045696-g-m-zakidayut-makarevich-oskorbil-rossiyan%2F%3Futm_source%3Dhead%26utm_campaign%3Dself_promo%26utm_medium%3Dnews%26utm_content%3Dnews&charset=utf-8&browser-info=ti%3A10%3Avc%3Ab%3Ans%3A1587371591927%3As%3A1920x1080x24%3Ask%3A1%3Ahdl%3A1%3Aadb%3A2%3Afpr%3A207118962501%3Acn%3A2%3Aw%3A785x600%3Az%3A180%3Ai%3A20200420113312%3Aet%3A1587371593%3Aen%3Autf-8%3Ac%3A1%3Ala%3Aru-ru%3Antf%3A2%3Apv%3A1%3Als%3A295867417486%3Arqn%3A11%3Arn%3A934356476%3Ahid%3A788416399%3Ads%3A0%2C0%2C125%2C49%2C6%2C0%2C0%2C228%2C41%2C%2C%2C%2C594%3Afp%3A248%3Agdpr%3A14%3Av%3A1853%3Awv%3A2%3Arqnl%3A1%3Ast%3A1587371593%3Au%3A1587371237691198303%3At%3A%C2%AB%D0%93****%D0%BC%C2%A0%D0%B7%D0%B0%D0%BA%D0%B8%D0%B4%D0%B0%D1%8E%D1%82%C2%BB%3A%20%D0%9C%D0%B0%D0%BA%D0%B0%D1%80%D0%B5%D0%B2%D0%B8%D1%87%20%D0%BE%D1%81%D0%BA%D0%BE%D1%80%D0%B1%D0%B8%D0%BB%20%D1%80%D0%BE%D1%81%D1%81%D0%B8%D1%8F%D0%BD%20%E2%80%94%20%D0%A0%D0%B0%D0%BC%D0%B1%D0%BB%D0%B5%D1%80%2F%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8
+Referer https://news.rambler.ru/community/44045696-g-m-zakidayut-makarevich-oskorbil-rossiyan/?utm_source=head&utm_campaign=self_promo&utm_medium=news&utm_content=news
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type application/x-www-form-urlencoded
+
+undefined

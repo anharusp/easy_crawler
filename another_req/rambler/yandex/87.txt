@@ -1,0 +1,23 @@
+POST https://mc.yandex.ru/webvisor/44184774?wmode=0&rn=1000066413&page-url=https%3A%2F%2Fwoman.rambler.ru%2Fpsychology%2F44046317-nadeyus-eta-pandemiya-nas-s-vami-mnogomu-nauchit-medik-o-tom-chto-proishodit-v-infektsionnyh-bolnitsah%2F%3Futm_source%3Dhead%26utm_campaign%3Dself_promo%26utm_medium%3Dnews%26utm_content%3Dnews&wv-type=5&wv-hit=14671747&wv-part=1&browser-info=ti%3A8%3Aet%3A1587371266%3Aw%3A785x600%3Av%3A1853%3Az%3A180%3Ai%3A20200420112745%3Ast%3A1587371268%3Au%3A1587371237691198303%3App%3A3629563401
+Host mc.yandex.ru
+Connection keep-alive
+Content-Length 553
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type text/plain
+Accept */*
+Origin https://woman.rambler.ru
+Sec-Fetch-Site cross-site
+Sec-Fetch-Mode cors
+Referer https://woman.rambler.ru/psychology/44046317-nadeyus-eta-pandemiya-nas-s-vami-mnogomu-nauchit-medik-o-tom-chto-proishodit-v-infektsionnyh-bolnitsah/?utm_source=head&utm_campaign=self_promo&utm_medium=news&utm_content=news
+Accept-Encoding gzip, deflate, br
+Accept-Language ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie yuidss=70307391587371236; yandexuid=70307391587371236; yabs-sid=1880803411587371237; i=4zTrgMiZsIow6FLwBw4K7Ef9zq06EctqGG2AgexPtzsowkWBQrZnqgGxkCC1t/uRFKavc7Z2iB0VlI9JxGOLb9CTrm8=; ymex=1902731237.yrts.1587371237#1902731237.yrtsi.1587371237
+
+
+ü¿	ö"ó¯Ûû­https://woman.rambler.ru/psychology/44046317-nadeyus-eta-pandemiya-nas-s-vami-mnogomu-nauchit-medik-o-tom-chto-proishodit-v-infektsionnyh-bolnitsah/ÇÂ«ÐÐ°Ð´ÐµÑÑÑ, ÑÑÐ°Â Ð¿Ð°Ð½Ð´ÐµÐ¼Ð¸Ñ Ð½Ð°ÑÂ ÑÂ Ð²Ð°Ð¼Ð¸ Ð¼Ð½Ð¾Ð³Ð¾Ð¼Ñ Ð½Ð°ÑÑÐ¸ÑÂ»,Â â Ð¼ÐµÐ´Ð¸Ðº Ð¾Â ÑÐ¾Ð¼, ÑÑÐ¾Â Ð¿ÑÐ¾Ð¸ÑÑÐ¾Ð´Ð¸Ñ Ð²Â Ð¸Ð½ÑÐµÐºÑÐ¸Ð¾Ð½Ð½ÑÑ Ð±Ð¾Ð»ÑÐ½Ð¸ÑÐ°Ñ"
+Ð Ð°Ð¼Ð±Ð»ÐµÑ/Ð¶ÐµÐ½ÑÐºÐ¸Ð¹*
+ÐÑÐ¸ÑÐ¾Ð»Ð¾Ð³Ð¸Ñ22020-04-20T10:49:06+03:008ÚB
+ÐÑÐ¸ÑÐ¾Ð»Ð¾Ð³Ð¸ÑJ2020-04-20T11:18:59+03:00
+(#*!
+¯Ûû­	Ú ( 0þ=ýô=@Úª5

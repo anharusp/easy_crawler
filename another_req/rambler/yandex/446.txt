@@ -1,0 +1,18 @@
+POST https://an.yandex.ru/jstracer
+:method POST
+:authority an.yandex.ru
+:scheme https
+:path /jstracer
+content-length 1331
+sec-fetch-dest empty
+user-agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+content-type text/plain;charset=UTF-8
+accept */*
+origin https://news.rambler.ru
+sec-fetch-site cross-site
+sec-fetch-mode cors
+referer https://news.rambler.ru/community/44045696-g-m-zakidayut-makarevich-oskorbil-rossiyan/?utm_source=head&utm_campaign=self_promo&utm_medium=news&utm_content=news
+accept-encoding gzip, deflate, br
+accept-language ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"service":"pcode_errors","version":"10936","sid":"6716771587371593202","labels":{"device":"desktop","version":"10936","pageId":"Other"},"data":{"pageId":"140541","name":"Error","message":"image: undefined","stack":"Error: image: undefined\n    at p._sendExternalResourceError (https://an.yandex.ru/partner-code-bundles/10936/context_static_rambler_main.js:2:454636)\n    at HTMLDivElement.<anonymous> (https://an.yandex.ru/partner-code-bundles/10936/context_static_rambler_main.js:2:6889)\n    at HTMLDivElement.<anonymous> (https://an.yandex.ru/partner-code-bundles/10936/context_static_rambler_main.js:2:426288)","bundle":"rambler_main","code":"ExternalResourceError","type":"ERROR","href":"https://news.rambler.ru/community/44045696-g-m-zakidayut-makarevich-oskorbil-rossiyan/?utm_source=head&utm_campaign=self_promo&utm_medium=news&utm_content=news"},"timestamp":1587371593539,"userAgent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36","referrer":"https://www.rambler.ru/","location":"https://news.rambler.ru/community/44045696-g-m-zakidayut-makarevich-oskorbil-rossiyan/?utm_source=head&utm_campaign=self_promo&utm_medium=news&utm_content=news","eventType":"error","eventName":"ERROR_ExternalResourceError_Error","tags":{"error_ERROR_ExternalResourceError_Error":1}}

@@ -1,0 +1,7 @@
+POST https://a.et.nytimes.com/track
+Referer https://www.nytimes.com/2020/04/18/nyregion/coronavirus-deaths-nyc.html?action=click&module=RelatedLinks&pgtype=Article
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type text/plain;charset=UTF-8
+
+[{"context_id":"8ek41PPQQKRU-tgifcRLe94t","pageview_id":"Wxq2is3srljuaKyb2Mqw7PZd","event_id":"7YmWKMA55sQnoqeimjthgKEW","client_lib":"v1.0.6","sourceApp":"nyt-vi","how":"beacon","client_ts":1587229575382,"data":{"subject":"page_update","viewport":{"scrollTop":257,"height":600,"width":800,"documentHeight":857,"activeTime":0},"gtm":"GTM-P528B3-368-Production","sourceApp":"nyt-vi"}},{"context_id":"8ek41PPQQKRU-tgifcRLe94t","pageview_id":"Wxq2is3srljuaKyb2Mqw7PZd","event_id":"HsworN3lWyYooBsVwv_wK_RM","client_lib":"v1.0.6","sourceApp":"nyt-vi","how":"beacon","client_ts":1587229575383,"data":{"subject":"interaction","gtm":"GTM-P528B3-368-Production","eventData":{"trigger":"module","type":"scroll"},"moduleObj":{"name":"scroll","element":{"name":"first-scroll"}},"sourceApp":"nyt-vi"}}]

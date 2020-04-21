@@ -1,0 +1,12 @@
+POST https://www.ozon.ru/api/composer-api.bx/_action/favoriteCountItems
+x-o3-app-name dweb_client
+Authorization Bearer 1al7CdK0RtxehWrYK91Xfkb84PE
+Content-Type application/json
+Accept application/json
+Referer https://www.ozon.ru/context/detail/id/149393966/?stat=YW5fNw%3D%3D
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+x-o3-app-version release_17-3-2020_a9aec27d
+X-OZON-ABGROUP 50
+
+{}

@@ -1,0 +1,7 @@
+POST https://a.et.nytimes.com/track
+Referer https://www.nytimes.com/section/corrections
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type text/plain;charset=UTF-8
+
+[{"context_id":"gTiP4-J8JxNQrendG7MKfYWv","pageview_id":"F4354K0NSU35phxxQWA3kk0K","event_id":"S0dNoC8P9x-Nl2VX-oA3UFtR","client_lib":"v1.0.6","sourceApp":"nyt-vi","how":"beacon","client_ts":1587230218252,"data":{"subject":"page_update","isIncognito":false,"sourceApp":"nyt-vi"}},{"context_id":"gTiP4-J8JxNQrendG7MKfYWv","pageview_id":"F4354K0NSU35phxxQWA3kk0K","event_id":"K_vMTB63-0cRlmKaJl0ZwkTj","client_lib":"v1.0.6","sourceApp":"nyt-vi","how":"beacon","client_ts":1587230218280,"data":{"subject":"page_update","adBlockEnabled":false,"sourceApp":"nyt-vi"}},{"context_id":"gTiP4-J8JxNQrendG7MKfYWv","pageview_id":"F4354K0NSU35phxxQWA3kk0K","event_id":"DYYPb1rz51yf0KfQvsJzoSGz","client_lib":"v1.0.6","sourceApp":"nyt-vi","how":"beacon","client_ts":1587230219060,"data":{"subject":"page_exit","assetUrl":"https://www.nytimes.com/section/corrections","url":"https://www.nytimes.com/section/corrections","referrer":"https://www.nytimes.com/news-event/2020-election","client_tz_offset":-180,"activeTime":0,"exit":true,"gtm":"GTM-P528B3-368-Production","sourceApp":"nyt-vi"}}]

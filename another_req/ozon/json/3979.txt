@@ -1,0 +1,9 @@
+POST https://api.ozon.ru/checkout/v7/StartUpCheckout
+Accept */*
+Referer https://www.ozon.ru/highlight/premium/
+Sec-Fetch-Dest empty
+Authorization Bearer 1al7CdK0RtxehWrYK91Xfkb84PE
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type application/json
+
+{"items":[{"id":171320070,"quantity":1}],"isCredit":false}

@@ -1,0 +1,24 @@
+POST https://mc.yandex.ru/webvisor/26969997?wmode=0&rn=662258478&page-url=https%3A%2F%2Fweekend.rambler.ru%2Fread%2F44043635-muzhchina-nashel-na-shosse-sobaku-s-trogatelnoy-zapiskoy-i-rasplakalsya%2F%3Futm_source%3Dhead%26utm_campaign%3Dself_promo%26utm_medium%3Dnews%26utm_content%3Dnews&wv-type=5&wv-hit=893497977&wv-part=1&browser-info=ti%3A8%3Aet%3A1587371393%3Aw%3A785x600%3Av%3A1853%3Az%3A180%3Ai%3A20200420112952%3Ast%3A1587371395%3Au%3A1587371237691198303%3App%3A3629563401
+Host mc.yandex.ru
+Connection keep-alive
+Content-Length 413
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type text/plain
+Accept */*
+Origin https://weekend.rambler.ru
+Sec-Fetch-Site cross-site
+Sec-Fetch-Mode cors
+Referer https://weekend.rambler.ru/read/44043635-muzhchina-nashel-na-shosse-sobaku-s-trogatelnoy-zapiskoy-i-rasplakalsya/?utm_source=head&utm_campaign=self_promo&utm_medium=news&utm_content=news
+Accept-Encoding gzip, deflate, br
+Accept-Language ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie yuidss=70307391587371236; yandexuid=70307391587371236; yabs-sid=1880803411587371237; i=4zTrgMiZsIow6FLwBw4K7Ef9zq06EctqGG2AgexPtzsowkWBQrZnqgGxkCC1t/uRFKavc7Z2iB0VlI9JxGOLb9CTrm8=; ymex=1902731237.yrts.1587371237#1902731237.yrtsi.1587371237
+
+
+ð	ê"çÄ«Ý¨qhttps://weekend.rambler.ru/read/44043635-muzhchina-nashel-na-shosse-sobaku-s-trogatelnoy-zapiskoy-i-rasplakalsya/ÐÑÐ¶ÑÐ¸Ð½Ð° Ð½Ð°ÑÐµÐ» Ð½Ð°Â ÑÐ¾ÑÑÐµ ÑÐ¾Ð±Ð°ÐºÑ ÑÂ ÑÑÐ¾Ð³Ð°ÑÐµÐ»ÑÐ½Ð¾Ð¹ Ð·Ð°Ð¿Ð¸ÑÐºÐ¾Ð¹ Ð¸Â ÑÐ°ÑÐ¿Ð»Ð°ÐºÐ°Ð»ÑÑ"
+
+Lenta.ru*
+ÐÑÑÐ¾ÑÐ¸Ð¸22020-04-20T07:35:04+03:008þB
+ÐÑÑÐ¾ÑÐ¸Ð¸J2020-04-20T07:36:06+03:00
+(ã#*!
+Ä«Ý¨	® (Ü0¬=¡Ö4>@þ'

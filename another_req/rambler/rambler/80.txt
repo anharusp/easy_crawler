@@ -1,0 +1,18 @@
+POST https://fcm.googleapis.com/fcm/connect/subscribe
+:method POST
+:authority fcm.googleapis.com
+:scheme https
+:path /fcm/connect/subscribe
+content-length 391
+sec-fetch-dest empty
+user-agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+content-type text/plain;charset=UTF-8
+accept */*
+origin https://news.rambler.ru
+sec-fetch-site cross-site
+sec-fetch-mode cors
+referer https://news.rambler.ru/weapon/44046152-tank-t-14-armata-proshel-ispytaniya-v-sirii/?utm_source=head&utm_campaign=self_promo&utm_medium=news&utm_content=news
+accept-encoding gzip, deflate, br
+accept-language ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"endpoint":"https://fcm.googleapis.com/fcm/send/eEs5DPslCYI:APA91bF2ivI1JZ4FwTzRsuacvl3tIe9iKl1Ac3j9cvZgJ1bgef-a9QwecBLqJl1QVzjj8Q_uFMcb-3jsDdnZsQc8wiRhrf6UGn5tRlk_1EE1gD8QeN8j9jR6I2KJWs0iMj70XUvzANkd","encryption_key":"BP0odMDs5Z1RIiQjZ8R7Z1gJ9Dr0YUUsxq+5bpUyyvSc34u6aO1WaXFqniS/1WHhHy5539Q8eHPsQbraYRo84mQ=","encryption_auth":"jiPZvP2QVi4IMZkV2nu8Xg==","authorized_entity":"426847366255"}

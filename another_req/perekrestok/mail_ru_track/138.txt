@@ -1,0 +1,17 @@
+POST https://top-fwz1.mail.ru/tracker?js=13;id=undefined;u=https%3A//www.perekrestok.ru/catalog;r=https%3A//www.perekrestok.ru/catalog/hleb-sladosti-sneki/pirogi-sdoba-keksy-rulety/pirog-sdob-osoba-avst-shtrud-limap-400g--313465;st=1587310403299;s=1920*1080;vp=785*600;touch=0;hds=1;flash=;sid=3cea26e69a9154a1;ver=60.1.0;tz=-180%2FEurope%2FMoscow;nt=0/0/1587310402140/673/674///4/4/4/4/4//8/659/665/700/1159/1159/1247/1503/1503/1520;ni=10//4g/50/0/;detect=0;lvid=1587310346349%3A1587310403998%3A75%3Aa8ec92b6f36ea5ce4b1e53d48e069241;opts=sec%2Cdl;_=0.5493671730768075;e=RT/load;et=1587310403995
+Host top-fwz1.mail.ru
+Connection keep-alive
+Content-Length 0
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type text/plain;charset=UTF-8
+Accept */*
+Origin https://www.perekrestok.ru
+Sec-Fetch-Site cross-site
+Sec-Fetch-Mode no-cors
+Referer https://www.perekrestok.ru/catalog
+Accept-Encoding gzip, deflate, br
+Accept-Language ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie VID=2YNtsE0Qw3nw00000Q0qD4Hw:::0-0-0-3b6c7ca:CAASECJOimq-MkoNL0OErjzXd8waYAzzbWqtHP-CCKqhuFA3KL6GuodxGsR0HSwU5l8Qm__ZFxB6kps5QbyuxGmUzcHSd-P3PpkdLxVEYnE7hH5suPdnGqshToYgbyRqDi_T-Zq12K3CIh9M-sUf4cAKkuqlCA
+
+undefined

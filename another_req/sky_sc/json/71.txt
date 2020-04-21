@@ -1,0 +1,7 @@
+POST https://www.skyscanner.ru/slipstream/grp/v1/applog/public/web-browser
+Referer https://www.skyscanner.ru/carhire?
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type application/json
+
+{"message":"{\"Elapsed Time\":177,\"Pick-up Location\":null,\"Drop-off Location\":null,\"Is Pick Up Airport\":null,\"Is Drop Off Airport\":null,\"Pick Up Date\":\"2020-04-21T10:00\",\"Drop Off Date\":\"2020-04-23T10:00\",\"Pick Up Time\":\"10:00\",\"Drop Off Time\":\"10:00\",\"Pick-up Day of Week\":\"Tue\",\"Drop-off Day of Week\":\"Thu\",\"Driver Age\":30}","fields":{"pageName":"unknown","location":"https://www.skyscanner.ru/carhire?","level":"info","userAgent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36","deployColour":"blue","deployRegion":"eu-central-1","component":"carhire-homepage"}}

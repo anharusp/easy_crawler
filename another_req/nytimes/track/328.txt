@@ -1,0 +1,7 @@
+POST https://a.et.nytimes.com/track
+Referer https://www.nytimes.com/
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type text/plain;charset=UTF-8
+
+[{"context_id":"MqqvPixgu_KnbZZPjnW-lDey","pageview_id":"4kqA-AMbrZRgsebjFuBA2ieV","event_id":"P8cVo22f4CuhyXU5BnyeuWiL","client_lib":"v1.0.6","sourceApp":"nyt-vi","how":"beacon","client_ts":1587229659621,"data":{"event":"impression","cardObj":{"index":2,"id":"100000007094810","type":"Article","url":"https://www.nytimes.com/2020/04/18/nyregion/coronavirus-new-york-update.html","template":"AuthorImageHeadlineContentMeta","promotionalMediaEmphasis":"MEDIUM"},"blockObj":{"label":"Spotlight","name":"home-large/spotlight","version":"","list":{"uri":"nyt:/list/scoop/list/home-breaking"},"package":{"type":"spotlight","index":0,"storyCount":3,"imgSrc":1,"templateName":"Cols2StoryFullAsset"}},"subject":"impression","gtm":"GTM-P528B3-368-Production","sourceApp":"nyt-vi"}},{"context_id":"MqqvPixgu_KnbZZPjnW-lDey","pageview_id":"4kqA-AMbrZRgsebjFuBA2ieV","event_id":"xbi6_vPEpfVFehNfv78TW6AF","client_lib":"v1.0.6","sourceApp":"nyt-vi","how":"beacon","client_ts":1587229659635,"data":{"event":"impression","moduleObj":{"name":"meter","context":"eae06a2","label":"1","region":"false"},"priority":true,"subject":"impression","gtm":"GTM-P528B3-368-Production","sourceApp":"nyt-vi"}}]

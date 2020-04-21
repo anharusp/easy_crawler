@@ -1,0 +1,17 @@
+POST https://top-fwz1.mail.ru/tracker?js=13;id=2686816;u=https%3A//www.ozon.ru/geo/moskva/;r=https%3A//www.ozon.ru/context/detail/id/135382612/;st=1587296592294;s=1920*1080;vp=785*585;touch=0;hds=1;flash=;sid=dc820e3f00ed3d6e;ver=60.1.0;tz=-180%2FEurope%2FMoscow;nt=0/0/1587296591860/315/324///5/5/5/5/5//10/298/304/351/434/544/544/545/545/545;ni=10//4g/50/0/;detect=0;lvid=1587296229758%3A1587296593778%3A73%3A1bb26a8eb2fd055fbf57d462609581ac;opts=dl;_=0.5908180354150694;e=RT/load;et=1587296593777
+Host top-fwz1.mail.ru
+Connection keep-alive
+Content-Length 0
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type text/plain;charset=UTF-8
+Accept */*
+Origin https://www.ozon.ru
+Sec-Fetch-Site cross-site
+Sec-Fetch-Mode no-cors
+Referer https://www.ozon.ru/geo/moskva/
+Accept-Encoding gzip, deflate, br
+Accept-Language ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie VID=2QEjyZ1Bgqnw00000Q0qD4Hw:::0-0-0-3b690a5:CAASEMWRdc-Es8Qs788Fi2Fdm64aYPJSJ7rybYLThElX_JBAgXPYnd9Sz9wYzZ9wFpoMfa5naRwdpq41q_1uMV2L5trW-qz8WrhvBRU03HKbDA9FQNF4wwNKbNWBeeJtbPuaoPG4Z6Ae4R9-UCgx4t0j8AkqTQ
+
+undefined

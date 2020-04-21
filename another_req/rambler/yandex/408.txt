@@ -1,0 +1,18 @@
+POST https://an.yandex.ru/jstracer
+:method POST
+:authority an.yandex.ru
+:scheme https
+:path /jstracer
+content-length 897
+sec-fetch-dest empty
+user-agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+content-type text/plain;charset=UTF-8
+accept */*
+origin https://www.rambler.ru
+sec-fetch-site cross-site
+sec-fetch-mode cors
+referer https://www.rambler.ru/
+accept-encoding gzip, deflate, br
+accept-language ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"service":"pcode_errors","version":"10933","sid":"5150721587371437701","labels":{"device":"desktop","version":"10933","pageId":"Other"},"data":{"pageId":"250894","loading":5.03000000026077,"domRendering":15.899999998509884,"pendingDetect":21.734999998443527,"waitingLayout":21.749999999883585,"postRendering":3.400000001420267,"totalRendering":41.049999999813735,"total":47.87999999825843,"id":"yap-R-250894-129-4","slotIndex":12,"isRefreshed":false,"isDocumentHidden":false,"isInViewport":true,"isAsyncReady":false,"format":"adaptive0418","limit":2,"startTime":5292.11000000214,"bundle":"rambler_main"},"timestamp":1587371441810,"userAgent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36","referrer":"","location":"https://www.rambler.ru/","eventType":"event","eventName":"IMPORTANT_renderMarks","tags":{"event_IMPORTANT_renderMarks":1}}

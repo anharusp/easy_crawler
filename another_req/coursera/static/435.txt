@@ -1,0 +1,7 @@
+POST https://bat.bing.com/actionp/0?ti=4076177&Ver=2&mid=c33fda81-5a5d-76f3-9fcb-3130cb344678&sid=a4ae73a1-6730-7854-de97-53ea169d15fb&evt=pageHide
+Referer https://www.coursera.org/learn/financial-markets-global
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type text/plain;charset=UTF-8
+
+undefined

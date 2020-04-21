@@ -1,0 +1,8 @@
+POST https://www.ozon.ru/api/logs-gateway/input
+Authorization Basic ZnJvbnRlbmQtb3pvbi1ydTo1ODM4NjIxZC0zYWZmLTQyMDQtYTY2MS05ZjMzYWY1ZmY0ZjE=
+Referer https://www.ozon.ru/
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type application/json
+
+[{"type":"log","level":"ERROR","abGroup":50,"zone":"layout","browser":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36","platform":"desktop","errorCode":"WIDGET_CANT_BE_RENDERED","tag":"","message":"Widget can't be rendered in placeholder","disallowNames":["LayoutColumn"],"component":"LayoutBlockVertical","placeholderName":"block-vertical.default","pageUrl":"/info/action/","traceId":"7b4cc408650022ab","pageType":"home","layoutId":6193,"ts":"2020-04-19T12:10:05.648Z","client_ts":"2020-04-19T12:10:05.648Z"}]

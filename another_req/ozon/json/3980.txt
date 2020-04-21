@@ -1,0 +1,8 @@
+POST https://www.ozon.ru/api/logs-gateway/input
+Authorization Basic ZnJvbnRlbmQtb3pvbi1ydTo1ODM4NjIxZC0zYWZmLTQyMDQtYTY2MS05ZjMzYWY1ZmY0ZjE=
+Referer https://www.ozon.ru/highlight/premium/
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type application/json
+
+[{"message":"SyntaxError: Failed to execute 'querySelector' on 'Document': '#' is not a valid selector.","stackTrace":"Error: Failed to execute 'querySelector' on 'Document': '#' is not a valid selector.\n    at HTMLAnchorElement.<anonymous> (<anonymous>:5:14)","type":"log","level":"ERROR","url":"https://www.ozon.ru/highlight/premium/","abGroup":50,"browser":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36","platform":"desktop","tag":"","ts":"2020-04-19T13:30:17.589Z","client_ts":"2020-04-19T13:30:17.589Z"}]

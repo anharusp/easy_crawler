@@ -1,0 +1,7 @@
+POST https://mc.yandex.ru/watch/250894/1?cnt-class=1&page-url=https%3A%2F%2Fwww.rambler.ru%2F&charset=utf-8&force-urlencoded=1&browser-info=ti%3A1%3Adp%3A0%3Ans%3A1587371261688%3As%3A1920x1080x24%3Ask%3A1%3Ahdl%3A1%3Aadb%3A2%3Afpr%3A207118962501%3Acn%3A4%3Az%3A180%3Ai%3A20200420112743%3Aet%3A1587371264%3Aen%3Autf-8%3Ac%3A1%3Ala%3Aru-ru%3Aar%3A1%3Apa%3A1%3Als%3A1521701275331%3Arqn%3A3%3Arn%3A878071294%3Ahid%3A396341677%3Ads%3A0%2C0%2C299%2C362%2C3%2C0%2C0%2C648%2C0%2C%2C%2C%2C978%3Afp%3A387%3Agdpr%3A14%3Av%3A1853%3Awv%3A2%3Arqnl%3A1%3Ast%3A1587371264%3Au%3A1587371237691198303%3App%3A3629563401
+Referer https://www.rambler.ru/
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type text/plain;charset=UTF-8
+
+site-info=%7B%22__ym%22%3A%7B%22adSessionID%22%3A%224939771587371262855%22%7D%7D

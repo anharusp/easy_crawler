@@ -1,0 +1,7 @@
+POST https://an.yandex.ru/jstracer
+Referer https://finance.rambler.ru/markets/44044559-glava-vtb-dal-prognoz-po-kursu-rublya-v-2021-godu/?utm_source=head&utm_campaign=self_promo&utm_medium=news&utm_content=news
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type text/plain;charset=UTF-8
+
+{"service":"pcode_context","version":"10936","sid":"984551587371252827","labels":{"bundle":"rambler_main","device":"desktop","browser":"Chrome"},"timestamp":1587371252926,"userAgent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36","referrer":"https://www.rambler.ru/","location":"https://finance.rambler.ru/markets/44044559-glava-vtb-dal-prognoz-po-kursu-rublya-v-2021-godu/?utm_source=head&utm_campaign=self_promo&utm_medium=news&utm_content=news","eventName":"performance","eventType":"values","tags":{"C_undefined":6,"CS_undefined":35}}

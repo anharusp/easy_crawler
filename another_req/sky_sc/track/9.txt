@@ -1,0 +1,7 @@
+POST https://bat.bing.com/actionp/0?ti=5317757&Ver=2&mid=1186e5ae-dbe9-83a2-2e53-f33c68c0f885&sid=6612f166-d246-a886-b0fe-d739ccb1d4b3&evt=pageHide
+Referer https://www.skyscanner.ru/transport/flights-from/mosc/200424/200501/?adults=1&children=0&adultsv2=1&childrenv2=&infants=0&cabinclass=economy&rtn=1&preferdirects=false&outboundaltsenabled=false&inboundaltsenabled=false&ref=home
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type text/plain;charset=UTF-8
+
+undefined

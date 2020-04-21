@@ -1,0 +1,7 @@
+POST https://top-fwz1.mail.ru/tracker?js=13;id=3134996;u=https%3A//www.perekrestok.ru/catalog/hleb-sladosti-sneki/pirogi-sdoba-keksy-rulety;r=https%3A//www.perekrestok.ru/catalog/hleb-sladosti-sneki/pirogi-sdoba-keksy-rulety/rus-niva-keks-kulich-500g--473049;st=1587310391510;pid=USER_ID;s=1920*1080;vp=785*600;touch=0;hds=1;flash=;sid=e27335d280a1dc04;ver=60.1.0;tz=-180%2FEurope%2FMoscow;nt=0/0/1587310389002/1502/1504///3/3/3/3/3//7/1480/1557/1519/2508/2509/2990/3499/3499/3530;ni=10//4g/50/0/;detect=0;lvid=1587310346349%3A1587310392733%3A54%3Aa8ec92b6f36ea5ce4b1e53d48e069241;opts=dl;_=0.35068127821548933;e=RT/load;et=1587310392732
+Referer https://www.perekrestok.ru/catalog/hleb-sladosti-sneki/pirogi-sdoba-keksy-rulety
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type text/plain;charset=UTF-8
+
+undefined

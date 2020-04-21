@@ -1,0 +1,7 @@
+POST https://ssp.rambler.ru/blockstat_post
+Referer https://news.rambler.ru/weapon/44046152-tank-t-14-armata-proshel-ispytaniya-v-sirii/?utm_source=head&utm_campaign=self_promo&utm_medium=news&utm_content=news
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type text/plain;charset=UTF-8
+
+{"log_visibility":0,"blocktype":"capirs","format":"767x0","width":767,"height":0,"time":59143,"ftime":70382,"place":"","pad_id":437707674,"block_id":437707778,"reason":"unload","reached":1,"impression_id":"5e9d6-5d279-007b1","uuid":"00000bbc-5e9d-5ce4-25f3-6fb110590ede","fp":"pA8AAGsis1e8O/WjAZsgGwA=","vcapirs":"2_29_0","misc":0,"rq_type":0,"browser_family":"Chrome","browser_version":"80.0.3987.0","os_family":"Linux","os_version":"x86_64","device_type":1}

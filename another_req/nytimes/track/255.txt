@@ -1,0 +1,7 @@
+POST https://a.et.nytimes.com/track
+Referer https://www.nytimes.com/2020/04/18/us/politics/trump-china-virus.html?action=click&module=Spotlight&pgtype=Homepage
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type text/plain;charset=UTF-8
+
+[{"context_id":"uKWd8uX8iRIOoFZwk0DYMpUN","pageview_id":"4paef6fWP6yaKKVDYJ26T7is","event_id":"oipFMgK-k1dax_pnmLsZTIpB","client_lib":"v1.0.6","sourceApp":"nyt-vi","how":"beacon","client_ts":1587229619744,"data":{"eventData":{"type":"response","trigger":"module"},"moduleObj":{"name":"unified-lire","context":"CoronaVirus","label":"freex","region":"embed","element":{"name":"iframe load success","label":"","url":""}},"subject":"interaction","gtm":"GTM-P528B3-368-Production","sourceApp":"nyt-vi"}}]

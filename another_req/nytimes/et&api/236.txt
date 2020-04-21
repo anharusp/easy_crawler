@@ -1,0 +1,7 @@
+POST https://et.nytimes.com/
+Referer https://www.nytimes.com/2020/04/16/us/politics/trump-coronavirus-promises-fact-check.html
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type text/plain;charset=UTF-8
+
+subject=ab-alloc&test=MC_bar1_color_0120&variant=0&url=https%3A%2F%2Fwww.nytimes.com%2F2020%2F04%2F16%2Fus%2Fpolitics%2Ftrump-coronavirus-promises-fact-check.html&et2_pageview_id=eojliDOWw9xQiD6oCII3TC8g&instant=1&skipAugment=true

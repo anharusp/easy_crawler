@@ -1,0 +1,17 @@
+POST https://mc.yandex.ru/watch/25662806?page-ref=https%3A%2F%2Fwww.rambler.ru%2F&page-url=https%3A%2F%2Fnews.rambler.ru%2Fstarlife%2F%3Futm_source%3Dhead%26utm_campaign%3Dself_promo%26utm_medium%3Dtopline%26utm_content%3Dnews_media&charset=utf-8&ut=noindex&force-urlencoded=1&browser-info=ti%3A1%3Adp%3A0%3Ans%3A1587371274731%3As%3A1920x1080x24%3Ask%3A1%3Ahdl%3A1%3Aadb%3A2%3Afpr%3A207118962501%3Acn%3A3%3Aw%3A785x585%3Az%3A180%3Ai%3A20200420112809%3Aet%3A1587371289%3Aen%3Autf-8%3Ac%3A1%3Ala%3Aru-ru%3Aln%3A1%3Als%3A837797174948%3Arqn%3A21%3Arn%3A47346118%3Ahid%3A579069741%3Ads%3A%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C%3Agdpr%3A14%3Afu%3A3%3Av%3A1853%3Awv%3A2%3Arqnl%3A1%3Ast%3A1587371289%3Au%3A1587371237691198303%3App%3A3629563401%3At%3A%D0%A8%D0%BE%D1%83-%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81
+Host mc.yandex.ru
+Connection keep-alive
+Content-Length 0
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type text/plain;charset=UTF-8
+Accept */*
+Origin https://www.rambler.ru
+Sec-Fetch-Site cross-site
+Sec-Fetch-Mode no-cors
+Referer https://www.rambler.ru/
+Accept-Encoding gzip, deflate, br
+Accept-Language ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie yuidss=70307391587371236; yandexuid=70307391587371236; yabs-sid=1880803411587371237; i=4zTrgMiZsIow6FLwBw4K7Ef9zq06EctqGG2AgexPtzsowkWBQrZnqgGxkCC1t/uRFKavc7Z2iB0VlI9JxGOLb9CTrm8=; ymex=1902731237.yrts.1587371237#1902731237.yrtsi.1587371237
+
+undefined

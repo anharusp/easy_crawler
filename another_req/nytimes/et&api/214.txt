@@ -1,0 +1,7 @@
+POST https://et.nytimes.com/
+Referer https://www.nytimes.com/section/corrections
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type text/plain;charset=UTF-8
+
+subject=ab-alloc&test=ON_nl_hscroll_0320&variant=0&url=https%3A%2F%2Fwww.nytimes.com%2Fsection%2Fcorrections&et2_pageview_id=F4354K0NSU35phxxQWA3kk0K&instant=1&skipAugment=true

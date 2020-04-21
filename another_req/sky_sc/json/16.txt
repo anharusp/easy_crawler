@@ -1,0 +1,7 @@
+POST https://www.skyscanner.ru/slipstream/grp/v1/custom/public/browse-view-page/funnel_events/clients.View
+Referer https://www.skyscanner.ru/transport/flights-from/mosc/200424/200501/?adults=1&children=0&adultsv2=1&childrenv2=&infants=0&cabinclass=economy&rtn=1&preferdirects=false&outboundaltsenabled=false&inboundaltsenabled=false&ref=home
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type application/json
+
+{"header":{"guid":"7d3f3021-0b3d-49e4-91fa-83fa051c498e","client_timestamp":{"unix_time_millis":1587315908662,"date_time_kind":0,"timezone_offset_mins":180,"daylight_savings_offset_mins":0},"traveller_identity":{"utid":"9e440a3a-9ce7-4d47-a83b-4f468a596c8c","authentication_status":"UNAUTHENTICATED"},"sequence_number":11,"device_guid":"0e9a5a74-b0bc-4508-9c4b-28651a835264","experiment_allocation_id":"95cff457efc43873631150e6681265e0d3ea78562ed0630663b6c4c50fc71b59"},"name":"https://www.skyscanner.ru/transport/flights-from/mosc/200424/200501/?adults=1&children=0&adultsv2=1&childrenv2=&infants=0&cabinclass=economy&rtn=1&preferdirects=false&outboundaltsenabled=false&inboundaltsenabled=false&ref=home","referrer_url":"https://www.skyscanner.ru/"}

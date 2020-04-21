@@ -1,0 +1,19 @@
+POST https://a.et.nytimes.com/track
+:method POST
+:authority a.et.nytimes.com
+:scheme https
+:path /track
+content-length 649
+sec-fetch-dest empty
+user-agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+content-type text/plain;charset=UTF-8
+accept */*
+origin https://myaccount.nytimes.com
+sec-fetch-site same-site
+sec-fetch-mode no-cors
+referer https://myaccount.nytimes.com/auth/iframe/enter-email?response_type=cookie&client_id=freex&redirect_uri=https%3A%2F%2Fwww.nytimes.com%2Fsubscription%2Fmultiproduct%2Flp8KQUS.html%3FcampaignID%3D7QQFH%26EXIT_URI%3Dhttps%253A%252F%252Fwww.nytimes.com%252F2020%252F04%252F18%252Fnyregion%252Fcoronavirus-deaths-nyc.html%253Faction%253Dclick%2526module%253DRelatedLinks%2526pgtype%253DArticle&display=hubpage_lire&asset=RegiWall&campaign_id=CoronaVirus&application=Free_Experience&preloaded=true
+accept-encoding gzip, deflate, br
+accept-language ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+cookie nyt-gdpr=0; nyt-purr=cfhhcfh; nyt-geo=RU; sessionActive=true; b2b_cig_opt=%7B%22isCorpUser%22:false%7D; edu_cig_opt=%7B%22isEduUser%22:false%7D; _gcl_au=1.1.971895839.1587229320; walley=GA1.2.549216957.1587229320; walley_gid=GA1.2.908571124.1587229320; purr-cache=<K0<r<C_<G_<S0; __gads=ID=8ab2d93f1ebafa16:T=1587229320:S=ALNI_Mb8OaIcwTuxqnUB-jx6KprAnh69WQ; nyt-a=8gh6-uUgmuBBisPL9GrS_M; nyt-us=0; sessionIndex=1|1587229323040|8gh6-uUgmuBBisPL9GrS_M|1587229323040|true; iter_id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhaWQiOiI1ZTliMzI4ZjEwOTA2NzAwMDFmYjAwNmMiLCJjb21wYW55X2lkIjoiNWMwOThiM2QxNjU0YzEwMDAxMmM2OGY5IiwiaWF0IjoxNTg3MjI5MzI3fQ.IggWBeen8zf_j0gPfTjCBEMonw2owjhOEFWepYCNXuY; _gat_UA-58630905-2=1; nyt-m=E2B3A5367FEF36633E15EB8DB125A5D6&ird=i.0&e=i.1588291200&n=i.2&ifv=i.0&fv=i.0&uuid=s.9c8ea76d-43e9-48f1-9619-a96cbaf8f487&g=i.1&vr=l.4.0.0.0.0&pr=l.4.0.0.0.0&igf=i.0&iir=i.0&rc=i.0&iga=i.0&ier=i.0&iru=i.0&ira=i.0&er=i.1587229573&ft=i.0&ica=i.0&igu=i.1&iub=i.0&igd=i.1&imv=i.0&s=s.core&t=i.1&v=i.1&imu=i.1&cav=i.1&prt=i.0&iue=i.0&vp=i.0&l=l.1.1108468782; nyt-jkidd=uid=0&lastRequest=1587229574046&activeDays=%5B0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C1%5D&adv=1&a7dv=1&a14dv=1&a21dv=1&lastKnownType=anon; et-a1=%257B%2522agentId%2522%253A%25220yTYLfRMKQUBgzGZ81wbbq%2522%252C%2522agentStarted%2522%253A1587229319330%252C%2522sessionIndex%2522%253A1%252C%2522sessionStarted%2522%253A1587229319330%252C%2522lastModified%2522%253A1587229575514%252C%2522lastUpdate%2522%253A1587229575514%257D; datadome=86DcrX4xw08KOgbQOCVw~2POSI-AEduRGzj_AoN9dvc8FeRjh.82JbRuc9KK5SDbvjCy.1yw8fAL0S_XhaTHddei~XQV3yFiTHWh5WoaJ0
+
+[{"context_id":"nBPs_mPWUcwZNpZCZZJ6OjYA","pageview_id":"JTfe9jqZjg6vzaAkJrUwSud5","event_id":"GXmj5d5BZak4v77yyzI3I_aZ","client_lib":"v1.0.5","sourceApp":"nyt-lire","how":"beacon","client_ts":1587229575883,"data":{"application":{"name":"nyt-lire","dlVersion":"2.5.19","environment":"production"},"module":{"name":"unified-lire","context":"campaign_id:CoronaVirus","region":"embedded","label":"client_id:freex"},"subject":"impression","user":{},"eventData":{"pagetype":"enterEmail"},"referrer":{"url":"https://www.nytimes.com/2020/04/18/nyregion/coronavirus-deaths-nyc.html?action=click&module=RelatedLinks&pgtype=Article"},"sourceApp":"nyt-lire"}}]

@@ -1,0 +1,10 @@
+POST https://www.coursera.org/graphqlBatch?opname=DomainGetAllQuery
+accept */*
+Referer https://www.coursera.org/mastertrack/machine-learning-analytics-chicago
+Sec-Fetch-Dest empty
+R2-APP-VERSION d273c5102bbc2cc059de7b2cfe0b71e118123df2
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+OPERATION-NAME DomainGetAllQuery
+content-type application/json
+
+[{"operationName":"DomainGetAllQuery","variables":{},"query":"query DomainGetAllQuery {\n  DomainsV1Resource {\n    domains: getAll {\n      elements {\n        id\n        slug\n        name\n        description\n        backgroundImageUrl\n        subdomains {\n          elements {\n            id\n            slug\n            name\n            domainId\n            description\n            __typename\n          }\n          __typename\n        }\n        __typename\n      }\n      __typename\n    }\n    __typename\n  }\n}\n"}]

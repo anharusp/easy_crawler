@@ -1,0 +1,7 @@
+POST https://www.coursera.org/eventing/infoBatch.v2
+Referer https://www.coursera.org/mastertrack/instructional-design-illinois
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type application/json;charset=UTF-8
+
+{"clientType":"web","app":"phoenix","clientVersion":"d273c5102bbc2cc059de7b2cfe0b71e118123df2","events":[{"key":"front_page.front_page_story.click.seo_directory_link","value":{"namespace":{"app":"front_page","page":"front_page_story","action":"click","component":"seo_directory_link"},"href":"https://www.coursera.org/mastertrack/instructional-design-illinois","schema_type":"FRONTEND","appName":"front-page"},"clientType":"web","url":"https://www.coursera.org/","app":"phoenix","guid":"0e18b7ff-e9ed-4d2c-d591-01d97c04b83e","visitId":"4a4a40ca-5a27-4d6b-e19d-5f55109cf7a7","screenSize":{"height":1080,"width":1920},"clientVersion":"629a8721bee7303460208f535aa7209b933d8ad5","clientTimestamp":1587207683387,"sequence":1031}]}

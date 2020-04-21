@@ -1,0 +1,10 @@
+POST https://www.coursera.org/graphqlBatch?opname=degreeListsQuery
+accept */*
+Referer https://www.coursera.org/mastertrack/machine-learning-analytics-chicago
+Sec-Fetch-Dest empty
+R2-APP-VERSION d273c5102bbc2cc059de7b2cfe0b71e118123df2
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+OPERATION-NAME degreeListsQuery
+content-type application/json
+
+[{"operationName":"degreeListsQuery","variables":{"liveOnly":true,"contextType":"PAGE","contextId":"logged-out"},"query":"query degreeListsQuery($contextType: String!, $contextId: String!, $liveOnly: Boolean!) {\n  DegreeListsV1Resource {\n    getList(contextType: $contextType, contextId: $contextId) {\n      elements {\n        id\n        slugs\n        __typename\n      }\n      __typename\n    }\n    __typename\n  }\n  CatalogDegreesV1Resource {\n    getAll(liveOnly: $liveOnly) {\n      elements {\n        id\n        name\n        slug\n        languageCode\n        bannerImage\n        marketingName\n        catalogAvailabilityStatus\n        partners {\n          elements {\n            id\n            shortName\n            name\n            productBrandingLogo\n            squareLogo\n            landingPageBanner\n            primaryColor\n            __typename\n          }\n          __typename\n        }\n        partnerIds\n        domainIds\n        __typename\n      }\n      __typename\n    }\n    __typename\n  }\n}\n"}]

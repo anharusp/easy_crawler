@@ -1,0 +1,19 @@
+POST https://www.coursera.org/eventing/infoBatch.v2
+:method POST
+:authority www.coursera.org
+:scheme https
+:path /eventing/infoBatch.v2
+content-length 1013
+sec-fetch-dest empty
+user-agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+content-type application/json;charset=UTF-8
+accept */*
+origin https://www.coursera.org
+sec-fetch-site same-origin
+sec-fetch-mode cors
+referer https://www.coursera.org/professional-certificates/applied-artifical-intelligence-ibm-watson-ai
+accept-encoding gzip, deflate, br
+accept-language ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+cookie CSRF3-Token=1588070910.WRJsaUm57b0DmwdD; __204u=5993795705-1587206910516; __204r=; __400v=4a4a40ca-5a27-4d6b-e19d-5f55109cf7a7; _ga=GA1.2.615938872.1587206912; _gid=GA1.2.108197036.1587206912; _gd_visitor=b4ae0e76-3ba2-4784-8cda-d5d456b700e1; _gd_session=3f3d2764-f61b-486d-8b24-53ef6f5b0073; _fbp=fb.1.1587206912437.479278476; _gd_svisitor=b3301002c706000000db9a5e410100002a720800; __adroll_fpc=0d02f6306e4242fc811acc33b3e2116f-1587206912985; maId={"cid":"ee2371d08004a5f0b7512d7d641ac3ec","sid":"cd5a6c6a-ecc9-48b8-9645-6fad483bbf13","isSidSaved":true,"sessionStart":"2020-04-18T10:48:32.000Z"}; _hjid=469f5d8f-81be-4329-9c28-a2acc993c0d1; _dc_gtm_UA-28377374-1=1; _dc_gtm_UA-86370891-1=1; _uetsid=_ueta4ae73a1-6730-7854-de97-53ea169d15fb; _tq_id.TV-63455409-1.39ed=754db6197c2b1036.1587206913.0.1587207378..; stc113717=tsa:1587206912634.871718070.8038206.6561971560222983.1:20200418112617|env:1%7C20200519104832%7C20200418112617%7C51%7C1030880:20210418105617|uid:1587206912633.866487507.4953084.113717.997052359.9:20210418105617|srchist:1030880%3A1%3A20200519104832:20210418105617; __ar_v4=AMNEINFG7NFARPVLM7GV2K%3A20200418%3A51%7C7VNBYGWF3BE5DKOOGWWP2Z%3A20200418%3A51%7CEFLOYRV5JRB3ZIZXJZ5MP7%3A20200418%3A51; __400vt=1587207385149
+
+{"clientType":"web","app":"phoenix","clientVersion":"23ce4ce17a06113a8bc9bebecc755240365be429","events":[{"key":"xdp_v1.xdp.click.faq_open","value":{"namespace":{"app":"xdp_v1","page":"xdp","action":"click","component":"faq_open"},"question":"<co-content><text>Действительно ли это полностью дистанционный курс? Нужно ли мне посещать какие-либо занятия лично?</text></co-content>","schema_type":"FRONTEND","appName":"xdp"},"clientType":"web","url":"https://www.coursera.org/professional-certificates/applied-artifical-intelligence-ibm-watson-ai#faq","app":"phoenix","referrerUrl":"https://www.coursera.org/professional-certificates/applied-artifical-intelligence-ibm-watson-ai#enroll","guid":"2df8a94f-e6aa-43a7-e910-55487d91bf49","visitId":"4a4a40ca-5a27-4d6b-e19d-5f55109cf7a7","screenSize":{"height":1080,"width":1920},"clientVersion":"23ce4ce17a06113a8bc9bebecc755240365be429","clientTimestamp":1587207385149,"sequence":740}]}

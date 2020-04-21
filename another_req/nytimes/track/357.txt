@@ -1,0 +1,7 @@
+POST https://a.et.nytimes.com/track
+Referer https://www.nytimes.com/section/world
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type text/plain;charset=UTF-8
+
+[{"context_id":"ap5jFzXwMtcCBn7_TNVL92T_","pageview_id":"UYY-lvISO9nOaekgZadT7FS5","event_id":"aGHvrQ6pl534UeTwhwm1hTwc","client_lib":"v1.0.6","sourceApp":"nyt-vi","how":"beacon","client_ts":1587229722339,"data":{"subject":"page_update","viewport":{"scrollTop":1166,"height":600,"width":800,"documentHeight":5295,"activeTime":0},"gtm":"GTM-P528B3-368-Production","sourceApp":"nyt-vi"}},{"context_id":"ap5jFzXwMtcCBn7_TNVL92T_","pageview_id":"UYY-lvISO9nOaekgZadT7FS5","event_id":"4PQ-5uvXygBwW2Z4PV_C6_GY","client_lib":"v1.0.6","sourceApp":"nyt-vi","how":"beacon","client_ts":1587229723001,"data":{"event":"impression","moduleObj":{"name":"bar1","context":"","label":"MAG_web_anon_all_monthly-sale-April","region":"1"},"subject":"impression","gtm":"GTM-P528B3-368-Production","sourceApp":"nyt-vi"}}]

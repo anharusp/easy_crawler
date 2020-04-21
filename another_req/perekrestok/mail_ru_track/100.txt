@@ -1,0 +1,17 @@
+POST https://bam.eu01.nr-data.net/jserrors/1/91d3f19a9b?a=16405072&v=1167.2a4546b&to=MhBSZQoZDUEABRUMXAtacVIMEQxcThYTClcQFkQ%3D&rst=11208&ref=https://www.perekrestok.ru/catalog/hleb-sladosti-sneki/pirogi-sdoba-keksy-rulety/rus-niva-keks-kulich-500g--473049&xhr=%5B%7B%22params%22:%7B%22method%22:%22POST%22,%22host%22:%22async-px.dynamicyield.com:443%22,%22pathname%22:%22/batch%22,%22status%22:200%7D,%22metrics%22:%7B%22count%22:3,%22txSize%22:%7B%22t%22:4006,%22min%22:699,%22max%22:1996,%22sos%22:6191338,%22c%22:3%7D,%22duration%22:%7B%22t%22:500,%22min%22:139,%22max%22:214,%22sos%22:86726,%22c%22:3%7D,%22cbTime%22:%7B%22t%22:0,%22min%22:0,%22max%22:0,%22sos%22:0,%22c%22:3%7D,%22time%22:%7B%22t%22:4523,%22min%22:1319,%22max%22:1673,%22sos%22:6882651,%22c%22:3%7D%7D%7D,%7B%22params%22:%7B%22method%22:%22POST%22,%22host%22:%22async-px.dynamicyield.com:443%22,%22pathname%22:%22/uia%22,%22status%22:200%7D,%22metrics%22:%7B%22count%22:1,%22txSize%22:%7B%22t%22:3338%7D,%22duration%22:%7B%22t%22:206%7D,%22cbTime%22:%7B%22t%22:0%7D,%22time%22:%7B%22t%22:1329%7D%7D%7D,%7B%22params%22:%7B%22method%22:%22POST%22,%22host%22:%22mc.yandex.ru:443%22,%22pathname%22:%22/watch/43992189%22,%22status%22:200%7D,%22metrics%22:%7B%22count%22:1,%22rxSize%22:%7B%22t%22:206%7D,%22duration%22:%7B%22t%22:108%7D,%22cbTime%22:%7B%22t%22:0%7D,%22time%22:%7B%22t%22:1459%7D%7D%7D,%7B%22params%22:%7B%22method%22:%22GET%22,%22host%22:%22async-px.dynamicyield.com:443%22,%22pathname%22:%22/var%22,%22status%22:200%7D,%22metrics%22:%7B%22count%22:5,%22duration%22:%7B%22t%22:761,%22min%22:145,%22max%22:165,%22sos%22:116055,%22c%22:5%7D,%22cbTime%22:%7B%22t%22:0,%22min%22:0,%22max%22:0,%22sos%22:0,%22c%22:5%7D,%22time%22:%7B%22t%22:7681,%22min%22:1515,%22max%22:1604,%22sos%22:11805341,%22c%22:5%7D%7D%7D,%7B%22params%22:%7B%22method%22:%22POST%22,%22host%22:%22aprtx.com:443%22,%22pathname%22:%22/push/%22,%22status%22:200%7D,%22metrics%22:%7B%22count%22:1,%22txSize%22:%7B%22t%22:2189%7D,%22rxSize%22:%7B%22t%22:13%7D,%22duration%22:%7B%22t%22:93%7D,%22cbTime%22:%7B%22t%22:0%7D,%22time%22:%7B%22t%22:1889%7D%7D%7D,%7B%22params%22:%7B%22method%22:%22GET%22,%22host%22:%22async-px.dynamicyield.com:443%22,%22pathname%22:%22/imp%22,%22status%22:200%7D,%22metrics%22:%7B%22count%22:1,%22duration%22:%7B%22t%22:310%7D,%22cbTime%22:%7B%22t%22:1%7D,%22time%22:%7B%22t%22:2401%7D%7D%7D,%7B%22params%22:%7B%22method%22:%22POST%22,%22host%22:%22api.mindbox.ru:443%22,%22pathname%22:%22/v3/js/operations/sync%22,%22status%22:200%7D,%22metrics%22:%7B%22count%22:1,%22txSize%22:%7B%22t%22:153%7D,%22rxSize%22:%7B%22t%22:123%7D,%22duration%22:%7B%22t%22:49%7D,%22cbTime%22:%7B%22t%22:0%7D,%22time%22:%7B%22t%22:6231%7D%7D%7D%5D
+Host bam.eu01.nr-data.net
+Connection keep-alive
+Content-Length 0
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type text/plain;charset=UTF-8
+Accept */*
+Origin https://www.perekrestok.ru
+Sec-Fetch-Site cross-site
+Sec-Fetch-Mode no-cors
+Referer https://www.perekrestok.ru/catalog/hleb-sladosti-sneki/pirogi-sdoba-keksy-rulety/rus-niva-keks-kulich-500g--473049
+Accept-Encoding gzip, deflate, br
+Accept-Language ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie JSESSIONID=fd4f536d6cd19d57
+
+undefined

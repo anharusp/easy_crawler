@@ -1,0 +1,7 @@
+POST https://bat.bing.com/actionp/0?ti=4076177&Ver=2&mid=aa13655f-9b20-c172-307d-930b4046fc61&sid=3b863ac7-29d1-ba39-1937-00fa80591ae0&evt=pageHide
+Referer https://www.coursera.org/specializations/music-production
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type text/plain;charset=UTF-8
+
+undefined

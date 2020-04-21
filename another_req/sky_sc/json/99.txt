@@ -1,0 +1,7 @@
+POST https://www.skyscanner.ru/slipstream/grp/v1/custom/public/strevda/funnel_events/sponsored.AdResponse
+Referer https://www.skyscanner.ru/carhire/results/95673540/95673540/2020-04-21T10:00/2020-04-23T10:00/30
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type application/json
+
+{"header":{"guid":"ada0ff59-c51b-40cb-94c0-e0a8c481ff1a","client_timestamp":{"unix_time_millis":1587316071561,"date_time_kind":0,"timezone_offset_mins":180,"daylight_savings_offset_mins":0},"traveller_identity":{"utid":"9e440a3a-9ce7-4d47-a83b-4f468a596c8c","authentication_status":"UNAUTHENTICATED"},"sequence_number":100,"device_guid":"0e9a5a74-b0bc-4508-9c4b-28651a835264","experiment_allocation_id":"95cff457efc43873631150e6681265e0d3ea78562ed0630663b6c4c50fc71b59","user_agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36","user_preferences_guid":"3000b265-b87c-4552-a3fe-1d7f8998d2ff"},"deliveredCreatives":[],"requestedPlacementIds":["desktop.carhire.search/inline","desktop.carhire.search/leaderboard"],"service":2,"viewId":"876aaccc-7d0a-470e-97ff-663e806e7984","market":"RU"}

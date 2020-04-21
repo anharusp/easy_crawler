@@ -1,0 +1,18 @@
+POST https://collector-pxrf8vapwa.px-cloud.net/api/v2/collector
+:method POST
+:authority collector-pxrf8vapwa.px-cloud.net
+:scheme https
+:path /api/v2/collector
+content-length 1383
+sec-fetch-dest empty
+user-agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+content-type application/x-www-form-urlencoded
+accept */*
+origin https://www.skyscanner.ru
+sec-fetch-site cross-site
+sec-fetch-mode cors
+referer https://www.skyscanner.ru/carhire/results/95673540/95673540/2020-04-21T10:00/2020-04-23T10:00/30
+accept-encoding gzip, deflate, br
+accept-language ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+payload=aUkQRhAIEGJqAAMQHhBWEAhJEGJqBwUQCBBpbhBmS0JXd0BAXUAIEnFTXFxdRhJAV1NWEkJAXUJXQEZLEhUCFRJdVBJcR15eElNGEmFGElNGEnpmf352XVFHX1dcRhxVV0Z3XldfV1xGcEt7VhJTRhJ9UFhXUUYcbRxhElNGEm0cQkEcdRJTRhJzQEBTSxwOU1xdXEtfXUdBDBJTRhJzQEBTSxxCR0FaElNGEmRAHA5TXF1cS19dR0EMElNGEmRAHF8SU0YSbRwWQBxeElNGEnNAQFNLHA5TXF1cS19dR0EMEm4QHm4QZktCV3dAQF1ACBJxU1xcXUYSQFdTVhJCQF1CV0BGSxIVAhUSXVQSXEdeXhJTRhJhRhJTRhJ6Zn9+dl1RR19XXEYcVVdGd15XX1dcRnBLe1YSU0YSfVBYV1FGHG0cYRJTRhJtHEJBHHUSU0YSc0BAU0scDlNcXVxLX11HQQwSU0YSc0BAU0scQkdBWhJTRhJkQBwOU1xdXEtfXUdBDBJTRhJkQBxfElNGEm0cFkAcXhJTRhJzQEBTSxwOU1xdXEtfXUdBDBJuEG8QHhBiagoHAhAIBx4QYmoKBwMQCAAAAAMeEGJqAQUDEAhGQEdXHhBiagsEEAgQWkZGQkEIHR1FRUUcQVlLQVFTXFxXQBxARx1RU0BaW0BXHUBXQUdeRkEdCwcEBQEHBgIdCwcEBQEHBgIdAAIAAh8CBh8AA2YDAggCAh0AAgACHwIGHwABZgMCCAICHQECEE9PHkkQRhAIEGJqAAEQHhBWEAhJEGJqBgYQCAMCAQIeEGJqBgcQCAcHBh4QYmoGBBAIAR4QYmoGCxAIAB4QYmoHABAIAQIBHhBiagcBEAgDBAYeEGJqBwYQCAceEGJqCgYGEAgGAAocAgEGCwsLCwsLCwIKCx4QYmoKBgcQCAYAChwCAQYLCwsLCwsLAgoLHhBiagoHAhAIBB4QYmoKBwMQCAAAAAEeEGJqAQUDEAhGQEdXT09v&appId=PXrf8vapwA&tag=v5.3.7&uuid=4cdacb20-8260-11ea-acaf-29d10e4d182b&ft=139&seq=3&en=NTA&cs=fa069a8157a781247b09b043337045eaed51c0122d8af1e472b85bd03ea684df&pc=5836278179912081&sid=bc660cd0-825f-11ea-9eec-0587f99f8e98&vid=ba4fd701-825f-11ea-ad8a-83a1ee03969f&pxhd=5afeb20009dec207faeafb8ad2d977159bca69c5673df60862e26b7408b8af8f:ba4fd701-825f-11ea-ad8a-83a1ee03969f

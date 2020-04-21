@@ -1,0 +1,17 @@
+POST https://top-fwz1.mail.ru/tracker?js=13;id=2686816;e=RT/beat;sid=c63bd77c5a72e89c;ids=2686816;ver=60.1.0;_=0.07311736728264329
+Host top-fwz1.mail.ru
+Connection keep-alive
+Content-Length 0
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type text/plain;charset=UTF-8
+Accept */*
+Origin https://www.ozon.ru
+Sec-Fetch-Site cross-site
+Sec-Fetch-Mode no-cors
+Referer https://www.ozon.ru/highlight/44764/?category=15073
+Accept-Encoding gzip, deflate, br
+Accept-Language ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie VID=2QEjyZ1Bgqnw00000Q0qD4Hw:::0-0-0-3b690a5:CAASEPNjz176GJutUWGRT648DeoaYKxsdW28prrr2035HnHhFfeNaKIxbVuW3JTOLJSpti3CnFWg137Z7xosfM0Nqgv76JWcCmxakWJpWw6YCWpJERGrBUBR2kXTQ98Pfz9nCjXfQX-1ztTpO1ClC-XKCVab7A
+
+undefined

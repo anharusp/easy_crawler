@@ -1,0 +1,17 @@
+POST https://top-fwz1.mail.ru/tracker?js=13;id=2686816;u=https%3A//www.ozon.ru/seller/;r=https%3A//www.ozon.ru/category/supermarket-25000/;st=1587296624026;s=1920*1080;vp=785*585;touch=0;hds=1;flash=;sid=25b3d0419147b67c;ver=60.1.0;tz=-180%2FEurope%2FMoscow;nt=0/0/1587296623302/550/551///3/3/3/3/3//7/500/527/583/724/779/779/1174/1174/1175;ni=10//4g/50/0/;detect=0;lvid=1587296229758%3A1587296625003%3A83%3A1bb26a8eb2fd055fbf57d462609581ac;opts=dl;_=0.9796332340114606;e=RT/load;et=1587296625002
+Host top-fwz1.mail.ru
+Connection keep-alive
+Content-Length 0
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type text/plain;charset=UTF-8
+Accept */*
+Origin https://www.ozon.ru
+Sec-Fetch-Site cross-site
+Sec-Fetch-Mode no-cors
+Referer https://www.ozon.ru/seller/
+Accept-Encoding gzip, deflate, br
+Accept-Language ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie VID=2QEjyZ1Bgqnw00000Q0qD4Hw:::0-0-0-3b690a5:CAASENOfYw6HKycB6Phfq7N_RrQaYB4XdmsLhMoMHSIYtmhA48ov3GM3q5vpvDTmys23dO0ae1NdVKRMrF8Ymyx2KAxvALzPajV-0oqOxeakN9FEowNHayRxUeGdyaHNnt3RIq3DOjRv_ibF5JNBRvmGaZDU_w
+
+undefined

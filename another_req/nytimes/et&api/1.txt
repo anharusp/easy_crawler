@@ -1,0 +1,17 @@
+POST https://et.nytimes.com/
+Host et.nytimes.com
+Connection keep-alive
+Content-Length 156
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type text/plain;charset=UTF-8
+Accept */*
+Origin https://www.nytimes.com
+Sec-Fetch-Site same-site
+Sec-Fetch-Mode cors
+Referer https://www.nytimes.com/
+Accept-Encoding gzip, deflate, br
+Accept-Language ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie nyt-a=0yTYLfRMKQUBgzGZ81wbbq; nyt-gdpr=0; nyt-purr=cfhhcfh; nyt-geo=RU; sessionActive=true; sessionIndex=1|1587229318347|0yTYLfRMKQUBgzGZ81wbbq|1587229318347|true; nyt-jkidd=uid=0&lastRequest=1587229319570&activeDays=%5B0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C1%5D&adv=1&a7dv=1&a14dv=1&a21dv=1&lastKnownType=anon; b2b_cig_opt=%7B%22isCorpUser%22:false%7D; edu_cig_opt=%7B%22isEduUser%22:false%7D; nyt-m=A1B3501A2F509622CE48ADF16DC1D36E&vp=i.0&ft=i.0&t=i.1&fv=i.0&imu=i.1&iue=i.0&iga=i.0&ird=i.0&s=s.core&ira=i.0&n=i.2&ier=i.0&ifv=i.0&e=i.1588291200&g=i.0&prt=i.0&iru=i.0&pr=l.4.0.0.0.0&igu=i.1&imv=i.0&uuid=s.9c8ea76d-43e9-48f1-9619-a96cbaf8f487&er=i.1587229319&cav=i.0&igf=i.0&iir=i.0&v=i.0&rc=i.0&vr=l.4.0.0.0.0&ica=i.0&iub=i.0&igd=i.0; et-a1=%257B%2522agentId%2522%253A%25220yTYLfRMKQUBgzGZ81wbbq%2522%252C%2522agentStarted%2522%253A1587229319330%252C%2522sessionIndex%2522%253A1%252C%2522sessionStarted%2522%253A1587229319330%252C%2522lastModified%2522%253A1587229319706%252C%2522lastUpdate%2522%253A1587229319706%257D
+
+subject=ab-alloc&test=ON_nl_hscroll_0320&variant=0&url=https%3A%2F%2Fwww.nytimes.com%2F&et2_pageview_id=pKK08EdvXf7-PsNm8YMELuUu&instant=1&skipAugment=true

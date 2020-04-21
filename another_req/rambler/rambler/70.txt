@@ -1,0 +1,16 @@
+POST https://www.livejournal.com/__api/
+Host www.livejournal.com
+Connection keep-alive
+Content-Length 265
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type text/plain; charset=UTF-8
+Accept */*
+Origin https://news.rambler.ru
+Sec-Fetch-Site cross-site
+Sec-Fetch-Mode cors
+Referer https://news.rambler.ru/weapon/44046152-tank-t-14-armata-proshel-ispytaniya-v-sirii/?utm_source=head&utm_campaign=self_promo&utm_medium=news&utm_content=news
+Accept-Encoding gzip, deflate, br
+Accept-Language ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+[{"jsonrpc":"2.0","method":"post.get_minipage_widget_counter","id":null,"params":{"url":"https://news.rambler.ru/weapon/44046152-tank-t-14-armata-proshel-ispytaniya-v-sirii/","auth_token":"sessionless:1587369600:/__api/::cba7dc93e785239270436c36003575ae150652c9"}}]

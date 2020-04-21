@@ -1,0 +1,20 @@
+POST https://www.ozon.ru/api/logs-gateway/input
+:method POST
+:authority www.ozon.ru
+:scheme https
+:path /api/logs-gateway/input
+content-length 1569
+authorization Basic ZnJvbnRlbmQtb3pvbi1ydTo1ODM4NjIxZC0zYWZmLTQyMDQtYTY2MS05ZjMzYWY1ZmY0ZjE=
+sec-fetch-dest empty
+user-agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+content-type application/json
+accept */*
+origin https://www.ozon.ru
+sec-fetch-site same-origin
+sec-fetch-mode cors
+referer https://www.ozon.ru/info/action/
+accept-encoding gzip, deflate, br
+accept-language ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+cookie access_token=1al7CdK0RtxehWrYK91Xfkb84PE; refresh_token=aZ7eTGT2fTjYQ9xSH7c6TPPgLAxf9s3NJqyoVAxVFbnRk1kIzt1BnMGJCVI_JwqQ9dnPVYFvoN9_tTHab82E81XojaOBf1VKRJTtS7g-dhMrR_Bmsn_9z2L1Cw3vSp7PhjyOA86s5hP-R8nD8wRFTdJqWmJF5qwwHndqH7zHD_war1Xhz9sb2bUILjkXV9aDuIXhcgKgN7pwv5tKEXrqyCRlGUx5CEnHJSLMn55BOmeVY5d6lKD4m3VNB1ewFfoXcDrIpgBFuziswQl8fllj5Z5FM3V2Ah4e_yYD3cBDd-b-jbAzsdft1s_OODWT1G74fg5qFp_Zqa2j5Dn_wqx16K9ikZh6L7fw-mD1LltRD3-r7jb2_wKZLtGU93NOCjWwCYCWazcBW8i9nTvERqOyPbJSOgebWQtPqjb1vijDRG9ls_wmJAvaCg3OvnyOkh_I; token_expiration="2020-04-19T17:09:59.5854185+03:00"; abGroup=50; SessionID=0kZ0zgTfQ9a3CMGVjYSVTw; xcid=bb9c5560f28a05bd58b6ca923b1f5b8f; visid_incap_1101384=gNu+aXeTQnqJggjThEm5Vpc/nF4AAAAAQUIPAAAAAABWwihSKWHgKsw36Zrtnbb/; nlbi_1101384=SWaRVnTtmXLIkBtIsyIZFQAAAAD9IXHnc7V/ge0FcTp8PXjM; incap_ses_581_1101384=x1DzRBofAzsauZn4gCAQCJc/nF4AAAAA/jvPfmLs9JGlhrEDyd4b+Q==; _gcl_au=1.1.654127902.1587298201; _ga=GA1.2.2119588043.1587298201; _gid=GA1.2.1372368607.1587298201; _dc_gtm_UA-37420525-1=1; cnt_of_orders=0; isBuyer=0; tmr_lvid=6dead8d27e3f49b881b57cd59ee04ee8; tmr_lvidTS=1587298201583; tmr_reqNum=2; _fbp=fb.1.1587298201729.426490019; __exponea_etc__=b23eed31-8236-11ea-92cb-8e95e2ca184a; __exponea_time2__=0.0011262893676757812; tmr_detect=0%7C1587298203863
+
+[{"type":"log","level":"ERROR","abGroup":50,"zone":"layout","browser":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36","platform":"desktop","errorCode":"WIDGET_RENDER_ERROR","tag":"","message":"Error while rendering widget","component":"AllPromo","stackTrace":"TypeError: Cannot read property 'allPromoWidget' of undefined\n    at f.mounted (https://cdn2.ozone.ru/_nuxt/subscriptions-all-banner-sales-subscribe.edd29975ab89c9c652b3.js:1:3672)\n    at Zt (https://cdn2.ozone.ru/_nuxt/commons.app.953827c50ccbe89756f9.js:2:107223)\n    at sn (https://cdn2.ozone.ru/_nuxt/commons.app.953827c50ccbe89756f9.js:2:121539)\n    at Object.insert (https://cdn2.ozone.ru/_nuxt/commons.app.953827c50ccbe89756f9.js:2:116348)\n    at $ (https://cdn2.ozone.ru/_nuxt/commons.app.953827c50ccbe89756f9.js:2:152900)\n    at f.__patch__ (https://cdn2.ozone.ru/_nuxt/commons.app.953827c50ccbe89756f9.js:2:154330)\n    at f.t._update (https://cdn2.ozone.ru/_nuxt/commons.app.953827c50ccbe89756f9.js:2:130787)\n    at f.r (https://cdn2.ozone.ru/_nuxt/commons.app.953827c50ccbe89756f9.js:2:161271)\n    at _n.get (https://cdn2.ozone.ru/_nuxt/commons.app.953827c50ccbe89756f9.js:2:122980)\n    at _n.run (https://cdn2.ozone.ru/_nuxt/commons.app.953827c50ccbe89756f9.js:2:123864)","widget":"allPromo","stateId":"allPromo-260165-default-1","vertical":"promoSubscription","pageUrl":"/info/action/","traceId":"7b4cc408650022ab","pageType":"static_page","layoutId":5285,"ts":"2020-04-19T12:10:05.885Z","client_ts":"2020-04-19T12:10:05.885Z"}]

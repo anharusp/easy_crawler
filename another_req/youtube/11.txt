@@ -1,0 +1,18 @@
+POST https://www.youtube.com/comment_service_ajax?action_get_comments=1&pbj=1&ctoken=4qmFsgK_ARIYVUNkS3VFN2EyUVplSFBoRG50WFZaOTF3GqIBRWdsamIyMXRkVzVwZEhtNEFRREtBUjJ5QVJwVlozZGpNREJKYUhkeVYyRmhjM2g2YjFWb05FRmhRVUpEVWVvQ0JCQUJHQUdxQXo4aVBUQUEyQUVCNmdFYVZXZDNZekF3U1doM2NsZGhZWE40ZW05VmFEUkJZVUZDUTFIeUFSaFZRMlJMZFVVM1lUSlJXbVZJVUdoRWJuUllWbG81TVhjJTNE&continuation=4qmFsgK_ARIYVUNkS3VFN2EyUVplSFBoRG50WFZaOTF3GqIBRWdsamIyMXRkVzVwZEhtNEFRREtBUjJ5QVJwVlozZGpNREJKYUhkeVYyRmhjM2g2YjFWb05FRmhRVUpEVWVvQ0JCQUJHQUdxQXo4aVBUQUEyQUVCNmdFYVZXZDNZekF3U1doM2NsZGhZWE40ZW05VmFEUkJZVUZDUTFIeUFSaFZRMlJMZFVVM1lUSlJXbVZJVUdoRWJuUllWbG81TVhjJTNE&itct=CCAQybcCIhMIw9-5i9D26AIVjwSJCh1ISQww
+X-YouTube-Device cbr=Chrome&cbrver=80.0.3987.0&ceng=WebKit&cengver=537.36&cos=X11
+X-YouTube-Page-Label youtube.ytfe.desktop_20200416_4_RC1
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+X-YouTube-Variants-Checksum 4259290722fb325521839302de6c2dc4
+Content-Type application/x-www-form-urlencoded
+X-YouTube-Page-CL 306978223
+X-SPF-Referer https://www.youtube.com/post/Ugwc00IhwrWaasxzoUh4AaABCQ
+X-YouTube-Utc-Offset 180
+X-YouTube-Client-Name 1
+X-SPF-Previous https://www.youtube.com/post/Ugwc00IhwrWaasxzoUh4AaABCQ
+Referer https://www.youtube.com/post/Ugwc00IhwrWaasxzoUh4AaABCQ
+X-YouTube-Client-Version 2.20200417.04.01
+Sec-Fetch-Dest empty
+X-YouTube-Time-Zone Europe/Moscow
+X-YouTube-Ad-Signals dt=1587372612995&flash=0&frm&u_tz=180&u_his=4&u_java&u_h=1080&u_w=1920&u_ah=1080&u_aw=1920&u_cd=24&u_nplug=3&u_nmime=4&bc=31&bih=600&biw=785&brdim=0%2C0%2C0%2C0%2C1920%2C0%2C960%2C1047%2C800%2C600&vis=1&wgl=true&ca_type=image&bid=ANyPxKpEeuNiGX2RtWYl_Meb_IJz-XXyzIcWCwPLlUTP07hDvsvI5MFSbymfeSTFwPGXfTtrxNjc6RCZR14WqOB6nNZDB1MWRw
+
+session_token=QUFFLUhqbTlpaDR1SEVjVVJnVlh1ZXM4SEV4RTZaRzBtZ3xBQ3Jtc0tuSGVlV1FJVzRwajB5NEhDNkF0NG5UdUFPaHhLYnYtRklRMDc5UVFGU2lUY1lzbUNTak9KOHJNTDUxZjM5SlpHb040ZFlZNEoxNnI3ZkZuU3QwRlJubE1UdmxZT0FKTXlHMTZtaXhvUVFlcjlXbDVObjFrMlh4QnpxOGJnTmJSZWNQaFNvbW1ncVZTM0VmZFgtaGR2bW03VjFVM0E%3D

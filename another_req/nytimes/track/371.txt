@@ -1,0 +1,7 @@
+POST https://a.et.nytimes.com/track
+Referer https://www.nytimes.com/section/world
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type text/plain;charset=UTF-8
+
+[{"context_id":"ap5jFzXwMtcCBn7_TNVL92T_","pageview_id":"UYY-lvISO9nOaekgZadT7FS5","event_id":"qvqjLa3_FymA2vFEcfVgNI3G","client_lib":"v1.0.6","sourceApp":"nyt-vi","how":"beacon","client_ts":1587229767184,"data":{"subject":"page_update","viewport":{"scrollTop":5410,"height":600,"width":800,"documentHeight":6010,"activeTime":45000},"gtm":"GTM-P528B3-368-Production","sourceApp":"nyt-vi"}},{"context_id":"ap5jFzXwMtcCBn7_TNVL92T_","pageview_id":"UYY-lvISO9nOaekgZadT7FS5","event_id":"5RPVN6GhYaMsh30fpQl8HgNX","client_lib":"v1.0.6","sourceApp":"nyt-vi","how":"beacon","client_ts":1587229767978,"data":{"subject":"interaction","gtm":"GTM-P528B3-368-Production","moduleObj":{"name":"footer","context":"section","label":"News"},"eventData":{"type":"click","pagetype":"collection"},"sourceApp":"nyt-vi"}}]

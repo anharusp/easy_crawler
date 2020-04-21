@@ -1,0 +1,18 @@
+POST https://async-px.dynamicyield.com/batch?cnst=1&_=1587310739341_748971
+:method POST
+:authority async-px.dynamicyield.com
+:scheme https
+:path /batch?cnst=1&_=1587310739341_748971
+content-length 480
+sec-fetch-dest empty
+user-agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+content-type text/plain;charset=UTF-8
+accept */*
+origin https://www.perekrestok.ru
+sec-fetch-site cross-site
+sec-fetch-mode cors
+referer https://www.perekrestok.ru/catalog/avto-dom-sad-kuhnya/nabor-dlya-pashi
+accept-encoding gzip, deflate, br
+accept-language ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"md":{"msn":"webserve-75b07e1.use","uid":"-3332663550868164856","sec":"8771419","ses":"5b6602bf3fe01bf504d0995ee00d4258","colors":"dk.l.c.ss.","sld":"perekrestok.ru","rurl":"https://www.perekrestok.ru/catalog/avto-dom-sad-kuhnya/nabor-dlya-pashi","ts":"Direct","p":"35","ref":"internal","rref":"https://www.perekrestok.ru/catalog/vse-dlya-pashi/kulichi","nses":false,"sesst":0,"reqts":1587310738288,"rri":9373975},"data":[{"type":"et","isPerSection":true}],"sectionId":"8771419"}

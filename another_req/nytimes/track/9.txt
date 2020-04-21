@@ -1,0 +1,7 @@
+POST https://a.et.nytimes.com/track
+Referer https://www.nytimes.com/
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type text/plain;charset=UTF-8
+
+[{"context_id":"SRQ9UYfn4DegwnRhtJgwRaxL","pageview_id":"pKK08EdvXf7-PsNm8YMELuUu","event_id":"Vzh43Z-0sWYkL5PmJH2_jGjQ","client_lib":"v1.0.6","sourceApp":"nyt-vi","how":"beacon","client_ts":1587229319919,"data":{"subject":"page_update","performance":{"first-paint":780,"first-contentful-paint":780,"appRenderTime":325},"gtm":"GTM-P528B3-368-Production","sourceApp":"nyt-vi"}},{"context_id":"SRQ9UYfn4DegwnRhtJgwRaxL","pageview_id":"pKK08EdvXf7-PsNm8YMELuUu","event_id":"WnAF_cHCY9KIBK1YR40DZmhB","client_lib":"v1.0.6","sourceApp":"nyt-vi","how":"beacon","client_ts":1587229319938,"data":{"subject":"ab_expose","test":"MC_DFP_topbar_bar_anon_1019","variant":"0_control","gtm":"GTM-P528B3-368-Production","sourceApp":"nyt-vi"}}]

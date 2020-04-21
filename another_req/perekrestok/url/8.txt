@@ -1,0 +1,20 @@
+POST https://www.perekrestok.ru/cart/put?ajax=true&count%5B306678%5D=8
+:method POST
+:authority www.perekrestok.ru
+:scheme https
+:path /cart/put?ajax=true&count%5B306678%5D=8
+content-length 0
+accept application/json
+sec-fetch-dest empty
+x-csrf-token WIF4BMKYt40h8qsjtmFfltbOROLNSaVtGXgh7wI4
+user-agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+x-requested-with XMLHttpRequest
+origin https://www.perekrestok.ru
+sec-fetch-site same-origin
+sec-fetch-mode cors
+referer https://www.perekrestok.ru/catalog/dacha-i-gril
+accept-encoding gzip, deflate, br
+accept-language ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+cookie suuid=9e2d53d7-eaac-4aa5-8ba1-329dbc8311dd; luuid=9e2d53d7-eaac-4aa5-8ba1-329dbc8311dd; noHouse=0; fcf=2; _dy_csc_ses=t; _dy_c_exps=; _dycnst=dg; _gcl_au=1.1.157262095.1587310345; splitVar=test01-B; _dyid=-3332663550868164856; _dyjsession=655f0aef3e10548a536696a170dda183; _dycst=dk.l.c.ss.; _dy_geo=RU.EU.RU_MOW.RU_MOW_Moscow; _dy_df_geo=Russia..Moscow; _ga=GA1.2.328099680.1587310345; _gid=GA1.2.1897272729.1587310345; _ym_uid=1587310345688875454; _ym_d=1587310345; _ym_visorc_43992189=b; _ym_isad=2; tmr_lvid=a8ec92b6f36ea5ce4b1e53d48e069241; tmr_lvidTS=1587310346349; _fbp=fb.1.1587310346617.1885137982; adid=158731034685719; flocktory-uuid=eca49370-a5f6-42c9-b160-2d349bc3ef72-8; _dy_c_att_exps=; polygon_shop_id=2247; is_pickup=0; _dy_ses_load_seq=43513%3A1587310549394; _dy_soct=401501.688468.1587310343*464250.838985.1587310345*473887.861868.1587310345*477293.869420.1587310549*366287.608896.1587310549*451567.810322.1587310549*451564.810319.1587310549; _dyfs=1587310550014; _dy_toffset=-1; tmr_detect=0%7C1587310553788; mindboxDeviceUUID=f5f9d22a-e647-4f21-9068-e107be887824; directCrm-session=%7B%22deviceGuid%22%3A%22f5f9d22a-e647-4f21-9068-e107be887824%22%7D; _gat_UA-93122031-1=1; XSRF-TOKEN=eyJpdiI6IlVaU2xIYVlTU0l2bmlYd2NSYW9mY1E9PSIsInZhbHVlIjoiZDFjcGJub1wvT2pPRjZRNUx2azVqb2EyQXg1M1RNWUtCMnJzRnFDY1wvV2VFbkdFa2tsRzhkYXpSTDZtYyt2U243T09aWGJhSWRGVjJkaHNMeTE4Qm9OUT09IiwibWFjIjoiMDBmNjAyZGI3MjMwNDA3N2E2OGZhYWJlMmQ3ODYwYzExNzVlZmI3NmFkNWM1YTE5Yjk1MmNhZmYxZjZiY2VjOSJ9; aid=eyJpdiI6ImhOVXc4NlRoZDJJSTdaays2anVva1E9PSIsInZhbHVlIjoidWRrejBYbTlKMzhWTnprMUJZY1ZiOTkrMWIxdFlleGt2M29qb1ZKZmVXN0l1cGhBR1I4b3Y5d1dBQU4ralhTbXJPMXdRZTdGQ2FcLzRvSVVucnZnRUVnPT0iLCJtYWMiOiJiNzE4Zjc3MDkyZWZhODhkODdiYzYyNGE0MzBhOWY5ZTBmMDg4Y2UxOTYyYmRjODcwZTQ3ZWFmYzgyMDEyMzkzIn0%3D; appservername=app1; tmr_reqNum=317
+
+undefined

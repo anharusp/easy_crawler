@@ -1,0 +1,18 @@
+POST https://an.yandex.ru/jstracer?pcode_native=418&values=block_render&adb=false&verison=418&widget_pf=no
+:method POST
+:authority an.yandex.ru
+:scheme https
+:path /jstracer?pcode_native=418&values=block_render&adb=false&verison=418&widget_pf=no
+content-length 730
+sec-fetch-dest empty
+user-agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+content-type text/plain;charset=UTF-8
+accept */*
+origin https://www.rambler.ru
+sec-fetch-site cross-site
+sec-fetch-mode cors
+referer https://www.rambler.ru/
+accept-encoding gzip, deflate, br
+accept-language ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"service":"pcode_native","tags":{"100":408,"110":6,"totalInit":153,"totalData":408,"totalRender":6,"total":567,"010":153,"020":196,"030":408,"040":165,"cset":0},"labels":{"adb":"false","verison":"418","widget_pf":"no","version":"418"},"timestamp":1587371237567,"eventType":"values","eventName":"block_render","data":{},"sid":"8722871587371236992","version":"418","location":"https://www.rambler.ru/","topLocation":"https://www.rambler.ru/","topAncestor":"https://www.rambler.ru","ancestorOrigins":[],"documentIsVisible":true,"referrer":"","topReferrer":"","currentScriptSrc":"https://yastatic.net/pcode-native/loaders/loader.js","secureIFrame":false,"isVideoADB":false,"value":1,"rnd":0.1432236963096878,"topDocumentFocus":false}

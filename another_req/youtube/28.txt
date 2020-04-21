@@ -1,0 +1,29 @@
+POST https://www.youtube.com/youtubei/v1/log_event?alt=json&key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8
+:method POST
+:authority www.youtube.com
+:scheme https
+:path /youtubei/v1/log_event?alt=json&key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8
+content-length 817
+x-youtube-device cbr=Chrome&cbrver=80.0.3987.0&ceng=WebKit&cengver=537.36&cos=X11
+x-youtube-page-label youtube.ytfe.desktop_20200416_4_RC1
+user-agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+x-youtube-variants-checksum 4259290722fb325521839302de6c2dc4
+content-type application/json
+x-youtube-page-cl 306978223
+x-youtube-utc-offset 180
+x-youtube-client-name 1
+x-youtube-client-version 2.20200417.04.01
+sec-fetch-dest empty
+x-youtube-time-zone Europe/Moscow
+x-goog-visitor-id CgtnLUFhU25HT3JzSSjIxPX0BQ%3D%3D
+x-youtube-ad-signals dt=1587372612995&flash=0&frm&u_tz=180&u_his=4&u_java&u_h=1080&u_w=1920&u_ah=1080&u_aw=1920&u_cd=24&u_nplug=3&u_nmime=4&bc=31&bih=600&biw=785&brdim=0%2C0%2C0%2C0%2C1920%2C0%2C960%2C1047%2C800%2C600&vis=1&wgl=true&ca_type=image&bid=ANyPxKpEeuNiGX2RtWYl_Meb_IJz-XXyzIcWCwPLlUTP07hDvsvI5MFSbymfeSTFwPGXfTtrxNjc6RCZR14WqOB6nNZDB1MWRw
+accept */*
+origin https://www.youtube.com
+sec-fetch-site same-origin
+sec-fetch-mode cors
+referer https://www.youtube.com/user/KuplinovPlay/community
+accept-encoding gzip, deflate, br
+accept-language ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+cookie GPS=1; YSC=O3JXDkjQmx8; VISITOR_INFO1_LIVE=g-AaSnGOrsI
+
+{"context":{"client":{"hl":"ru","gl":"RU","clientName":1,"clientVersion":"2.20200417.04.01"}},"events":[{"eventTimeMs":1587372752436,"latencyActionTicked":{"tickName":"jset","clientActionNonce":"_QEzmUvw8Hf9Xtua"},"context":{"lastActivityMs":"556"}},{"eventTimeMs":1587372753236,"latencyActionTicked":{"tickName":"jset","clientActionNonce":"_QEzmUvw8Hf9Xtua"},"context":{"lastActivityMs":"1357"}},{"eventTimeMs":1587372754036,"latencyActionTicked":{"tickName":"jset","clientActionNonce":"_QEzmUvw8Hf9Xtua"},"context":{"lastActivityMs":"2157"}},{"eventTimeMs":1587372754837,"latencyActionTicked":{"tickName":"jset","clientActionNonce":"_QEzmUvw8Hf9Xtua"},"context":{"lastActivityMs":"2957"}}],"requestTimeMs":1587372761830,"serializedClientEventId":{"serializedEventId":"Q2KdXoy0B5Wl7QTlk4PABA","clientCounter":24025}}

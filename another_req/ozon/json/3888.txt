@@ -1,0 +1,7 @@
+POST https://www.ozon.ru/api/frontend-perf.bx/v2/events
+Referer https://www.ozon.ru/context/detail/id/160504435/?stat=YWNfMQ%3D%3D
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type text/plain;charset=UTF-8
+
+{"events":[{"metrics":[{"type":"TOTAL_MEMORY_USAGE","value":208862643},{"type":"JS_HEAP_MEMORY_USAGE","value":195224343}],"attributes":{"domainName":"ozon.ru","namespace":"bx","platform":"WEB","screenResolutionX":1920,"screenResolutionY":1080,"screenPixelDensity":1,"browser":"Chrome","platformVersion":"80.0.3987.0"},"object":{"type":"APPLICATION"},"actionType":"metric","timestamp":"2020-04-19T13:08:56.484Z","version":"2","user":{"abGroup":50,"regionId":2,"sessionId":"0kZ0zgTfQ9a3CMGVjYSVTw"},"page":{"current":"pdp","currentUrl":"/context/detail/id/143170414/?stat=Yl8x","spa":true},"properties":{"connectionType":"CELLULAR_4G"}}]}

@@ -1,0 +1,17 @@
+POST https://top-fwz1.mail.ru/counter?js=13;id=2928077;u=https%3A//www.perekrestok.ru/catalog/soki-vody-napitki/bezalkogolnoe-pivo/pivo-amstel-balk-sv-jb-0-45l--442545;r=https%3A//www.perekrestok.ru/catalog/dacha-i-gril;st=1587310433441;pid=USER_ID;title=%D0%9A%D1%83%D0%BF%D0%B8%D1%82%D1%8C%20%D0%9F%D0%B8%D0%B2%D0%BE%20Amstel%20%D0%B1%D0%B5%D0%B7%D0%B0%D0%BB%D0%BA%D0%BE%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5%200.5%25%200.45%D0%BB%20%D1%81%20%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%BE%D0%B9%20%D0%BD%D0%B0%20%D0%B4%D0%BE%D0%BC%20%D0%BF%D0%BE%20%D1%86%D0%B5%D0%BD%D0%B5%2057.90%20%D1%80%D1%83%D0%B1%20%D0%B2%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82-%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD%D0%B5%20%D0%9F%D0%B5%D1%80%D0%B5%D0%BA%D1%80%D0%B5%D1%81%D1%82%D0%BE%D0%BA;s=1920*1080;vp=785*600;touch=0;hds=1;flash=;sid=f9435da10392d2da;ver=60.1.0;tz=-180%2FEurope%2FMoscow;ni=10//4g/50/0/;detect=0;lvid=1587310346349%3A1587310434536%3A155%3Aa8ec92b6f36ea5ce4b1e53d48e069241;opts=sec%2Cdl;_=0.6938245211546794
+Host top-fwz1.mail.ru
+Connection keep-alive
+Content-Length 0
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type text/plain;charset=UTF-8
+Accept */*
+Origin https://www.perekrestok.ru
+Sec-Fetch-Site cross-site
+Sec-Fetch-Mode no-cors
+Referer https://www.perekrestok.ru/catalog/soki-vody-napitki/bezalkogolnoe-pivo/pivo-amstel-balk-sv-jb-0-45l--442545
+Accept-Encoding gzip, deflate, br
+Accept-Language ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie VID=2YNtsE0Qw3nw00000Q0qD4Hw:::0-0-0-3b6c7ca:CAASEC8oUaFRGoxPhjcalH9YGSYaYPjULK-CcDXLiaWNrd93UaBWIrncTJLaT100vEU67-sNsWwpUev-_Cv8RypLiv8GOPpKuup4DNFw7U9a8Ki6PNkGIT2hxpCetE1vihm5OwHgtFzMIF0fGIxskq9lc7pr7w
+
+undefined

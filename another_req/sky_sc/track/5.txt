@@ -1,0 +1,18 @@
+POST https://collector-pxrf8vapwa.px-cloud.net/api/v2/collector
+:method POST
+:authority collector-pxrf8vapwa.px-cloud.net
+:scheme https
+:path /api/v2/collector
+content-length 1051
+sec-fetch-dest empty
+user-agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+content-type application/x-www-form-urlencoded
+accept */*
+origin https://www.skyscanner.ru
+sec-fetch-site cross-site
+sec-fetch-mode cors
+referer https://www.skyscanner.ru/transport/flights-from/mosc/200424/200501/?adults=1&children=0&adultsv2=1&childrenv2=&infants=0&cabinclass=economy&rtn=1&preferdirects=false&outboundaltsenabled=false&inboundaltsenabled=false&ref=home
+accept-encoding gzip, deflate, br
+accept-language ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+payload=aUkQRhAIEGJqAAMQHhBWEAhJEGJqBwUQCBBpbhBmS0JXd0BAXUAIEnFTXFxdRhJAV1NWEkJAXUJXQEZLEhUCFRJdVBJcR15eElNGEmFGElNGEnpmf352XVFHX1dcRhxVV0Z3XldfV1xGcEt7VhJTRhJ9UFhXUUYcbRxhElNGEm0cQkEcdRJTRhJzQEBTSxwOU1xdXEtfXUdBDBJTRhJzQEBTSxxCR0FaElNGEmRAHA5TXF1cS19dR0EMElNGEmRAHF8SU0YSbRwWQBxeElNGEnNAQFNLHA5TXF1cS19dR0EMEm4QbxAeEGJqCgcCEAgGHhBiagoHAxAIAAILAR4QYmoBBQMQCEZAR1ceEGJqCwQQCBBaRkZCQQgdHUVFRRxBWUtBUVNcXFdAHEBHHUZAU1xBQl1ARh1UXltVWkZBH1RAXV8dX11BUR0AAgIGAAYdAAICBwIDHQ1TVkdeRkEPAxRRWlteVkBXXA8CFFNWR15GQUQADwMUUVpbXlZAV1xEAA8UW1xUU1xGQQ8CFFFTUFtcUV5TQUEPV1FdXF1fSxRARlwPAxRCQFdUV0BWW0BXUUZBD1RTXkFXFF1HRlBdR1xWU15GQVdcU1BeV1YPVFNeQVcUW1xQXUdcVlNeRkFXXFNQXldWD1RTXkFXFEBXVA9aXV9XEE9Pbw==&appId=PXrf8vapwA&tag=v5.3.7&uuid=ec92d050-825f-11ea-aba9-4dbe6637d255&ft=139&seq=3&en=NTA&cs=8dd19f3ebe4336b63dea54540b54a9fd40f958929b5f796b80eebacae08d3e41&pc=0402711583379778&sid=bc660cd0-825f-11ea-9eec-0587f99f8e98&vid=ba4fd701-825f-11ea-ad8a-83a1ee03969f&pxhd=5afeb20009dec207faeafb8ad2d977159bca69c5673df60862e26b7408b8af8f:ba4fd701-825f-11ea-ad8a-83a1ee03969f

@@ -1,0 +1,19 @@
+POST https://a.et.nytimes.com/track
+:method POST
+:authority a.et.nytimes.com
+:scheme https
+:path /track
+content-length 414
+sec-fetch-dest empty
+user-agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+content-type text/plain;charset=UTF-8
+accept */*
+origin https://www.nytimes.com
+sec-fetch-site same-site
+sec-fetch-mode no-cors
+referer https://www.nytimes.com/
+accept-encoding gzip, deflate, br
+accept-language ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+cookie nyt-a=0yTYLfRMKQUBgzGZ81wbbq; nyt-gdpr=0; nyt-purr=cfhhcfh; nyt-geo=RU; sessionActive=true; sessionIndex=1|1587229318347|0yTYLfRMKQUBgzGZ81wbbq|1587229318347|true; nyt-jkidd=uid=0&lastRequest=1587229319570&activeDays=%5B0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C1%5D&adv=1&a7dv=1&a14dv=1&a21dv=1&lastKnownType=anon; b2b_cig_opt=%7B%22isCorpUser%22:false%7D; edu_cig_opt=%7B%22isEduUser%22:false%7D; nyt-m=A1B3501A2F509622CE48ADF16DC1D36E&vp=i.0&ft=i.0&t=i.1&fv=i.0&imu=i.1&iue=i.0&iga=i.0&ird=i.0&s=s.core&ira=i.0&n=i.2&ier=i.0&ifv=i.0&e=i.1588291200&g=i.0&prt=i.0&iru=i.0&pr=l.4.0.0.0.0&igu=i.1&imv=i.0&uuid=s.9c8ea76d-43e9-48f1-9619-a96cbaf8f487&er=i.1587229319&cav=i.0&igf=i.0&iir=i.0&v=i.0&rc=i.0&vr=l.4.0.0.0.0&ica=i.0&iub=i.0&igd=i.0; _gcl_au=1.1.971895839.1587229320; walley=GA1.2.549216957.1587229320; walley_gid=GA1.2.908571124.1587229320; _gat_UA-58630905-2=1; et-a1=%257B%2522agentId%2522%253A%25220yTYLfRMKQUBgzGZ81wbbq%2522%252C%2522agentStarted%2522%253A1587229319330%252C%2522sessionIndex%2522%253A1%252C%2522sessionStarted%2522%253A1587229319330%252C%2522lastModified%2522%253A1587229320281%252C%2522lastUpdate%2522%253A1587229320281%257D; purr-cache=<K0<r<C_<G_<S0
+
+[{"context_id":"SRQ9UYfn4DegwnRhtJgwRaxL","pageview_id":"pKK08EdvXf7-PsNm8YMELuUu","event_id":"uPV4YPGpjMICTKAJCw1Ftw6y","client_lib":"v1.0.6","sourceApp":"nyt-vi","how":"beacon","client_ts":1587229320609,"data":{"event":"impression","moduleObj":{"name":"bar1","context":"","label":"MAG_web_anon_all_monthly-sale-April","region":"0"},"subject":"impression","gtm":"GTM-P528B3-368-Production","sourceApp":"nyt-vi"}}]

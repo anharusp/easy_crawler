@@ -1,0 +1,19 @@
+POST https://www.ozon.ru/api/frontend-perf.bx/v2/events
+:method POST
+:authority www.ozon.ru
+:scheme https
+:path /api/frontend-perf.bx/v2/events
+content-length 1085
+sec-fetch-dest empty
+user-agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+content-type text/plain;charset=UTF-8
+accept */*
+origin https://www.ozon.ru
+sec-fetch-site same-origin
+sec-fetch-mode no-cors
+referer https://www.ozon.ru/context/detail/id/150555743/?_bctx=CAYQ0doC
+accept-encoding gzip, deflate, br
+accept-language ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+cookie access_token=1al7CdK0RtxehWrYK91Xfkb84PE; refresh_token=aZ7eTGT2fTjYQ9xSH7c6TPPgLAxf9s3NJqyoVAxVFbnRk1kIzt1BnMGJCVI_JwqQ9dnPVYFvoN9_tTHab82E81XojaOBf1VKRJTtS7g-dhMrR_Bmsn_9z2L1Cw3vSp7PhjyOA86s5hP-R8nD8wRFTdJqWmJF5qwwHndqH7zHD_war1Xhz9sb2bUILjkXV9aDuIXhcgKgN7pwv5tKEXrqyCRlGUx5CEnHJSLMn55BOmeVY5d6lKD4m3VNB1ewFfoXcDrIpgBFuziswQl8fllj5Z5FM3V2Ah4e_yYD3cBDd-b-jbAzsdft1s_OODWT1G74fg5qFp_Zqa2j5Dn_wqx16K9ikZh6L7fw-mD1LltRD3-r7jb2_wKZLtGU93NOCjWwCYCWazcBW8i9nTvERqOyPbJSOgebWQtPqjb1vijDRG9ls_wmJAvaCg3OvnyOkh_I; token_expiration="2020-04-19T17:09:59.5854185+03:00"; abGroup=50; SessionID=0kZ0zgTfQ9a3CMGVjYSVTw; xcid=bb9c5560f28a05bd58b6ca923b1f5b8f; visid_incap_1101384=gNu+aXeTQnqJggjThEm5Vpc/nF4AAAAAQUIPAAAAAABWwihSKWHgKsw36Zrtnbb/; nlbi_1101384=SWaRVnTtmXLIkBtIsyIZFQAAAAD9IXHnc7V/ge0FcTp8PXjM; incap_ses_581_1101384=x1DzRBofAzsauZn4gCAQCJc/nF4AAAAA/jvPfmLs9JGlhrEDyd4b+Q==; _gcl_au=1.1.654127902.1587298201; _ga=GA1.2.2119588043.1587298201; _gid=GA1.2.1372368607.1587298201; cnt_of_orders=0; isBuyer=0; tmr_lvid=6dead8d27e3f49b881b57cd59ee04ee8; tmr_lvidTS=1587298201583; _fbp=fb.1.1587298201729.426490019; __exponea_etc__=b23eed31-8236-11ea-92cb-8e95e2ca184a; __exponea_time2__=0.0011262893676757812; _gat_UA-37420525-1=1; tmr_detect=0%7C1587298294673; tmr_reqNum=50; _dc_gtm_UA-37420525-1=1
+
+{"events":[{"metrics":[{"type":"TIME_TO_FIRST_BYTE","value":101.64500000246335},{"type":"TIME_TO_LAST_BYTE","value":101.80500001297332},{"type":"TOTAL_TIME","value":470.81500000786036},{"type":"ST_TOTAL","value":59.868255},{"type":"ST_RESOLVE","value":8.900301},{"type":"ST_WIDGETS","value":49.536957},{"type":"ST_INTERNAL","value":1.430997},{"type":"LAYOUT_TIME","value":200.25499998882879}],"attributes":{"domainName":"ozon.ru","namespace":"bx","platform":"WEB","screenResolutionX":1920,"screenResolutionY":1080,"screenPixelDensity":1,"browser":"Chrome","platformVersion":"80.0.3987.0"},"object":{"type":"PAGE"},"actionType":"metric","timestamp":"2020-04-19T12:11:30.964Z","version":"2","user":{"abGroup":50,"regionId":2,"sessionId":"0kZ0zgTfQ9a3CMGVjYSVTw"},"page":{"current":"pdp","currentUrl":"/context/detail/id/150555743/?_bctx=CAYQ0doC","spa":true},"properties":{"url":"https://www.ozon.ru/api/composer-api.bx/page/json/v2?url=%2Fcontext%2Fdetail%2Fid%2F156250567%2F%3F_bctx%3DCAYQ0doC%26layout_container%3DpdpReviews%26layout_page_index%3D2","connectionType":"CELLULAR_4G"}}]}

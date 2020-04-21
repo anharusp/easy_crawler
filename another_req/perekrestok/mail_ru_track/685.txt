@@ -1,0 +1,17 @@
+POST https://bam.eu01.nr-data.net/events/1/91d3f19a9b?a=16405072&v=1167.2a4546b&to=MhBSZQoZDUEABRUMXAtacVIMEQxcTgUAEVIJGlc%3D&rst=7518&ref=https://www.perekrestok.ru/catalog/vse-dlya-pashi/kulichi
+Host bam.eu01.nr-data.net
+Connection keep-alive
+Content-Length 694
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+content-type text/plain
+Accept */*
+Origin https://www.perekrestok.ru
+Sec-Fetch-Site cross-site
+Sec-Fetch-Mode cors
+Referer https://www.perekrestok.ru/catalog/vse-dlya-pashi/kulichi
+Accept-Encoding gzip, deflate, br
+Accept-Language ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie JSESSIONID=fd4f536d6cd19d57
+
+bel.7;1,a,,5sk,5sk,ew,'initialPageLoad,'https://www.perekrestok.ru/catalog/vse-dlya-pashi/kulichi,1,1,,,,1bq,!!'fee37b50-2b3e-4a03-8386-26f3ff4a22e4,'1,1m0,1m0;a,'HldRE0IDHk8=;2,,1x5,ho,1u,5,'GET,5k,'www.perekrestok.ru:443,'/address/regionSiteList,,,1,'3,!!!;2,,284,71,60,1j,5,5k,6,'/get-ajax-menu,,,1,'5,!!!;2,,2ds,2h,7,6,'POST,5k,'mc.yandex.ru:443,'/watch/43992189,,5q,,'7,!!!;2,,2am,81,66,1m,5,5k,6,9,,,1,'6,!!!;2,,27q,bv,5b,2,5,5k,6,'/api-site/slot/near-date,,,1,'4,!!!;2,,2i2,6s,,,b,5k,'async-px.dynamicyield.com:443,'/uia,22v,,,'9,!!!;2,,2iv,64,,,5,5k,i,'/var,,,,'10,!!!;2,,2iz,60,,,5,5k,i,l,,,,'11,!!!;2,,2n4,40,,,b,5k,i,'/batch,184,,,'12,!!!;b,1g1,!4,!-1g3,,,,!,3,1fh,a,s,or,1,7f,8o,1,y

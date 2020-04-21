@@ -1,0 +1,12 @@
+POST https://www.ozon.ru/api/composer-api.bx/widget/json/v2
+x-o3-app-name dweb_client
+Authorization Bearer 1al7CdK0RtxehWrYK91Xfkb84PE
+Content-Type application/json
+Accept application/json
+Referer https://www.ozon.ru/context/detail/id/163600553/?stat=Yl8x
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+x-o3-app-version release_17-3-2020_a9aec27d
+X-OZON-ABGROUP 50
+
+{"asyncData":"eyJ1cmwiOiIvY29udGV4dC9kZXRhaWwvaWQvMTYzNjAwNTUzLz9zdGF0PVlsOHgiLCJjaSI6eyJpZCI6MzM4NTk0LCJuYW1lIjoid2ViUmVhc29uc1RvQnV5IiwidmVydGljYWwiOiJwZHAiLCJ2ZXJzaW9uIjoxLCJwYXJhbXMiOlt7Im5hbWUiOiJyb3VuZGluZ0ZhY3RvciIsImZsb2F0IjoxLjN9LHsibmFtZSI6InNob3dJY29uIiwiYm9vbCI6dHJ1ZX0seyJuYW1lIjoidGhlbWUiLCJ0ZXh0Ijoid2l0aFBsYXRlIn0seyJuYW1lIjoidG9kYXlQdXJjaGFzZWQiLCJpbnQiOjN9LHsibmFtZSI6IndlZWtQcm9kdWN0Vmlld3MiLCJpbnQiOjUwfSx7Im5hbWUiOiJ3ZWVrUHVyY2hhc2VkIiwiaW50IjoxMH1dLCJ0b2tlbnMiOnsid2lkZ2V0Ijoidy0wMDBkNWVlOTk1ODkwNzI3YjgyOWU0ZTU3YjE3NzFkMjJmN2VmNGU5IiwicGFnZSI6InAtMTljMzg2OTA4YWIyOThkMWExZjcxZTVkM2FmY2E4NmEyODc5ZjBmOSJ9fX0=","componentName":"webReasonsToBuy"}

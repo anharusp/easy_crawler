@@ -1,0 +1,19 @@
+POST https://a.et.nytimes.com/track
+:method POST
+:authority a.et.nytimes.com
+:scheme https
+:path /track
+content-length 352
+sec-fetch-dest empty
+user-agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+content-type text/plain;charset=UTF-8
+accept */*
+origin https://www.nytimes.com
+sec-fetch-site same-site
+sec-fetch-mode no-cors
+referer https://www.nytimes.com/
+accept-encoding gzip, deflate, br
+accept-language ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+cookie nyt-a=0yTYLfRMKQUBgzGZ81wbbq; nyt-gdpr=0; nyt-purr=cfhhcfh; nyt-geo=RU
+
+[{"context_id":"SRQ9UYfn4DegwnRhtJgwRaxL","pageview_id":"pKK08EdvXf7-PsNm8YMELuUu","event_id":"pKK08EdvXf7-PsNm8YMELuUu","client_lib":"v1.0.6","sourceApp":"nyt-vi","how":"beacon","client_ts":1587229318155,"data":{"subject":"page","canonicalUrl":"https://www.nytimes.com/","url":"https://www.nytimes.com/","client_tz_offset":-180,"sourceApp":"nyt-vi"}}]

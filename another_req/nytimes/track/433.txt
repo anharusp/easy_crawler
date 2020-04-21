@@ -1,0 +1,7 @@
+POST https://a.et.nytimes.com/track
+Referer https://www.nytimes.com/section/sports
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type text/plain;charset=UTF-8
+
+[{"context_id":"OlIFIkxsH0P-1nGWGkLAXmoH","pageview_id":"iKb4Z2SXjySshiob2d0Jd3mZ","event_id":"KHlJe2tVvIVxKmju3GWpM0Jf","client_lib":"v1.0.6","sourceApp":"nyt-vi","how":"beacon","client_ts":1587230005649,"data":{"subject":"ab_alloc","allocs":[{"test":"MC_bar1_color_0120","variant":"0"}],"sourceApp":"nyt-vi"}}]

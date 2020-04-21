@@ -1,0 +1,7 @@
+POST https://www.ozon.ru/api/tracker.bx/v2/events
+Referer https://www.ozon.ru/context/detail/id/154996177/?_bctx=CAYQ0doC
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type text/plain;charset=UTF-8
+
+{"events":[{"attributes":{"app_version":"2.0.0","device_type":"desktop","namespace":"bx","platform":"site","screen_resolution_x":1920,"screen_resolution_y":1080},"page":{"category_id":0,"current":"highlight","current_url":"/highlight/44369/","page_view_id":"80be3346-aa54-4916-b6db-8a6f5445c9e9","previous":"pdp","previous_page_view_id":"ee89b760-e6ea-4f1a-a227-9e7e339aa11f","referral_url":"/context/detail/id/148973032/?_bctx=CAYQ0doC","layout_id":1696,"layout_version":102,"rule_id":2922},"special":true,"timestamp":"2020-04-19 15:11:14 +0300","user":{"ab_group":50,"client_id":0,"experiments":"347:572,351:583,352:585,354:588,362:622,364:630,367:638,368:640,369:642,370:643,375:651,378:663,379:673,380:675,383:683,385:704","google_id":"GA1.2.2119588043.1587298201","latitude":55.755814,"long_cookie":"bb9c5560f28a05bd58b6ca923b1f5b8f","longitude":37.617634,"region_id":2,"session_id":"0kZ0zgTfQ9a3CMGVjYSVTw"}},{"action_type":"page_view","number":39,"object":{"type":"page"},"properties":{"category_id":0},"timestamp":"2020-04-19 15:11:14 +0300","uuid":"11873de2-339d-46ae-87ef-0983ce68fce1","version":"2"}]}

@@ -1,0 +1,19 @@
+POST https://www.coursera.org/eventing/infoBatch.v2
+:method POST
+:authority www.coursera.org
+:scheme https
+:path /eventing/infoBatch.v2
+content-length 692
+sec-fetch-dest empty
+user-agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+content-type application/json;charset=UTF-8
+accept */*
+origin https://www.coursera.org
+sec-fetch-site same-origin
+sec-fetch-mode cors
+referer https://www.coursera.org/
+accept-encoding gzip, deflate, br
+accept-language ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+cookie CSRF3-Token=1588072357.K0GJfrvDVe40bquf; __204u=3279858587-1587208357347; __204r=; __400v=98ca0175-482f-462d-bf70-a33bd38b5f19; _ga=GA1.2.1691686412.1587208359; _gid=GA1.2.1945633046.1587208359; _dc_gtm_UA-28377374-1=1; _dc_gtm_UA-86370891-1=1; _gd_visitor=5e873043-9dd8-420f-8c23-81a0d48f226f; _gd_session=b03aab4c-d1a8-4e82-80c0-e60485039987; _fbp=fb.1.1587208359219.2024235120; _gd_svisitor=4d1f1602f73e0000a7e09a5e35000000dd5e0100; _tq_id.TV-63455409-1.39ed=4f08826157f61a26.1587208359.0.1587208359..; maId={"cid":"ee2371d08004a5f0b7512d7d641ac3ec","sid":"c89b1d2f-3e5b-4ef2-bf0d-987ae3b493e7","isSidSaved":true,"sessionStart":"2020-04-18T11:12:39.000Z"}; __400vt=1587208362553
+
+{"clientType":"web","app":"phoenix","clientVersion":"629a8721bee7303460208f535aa7209b933d8ad5","events":[{"key":"front_page.front_page_story.click.see_all_partner","value":{"namespace":{"app":"front_page","page":"front_page_story","action":"click","component":"see_all_partner"},"href":"/about/partners","value":"showAllPartners","schema_type":"FRONTEND","appName":"front-page"},"clientType":"web","url":"https://www.coursera.org/","app":"phoenix","guid":"8db6c3fd-a587-459b-c27a-3d7939fe50b9","visitId":"98ca0175-482f-462d-bf70-a33bd38b5f19","screenSize":{"height":1080,"width":1920},"clientVersion":"629a8721bee7303460208f535aa7209b933d8ad5","clientTimestamp":1587208362552,"sequence":10}]}

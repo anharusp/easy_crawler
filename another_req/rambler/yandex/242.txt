@@ -1,0 +1,17 @@
+POST https://kraken.rambler.ru/cnt/
+Host kraken.rambler.ru
+Connection keep-alive
+Content-Length 1090
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type text/plain;charset=UTF-8
+Accept */*
+Origin https://www.rambler.ru
+Sec-Fetch-Site same-site
+Sec-Fetch-Mode no-cors
+Referer https://www.rambler.ru/
+Accept-Encoding gzip, deflate, br
+Accept-Language ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie ruid=vAsAAORcnV6xb/MlAQ5ZEAB=; user-id_1.0.5_lr_lruid=pQ8AAOVcnV4rM5n8AYd83wA%3D; user-id_1.0.5_FingerPrint=pA8AAGsis1e8O%2FWjAZsgGwA%3D; sspjs_2.29.0_af_lpdid=%7B%22DATE%22%3A1587371236743%2C%22ID%22%3A%223%3A1704298438%22%7D; dvr=gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA:1587371236; _ga=GA1.2.789105107.1587371237; _gid=GA1.2.569175972.1587371237; c8980c62834072c480df58741f1fd039393df9aaea5446dbb1dd2187750209fe_2=vAsAAORcnV6xb%2FMlAQ5ZEAB%3D; _ym_uid=1587371237691198303; _ym_d=1587371237; _ym_visorc_28161048=b; top100_id=t1.29811.214753684.1587371237820; proto_uid=1CIAAOVcnV47O5iXARUDtQB=; _ym_isad=2; _ym_visorc_26649402=b; _ym_visorc_25662806=b; _ym_visorc_250894=w; rambler_3rdparty_v2=; uuts=4vrJyDWBj5fP5odDEaafX2XG189CutVx; declinesbc=1; detect_count=0; _ym_visorc_26557647=b; _ym_visorc_27440552=b; _ym_visorc_34134440=b; _ym_visorc_251983=w; chash=2060448999; __gads=ID=5746782097f1ff2f:T=1587371256:S=ALNI_MbHauHU3nimcEtZEow9nkJBXHCEzQ; _ym_visorc_44184774=b; _ym_visorc_44184839=b; _ym_visorc_259474=w; _ym_visorc_26301750=b; _ym_visorc_25662845=b; _ym_visorc_30260347=b; _ym_visorc_140541=w; sts=0.1587371237.1.1587371237.2.1587371237.3.1587371237.4.1587371237.https:.1587371295; _gat=1; _gat_portal=1; lvr=1587371373; last_visit=1587360573737::1587371373737
+
+et=extln&pid=29811&rid=1587371373.733-1138370376&tid=t1.29811.214753684.1587371237820&v=1.8.0&extln=https%3A%2F%2Fan.yandex.ru%2Fcount%2FWY8ejI_zO0a2nH00f1fW1hA6f6i5f0K02GCnR5sTNW00000udD28tg363O01f_cnwGI80OQ1ZTSra06olkRYBvW1g8k-YY-W0Ro-vk8lg078YBwABxW1sf--WXh00GBO0QZ_dHNW0TJslGIIwTzNe0BmnmUv0gqYaLWbkYkpy0BHoEtp2eqC-0IMwIc81PRfAP05qTiqe0MMuGoe1VtG2h05_T0Ak0N0imsVqS46v4YcF3F8-G39qGRatDkpgW000Aa7vw0K3qxdjXou1xG6-EFG3yaAfvNcCueb0Qu1c0kO0QeB458c_Bxde000CHhAihIZw0kMwIdm2mQf3D2iCUimBU4_w0mRc0sDf9cW3fB0DkV1ak3VwRdR7DaFbbgJbnnizp_W3m604EhtvH7G4Cdq2U35hQm9u16nySm1w17RmeQphEdPZMXmSFL0Uki7zNl2_3y3u1F0ims859oVmlwyyeYB2A0KmBCDg1JHspIif-Vq1UWK6CWLdSMduPe2q1Mif-Vq1TWLmOhsxAEFlFnZy1MsxjpFsv-wntUW5j2acVG5i1Qo0yaMq1QIwT--0O4Nc1VbsJ8W03JaQ0Sbe7f_vi4uSmE3qNVCHC93aWKIGxiHsal4e5to9Ze0zSN8kGf0JhlEc0heP9fZy8WLzKudi2U69DWDp48FFJndMfeo94wV0okBg0D0A2s5nt9LmOri3Uujumvkm4uXcnt3m94p1Xu0~1%3Fstat-id%3D87%26test-tag%3D380980787426817%26format-type%3D77%26actual-format%3D40%26banner-test-tags%3DeyI2NDExODMzMjQxIjoiMzI3NjkifQ%253D%253D&sp=%5B%22AdBlock_no%22%2C%22recsys_rambler%22%2C%22version_default%22%5D

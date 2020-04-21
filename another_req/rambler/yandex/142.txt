@@ -1,0 +1,19 @@
+POST https://mc.yandex.ru/webvisor/25662845?wmode=0&rn=59212973&page-url=https%3A%2F%2Fnews.rambler.ru%2Fweapon%2F44046152-tank-t-14-armata-proshel-ispytaniya-v-sirii%2F%3Futm_source%3Dhead%26utm_campaign%3Dself_promo%26utm_medium%3Dnews%26utm_content%3Dnews&wv-type=5&wv-hit=478441967&wv-part=4&browser-info=ti%3A8%3Aet%3A1587371294%3Aw%3A785x600%3Av%3A1853%3Az%3A180%3Ai%3A20200420112813%3Ast%3A1587371306%3Au%3A1587371237691198303%3App%3A3629563401
+Host mc.yandex.ru
+Connection keep-alive
+Content-Length 43
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type text/plain
+Accept */*
+Origin https://news.rambler.ru
+Sec-Fetch-Site cross-site
+Sec-Fetch-Mode cors
+Referer https://news.rambler.ru/weapon/44046152-tank-t-14-armata-proshel-ispytaniya-v-sirii/?utm_source=head&utm_campaign=self_promo&utm_medium=news&utm_content=news
+Accept-Encoding gzip, deflate, br
+Accept-Language ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie yuidss=70307391587371236; yandexuid=70307391587371236; yabs-sid=1880803411587371237; i=4zTrgMiZsIow6FLwBw4K7Ef9zq06EctqGG2AgexPtzsowkWBQrZnqgGxkCC1t/uRFKavc7Z2iB0VlI9JxGOLb9CTrm8=; ymex=1902731237.yrts.1587371237#1902731237.yrtsi.1587371237
+
+
+)ßf$*"
+ÓÅ±		® (¿'0Ù~=þÔØ>@Ä!î

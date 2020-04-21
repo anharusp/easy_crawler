@@ -1,0 +1,19 @@
+POST https://hbxlp.media.net/log
+:method POST
+:authority hbxlp.media.net
+:scheme https
+:path /log
+content-length 760
+sec-fetch-dest empty
+user-agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+content-type text/plain;charset=UTF-8
+accept */*
+origin https://www.nytimes.com
+sec-fetch-site cross-site
+sec-fetch-mode no-cors
+referer https://www.nytimes.com/section/corrections
+accept-encoding gzip, deflate, br
+accept-language ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+cookie visitor-id=2302309182860962000V10; data-o=12317eed-5827-00e9-2411-041777ab0952~~1; data-a=1787246329806646575~~1; data-co=AAAL1LUr6Ozh-ANW69NlAAAAAAA~~1; data-r=K95VCTQA-A-KZ9N~~1; data-bs=8c9f6081-ec79-4424-b90f-508d1d048424~~1; data-xu=4OXaMAM41JpQR15~~1; data-bt=0b7fee5f-81a1-4af9-a3b9-c7f8dbffcf86~~1; data-rbh=73lm5xsSLZlpgTxwgclD~~1; data-di=di_93c423f43af64e7ab904f~~1
+
+logid=kfk&evtid=belog&pid=8PRL4E7N3&itype=HB&dn=nytimes.com&cid=8CU2553YN&svr=2020041612_790&servname=c8-web-23&gdpr=0&csex=2&csstr=&tcf_cmp=&tcf_status=&tcf_prp=&usp_status=0&usp_enf=1&usp_string=&ufca=&usp_ldf=&ugd=4&adt=desktop&vid=00001587230206643014319286093868&vsid=2302309182860962&sd=31&gtd=401&inid=0&gfd=400&cc=RU&sc=&ct=MOSCOW&abte=CONTROL&adbd=0&amp=0&version=0&sB=true&cors=true&disB=false&ice=1&vw=785&vh=600&pht=3019&cl=0&__rk=0&app=0&rtype=&vendor=Google%20Inc.&isSafari=0&name=RTBS_REQUEST_RESPONSE_COUNT_MISMATCH&stack=1%7C0%7C992&crid=&dfpDiv=&pvid=&dfpBd=&lid=&tref=false&rfc=&cpr=856.2192281678487&lvl=2&requrl=https%3A%2F%2Fwww.nytimes.com%2Fsection%2Fcorrections&kwrf=https%3A%2F%2Fwww.nytimes.com&epurl=https%3A%2F%2Fwww.nytimes.com%2F

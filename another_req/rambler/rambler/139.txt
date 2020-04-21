@@ -1,0 +1,7 @@
+POST https://kraken.rambler.ru/cnt/
+Referer https://weekend.rambler.ru/crazy-world/44045549-altaytsy-reshili-chto-ot-covid-ih-ohranyaet-mumiya/?utm_source=head&utm_campaign=self_promo&utm_medium=news&utm_content=video
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type text/plain;charset=UTF-8
+
+et=act&pid=4422985&rid=1587371378.859-1403698028&tid=t1.29811.214753684.1587371237820&v=1.8.0&meta=%7B%22time%22%3A2%2C%22screens%22%3A%5B0%2C0%2C2%2C2%2C2%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%5D%7D

@@ -1,0 +1,19 @@
+POST https://a.et.nytimes.com/track
+:method POST
+:authority a.et.nytimes.com
+:scheme https
+:path /track
+content-length 619
+sec-fetch-dest empty
+user-agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+content-type text/plain;charset=UTF-8
+accept */*
+origin https://myaccount.nytimes.com
+sec-fetch-site same-site
+sec-fetch-mode no-cors
+referer https://myaccount.nytimes.com/auth/iframe/enter-email?response_type=cookie&client_id=freex&redirect_uri=https%3A%2F%2Fwww.nytimes.com%2Fsubscription%2Fmultiproduct%2Flp8KQUS.html%3FcampaignID%3D7QQFH%26EXIT_URI%3Dhttps%253A%252F%252Fwww.nytimes.com%252F2020%252F04%252F16%252Fus%252Fpolitics%252Ftrump-coronavirus-promises-fact-check.html&display=hubpage_lire&asset=RegiWall&campaign_id=CoronaVirus&application=Free_Experience&preloaded=true
+accept-encoding gzip, deflate, br
+accept-language ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+cookie nyt-gdpr=0; nyt-purr=cfhhcfh; nyt-geo=RU; sessionActive=true; b2b_cig_opt=%7B%22isCorpUser%22:false%7D; edu_cig_opt=%7B%22isEduUser%22:false%7D; _gcl_au=1.1.971895839.1587229320; walley=GA1.2.549216957.1587229320; walley_gid=GA1.2.908571124.1587229320; purr-cache=<K0<r<C_<G_<S0; __gads=ID=8ab2d93f1ebafa16:T=1587229320:S=ALNI_Mb8OaIcwTuxqnUB-jx6KprAnh69WQ; nyt-a=8gh6-uUgmuBBisPL9GrS_M; nyt-us=0; sessionIndex=1|1587229323040|8gh6-uUgmuBBisPL9GrS_M|1587229323040|true; iter_id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhaWQiOiI1ZTliMzI4ZjEwOTA2NzAwMDFmYjAwNmMiLCJjb21wYW55X2lkIjoiNWMwOThiM2QxNjU0YzEwMDAxMmM2OGY5IiwiaWF0IjoxNTg3MjI5MzI3fQ.IggWBeen8zf_j0gPfTjCBEMonw2owjhOEFWepYCNXuY; _gat_UA-58630905-2=1; nyt-m=6D4B6D714B1AB89AAFBC563DD90B65D5&er=i.1587230228&iir=i.0&s=s.core&rc=i.0&igu=i.1&iga=i.0&igf=i.0&iru=i.0&ifv=i.0&e=i.1588291200&fv=i.0&iub=i.0&imv=i.0&vr=l.4.0.0.0.0&igd=i.1&ira=i.0&uuid=s.9c8ea76d-43e9-48f1-9619-a96cbaf8f487&l=l.1.1108468782&g=i.1&pr=l.4.0.0.0.0&cav=i.1&imu=i.1&prt=i.0&ica=i.0&iue=i.0&ird=i.0&t=i.1&n=i.2&v=i.1&vp=i.0&ft=i.0&ier=i.0; nyt-jkidd=uid=0&lastRequest=1587230229135&activeDays=%5B0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C1%5D&adv=1&a7dv=1&a14dv=1&a21dv=1&lastKnownType=anon; et-a1=%257B%2522agentId%2522%253A%25220yTYLfRMKQUBgzGZ81wbbq%2522%252C%2522agentStarted%2522%253A1587229319330%252C%2522sessionIndex%2522%253A1%252C%2522sessionStarted%2522%253A1587229319330%252C%2522lastModified%2522%253A1587230230370%252C%2522lastUpdate%2522%253A1587230230370%257D; datadome=HdPfQjZ6cqc4lrQDpsG-BfkER3ZWw2Pb1Eu~jhL9zQ7Lrmk9Cb9MciHAy8QtiawceSNYVNf-wi91w6j9QeQFWwV5xmvpA.uxxIkn2xQLxF
+
+[{"context_id":"aTTCaLxJ0qUNSsPeElVpYvGX","pageview_id":"BlctaDtwv4JE1PeiBcI4ARy6","event_id":"Zk8jYy24q8DE9c_8VhUPjKp8","client_lib":"v1.0.5","sourceApp":"nyt-lire","how":"beacon","client_ts":1587230230584,"data":{"application":{"name":"nyt-lire","dlVersion":"2.5.19","environment":"production"},"module":{"name":"unified-lire","context":"campaign_id:CoronaVirus","region":"embedded","label":"client_id:freex"},"subject":"impression","user":{},"eventData":{"pagetype":"enterEmail"},"referrer":{"url":"https://www.nytimes.com/2020/04/16/us/politics/trump-coronavirus-promises-fact-check.html"},"sourceApp":"nyt-lire"}}]

@@ -1,0 +1,7 @@
+POST https://ssp.rambler.ru/blockstat_post
+Referer https://www.rambler.ru/
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type text/plain;charset=UTF-8
+
+{"log_visibility":0,"blocktype":"capirs","format":"130x162","width":130,"height":162,"time":742,"ftime":15592,"place":"","pad_id":432151618,"block_id":455984306,"reason":"check_size","reached":0,"impression_id":"5e9d2-5ce46-1bacc","uuid":"00000bbc-5e9d-5ce4-25f3-6fb110590ede","fp":"pA8AAGsis1e8O/WjAZsgGwA=","vcapirs":"2_29_0","misc":0,"rq_type":1,"browser_family":"Chrome","browser_version":"80.0.3987.0","os_family":"Linux","os_version":"x86_64","device_type":1}

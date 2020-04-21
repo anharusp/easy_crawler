@@ -1,0 +1,7 @@
+POST https://bam.eu01.nr-data.net/events/1/91d3f19a9b?a=16405072&v=1167.2a4546b&to=MhBSZQoZDUEABRUMXAtacVIMEQxcThYTClcQFkQ%3D&rst=3454&ref=https://www.perekrestok.ru/catalog/avto-dom-sad-kuhnya/hozyaystvennye-prinadlejnosti/meshki-dlya-musora/home-st-meshki-dmus-br-60l10sht--685981
+Referer https://www.perekrestok.ru/catalog/avto-dom-sad-kuhnya/hozyaystvennye-prinadlejnosti/meshki-dlya-musora/home-st-meshki-dmus-br-60l10sht--685981
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type text/plain;charset=UTF-8
+
+bel.6;e,'fp,q0,;e,'fcp,q0,;e,'fi,2m9,2;5,'type,'pointerdown;6,'fid,11.;e,'lcp,142,2;6,'size,35964.;5,'eid;e,'unload,2nx,

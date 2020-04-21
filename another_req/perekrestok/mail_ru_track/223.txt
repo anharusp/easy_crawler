@@ -1,0 +1,17 @@
+POST https://top-fwz1.mail.ru/tracker?js=13;id=undefined;u=https%3A//www.perekrestok.ru/catalog/dacha-i-gril;r=https%3A//www.perekrestok.ru/catalog;st=1587310424160;s=1920*1080;vp=785*600;touch=0;hds=1;flash=;sid=310eae4dfd579f18;ver=60.1.0;tz=-180%2FEurope%2FMoscow;nt=2/0/1587310422646/25/26///2/2/2/2/2//10/13/449/49/1514/1514/1806/2143/2143/2173;ni=10//4g/50/0/;detect=0;lvid=1587310346349%3A1587310425032%3A122%3Aa8ec92b6f36ea5ce4b1e53d48e069241;opts=sec%2Cdl;_=0.33288675632671505;e=RT/load;et=1587310425025
+Host top-fwz1.mail.ru
+Connection keep-alive
+Content-Length 0
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type text/plain;charset=UTF-8
+Accept */*
+Origin https://www.perekrestok.ru
+Sec-Fetch-Site cross-site
+Sec-Fetch-Mode no-cors
+Referer https://www.perekrestok.ru/catalog/dacha-i-gril
+Accept-Encoding gzip, deflate, br
+Accept-Language ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie VID=2YNtsE0Qw3nw00000Q0qD4Hw:::0-0-0-3b6c7ca:CAASEEc6FNCx6O0SLWZlrbWrFhEaYC20m1Wwm5Sz_vBVn7eANrqIFTm1tx2pY7VTpohi7KE747vCnzS4gVrliiHqeKRLAWbnlUljLlwOlPa9LhXvdIJc4JDY5EUorkmVdXLObphp4AQGzh61P6Lrub0q5rAFdw
+
+undefined

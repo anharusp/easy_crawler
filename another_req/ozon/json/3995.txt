@@ -1,0 +1,18 @@
+POST https://ozon-api.exponea.com/bulk
+:method POST
+:authority ozon-api.exponea.com
+:scheme https
+:path /bulk
+content-length 1351
+sec-fetch-dest empty
+user-agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+content-type text/plain;charset=UTF-8
+accept */*
+origin https://www.ozon.ru
+sec-fetch-site cross-site
+sec-fetch-mode cors
+referer https://www.ozon.ru/checkout
+accept-encoding gzip, deflate, br
+accept-language ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"sdk":"js-client","sdk_version":"v1.41.1","commands":[{"name":"system/push-notifications-vapid-key","data":{"company_id":"09568822-e4af-11e7-9f8d-ac1f6b02225e"}},{"name":"crm/events","data":{"customer_ids":{"cookie":"b23eed31-8236-11ea-92cb-8e95e2ca184a"},"company_id":"09568822-e4af-11e7-9f8d-ac1f6b02225e","type":"session_ping","age":0.09999990463256836,"properties":{"location":"https://www.ozon.ru/checkout","os":"Linux","browser":"Chrome","device":"Other","referrer":"https://www.ozon.ru/highlight/premium/","path":"/checkout"},"timestamp":1587303025.305167}},{"name":"crm/events","data":{"customer_ids":{"cookie":"b23eed31-8236-11ea-92cb-8e95e2ca184a"},"company_id":"09568822-e4af-11e7-9f8d-ac1f6b02225e","type":"page_visit","age":0.09800004959106445,"properties":{"location":"https://www.ozon.ru/checkout","os":"Linux","browser":"Chrome","device":"Other","referrer":"https://www.ozon.ru/highlight/premium/","path":"/checkout"},"timestamp":1587303025.3081667}},{"name":"system/content-modifying","data":{"company_id":"09568822-e4af-11e7-9f8d-ac1f6b02225e"}},{"name":"system/constant-managed-tags","data":{"company_id":"09568822-e4af-11e7-9f8d-ac1f6b02225e"}},{"name":"campaigns/banners","data":{"company_id":"09568822-e4af-11e7-9f8d-ac1f6b02225e"}},{"name":"campaigns/experiments","data":{"company_id":"09568822-e4af-11e7-9f8d-ac1f6b02225e"}}]}

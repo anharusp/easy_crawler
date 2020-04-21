@@ -1,0 +1,19 @@
+POST https://www.ozon.ru/api/tracker.bx/v2/composer_events
+:method POST
+:authority www.ozon.ru
+:scheme https
+:path /api/tracker.bx/v2/composer_events
+content-length 2036
+sec-fetch-dest empty
+user-agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+content-type text/plain;charset=UTF-8
+accept */*
+origin https://www.ozon.ru
+sec-fetch-site same-origin
+sec-fetch-mode no-cors
+referer https://www.ozon.ru/context/detail/id/146395506/?stat=YWNfMQ%3D%3D
+accept-encoding gzip, deflate, br
+accept-language ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+cookie access_token=1al7CdK0RtxehWrYK91Xfkb84PE; refresh_token=aZ7eTGT2fTjYQ9xSH7c6TPPgLAxf9s3NJqyoVAxVFbnRk1kIzt1BnMGJCVI_JwqQ9dnPVYFvoN9_tTHab82E81XojaOBf1VKRJTtS7g-dhMrR_Bmsn_9z2L1Cw3vSp7PhjyOA86s5hP-R8nD8wRFTdJqWmJF5qwwHndqH7zHD_war1Xhz9sb2bUILjkXV9aDuIXhcgKgN7pwv5tKEXrqyCRlGUx5CEnHJSLMn55BOmeVY5d6lKD4m3VNB1ewFfoXcDrIpgBFuziswQl8fllj5Z5FM3V2Ah4e_yYD3cBDd-b-jbAzsdft1s_OODWT1G74fg5qFp_Zqa2j5Dn_wqx16K9ikZh6L7fw-mD1LltRD3-r7jb2_wKZLtGU93NOCjWwCYCWazcBW8i9nTvERqOyPbJSOgebWQtPqjb1vijDRG9ls_wmJAvaCg3OvnyOkh_I; token_expiration="2020-04-19T17:09:59.5854185+03:00"; abGroup=50; SessionID=0kZ0zgTfQ9a3CMGVjYSVTw; xcid=bb9c5560f28a05bd58b6ca923b1f5b8f; visid_incap_1101384=gNu+aXeTQnqJggjThEm5Vpc/nF4AAAAAQUIPAAAAAABWwihSKWHgKsw36Zrtnbb/; nlbi_1101384=SWaRVnTtmXLIkBtIsyIZFQAAAAD9IXHnc7V/ge0FcTp8PXjM; _gcl_au=1.1.654127902.1587298201; _ga=GA1.2.2119588043.1587298201; _gid=GA1.2.1372368607.1587298201; cnt_of_orders=0; isBuyer=0; tmr_lvid=6dead8d27e3f49b881b57cd59ee04ee8; tmr_lvidTS=1587298201583; _fbp=fb.1.1587298201729.426490019; __exponea_etc__=b23eed31-8236-11ea-92cb-8e95e2ca184a; o_cdm=1587298378327; incap_ses_581_1101384=q+3ia7ijExBGF6n4gCAQCPJLnF4AAAAAXDsA6qBA/X2ToVwVEGVU1Q==; tmr_detect=0%7C1587301740004; _gat_UA-37420525-1=1; _dc_gtm_UA-37420525-1=1; tmr_reqNum=151
+
+{"events":[{"attributes":{"app_version":"2.0.0","device_type":"desktop","namespace":"bx","platform":"site","screen_resolution_x":1920,"screen_resolution_y":1080},"page":{"category_id":30898000,"current":"pdp","current_url":"/context/detail/id/146395506/?stat=YWNfMQ%3D%3D","page_view_id":"d245d90f-3722-4d3a-b708-9a38c3af7fba","previous":"pdp","previous_page_view_id":"8b3aba13-8b6e-4aa6-846a-24af4c4e9d6a","referral_url":"/context/detail/id/146395504/?stat=YW5fNw%3D%3D","layout_id":9132,"layout_version":119,"rule_id":11521},"special":true,"timestamp":"2020-04-19 16:18:52 +0300","user":{"ab_group":50,"client_id":0,"experiments":"347:572,351:583,352:585,354:588,362:622,364:630,367:638,368:640,369:642,370:643,375:651,378:663,379:673,380:675,383:683,385:704","google_id":"GA1.2.2119588043.1587298201","latitude":55.755814,"long_cookie":"bb9c5560f28a05bd58b6ca923b1f5b8f","longitude":37.617634,"region_id":2,"session_id":"0kZ0zgTfQ9a3CMGVjYSVTw"}},{"action_type":"view","composer":{"slice":{},"cell":{"type":"product","id":146395506,"index":1,"title":"Цветная капуста Vитамин, 400 г","link":"https://www.ozon.ru/context/detail/id/146395506/?stat=YWNfMQ%3D%3D","finalPrice":110,"price":125,"discount":12,"advId":"","sellerId":0,"brandId":137844500,"categoryId":30898000,"quantity":1,"totalQuantity":0,"stock":1,"storehouseId":34,"isSupermarket":true}},"number":647,"timestamp":"2020-04-19 16:18:52 +0300","uuid":"bf25edfe-c505-4554-ab5f-cc57bb3a8847","version":"2","widget":{"type":"pdp","name":"pdp-widget","id":294119,"revision_id":265789,"config_revision_id":0,"index":16,"origin_name":"pdp.webProductMainWidget","origin_vertical":"webProductMainWidget","origin_component":"webProductMainWidget","origin_version":1}},{"action_type":"view","composer":{"slice":{},"cell":{}},"number":648,"timestamp":"2020-04-19 16:18:52 +0300","uuid":"7cf3236d-7452-4e3e-b3e8-31771d77d717","version":"2","widget":{"type":"pdp","name":"pdp.webSellerBestOffer","id":323994,"revision_id":310902,"config_revision_id":0,"index":59}}]}

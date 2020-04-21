@@ -1,0 +1,7 @@
+POST https://a.et.nytimes.com/track
+Referer https://www.nytimes.com/2020/04/18/us/coronavirus-updates.html?action=click&module=Spotlight&pgtype=Homepage
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type text/plain;charset=UTF-8
+
+[{"context_id":"QhCZaFThlqqqvCnbY7d7d3as","pageview_id":"26gNiYE8kC_3CSF6fljVeSJ6","event_id":"oIflIakxVzRo48RKMKMLgM4U","client_lib":"v1.0.6","sourceApp":"nyt-vi","how":"beacon","client_ts":1587229327541,"data":{"subject":"page_update","viewport":{"scrollTop":1978,"height":600,"width":800,"documentHeight":20677,"activeTime":0},"gtm":"GTM-P528B3-368-Production","sourceApp":"nyt-vi"}},{"context_id":"QhCZaFThlqqqvCnbY7d7d3as","pageview_id":"26gNiYE8kC_3CSF6fljVeSJ6","event_id":"5r0UFyyFm5f7Y7CzaAJZWMse","client_lib":"v1.0.6","sourceApp":"nyt-vi","how":"beacon","client_ts":1587229327542,"data":{"subject":"interaction","gtm":"GTM-P528B3-368-Production","eventData":{"trigger":"module","type":"scroll"},"moduleObj":{"name":"scroll","element":{"name":"first-scroll"}},"sourceApp":"nyt-vi"}}]

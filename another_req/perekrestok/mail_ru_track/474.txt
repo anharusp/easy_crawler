@@ -1,0 +1,7 @@
+POST https://top-fwz1.mail.ru/tracker?js=13;id=undefined;u=https%3A//www.perekrestok.ru/catalog/konservy-orehi-sousy/tomatnye-pasty-ketchup/pomidorka-pasta-tomatnaya-jb-140g--304640;r=https%3A//www.perekrestok.ru/catalog/dacha-i-gril;st=1587310484236;s=1920*1080;vp=785*600;touch=0;hds=1;flash=;sid=331715de79b30e16;ver=60.1.0;tz=-180%2FEurope%2FMoscow;ni=10//4g/50/0/;detect=0;lvid=1587310346349%3A1587310486672%3A257%3Aa8ec92b6f36ea5ce4b1e53d48e069241;opts=sec%2Cdl;_=0.3289383609189722;e=RT/unload;et=1587310486656;pvt=2420
+Referer https://www.perekrestok.ru/catalog/konservy-orehi-sousy/tomatnye-pasty-ketchup/pomidorka-pasta-tomatnaya-jb-140g--304640
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type text/plain;charset=UTF-8
+
+undefined

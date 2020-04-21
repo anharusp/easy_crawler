@@ -1,0 +1,18 @@
+POST https://async-px.dynamicyield.com/batch?cnst=1&_=1587310439707_866473
+:method POST
+:authority async-px.dynamicyield.com
+:scheme https
+:path /batch?cnst=1&_=1587310439707_866473
+content-length 958
+sec-fetch-dest empty
+user-agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+content-type text/plain;charset=UTF-8
+accept */*
+origin https://www.perekrestok.ru
+sec-fetch-site cross-site
+sec-fetch-mode cors
+referer https://www.perekrestok.ru/catalog/soki-vody-napitki/bezalkogolnoe-pivo/pivo-clausthaller-classic-ba-stb-0-33l--318506
+accept-encoding gzip, deflate, br
+accept-language ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"md":{"msn":"webserve-b2a7ec6.use","uid":"-3332663550868164856","sec":"8771419","ses":"5b6602bf3fe01bf504d0995ee00d4258","colors":"dk.l.c.ss.","sld":"perekrestok.ru","rurl":"https://www.perekrestok.ru/catalog/soki-vody-napitki/bezalkogolnoe-pivo/pivo-clausthaller-classic-ba-stb-0-33l--318506","ts":"Direct","p":"20","ref":"internal","rref":"https://www.perekrestok.ru/catalog/dacha-i-gril","nses":false,"sesst":0,"reqts":1587310438573,"rri":4818324},"data":[{"type":"imp","expId":744336,"varIds":[21027872],"expSes":"43513","mech":"1","smech":null,"verId":"7936203","aud":"1060052.1060053.1060054.823379.1036737.721231.721233.752447.808263.823381","expVisitId":"-7972195170334572229","eri":null},{"type":"imp","expId":858778,"varIds":[21006143],"expSes":"43513","mech":"0","smech":"2","verId":"7939755","aud":"1060052.1060053.1060054.823379.1036737.721231.721233.752447.808263.823381","expVisitId":"-7972195169482355137","eri":null}],"sectionId":"8771419"}

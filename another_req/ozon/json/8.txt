@@ -1,0 +1,18 @@
+POST https://ozon-api.exponea.com/campaigns/banners/show
+:method POST
+:authority ozon-api.exponea.com
+:scheme https
+:path /campaigns/banners/show
+content-length 282
+sec-fetch-dest empty
+user-agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+content-type text/plain;charset=UTF-8
+accept */*
+origin https://www.ozon.ru
+sec-fetch-site cross-site
+sec-fetch-mode cors
+referer https://www.ozon.ru/
+accept-encoding gzip, deflate, br
+accept-language ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"company_id":"09568822-e4af-11e7-9f8d-ac1f6b02225e","customer_ids":{"cookie":"b23eed31-8236-11ea-92cb-8e95e2ca184a"},"banner_ids":["5e941b6358dd1f823cb64572","5e980b5ac0c6acec65c11837","5d9617efd246e75d80304036","5d9b0a76172b2cc40e40c50f","5e5e4888f478f3f521553c1a"],"params":null}

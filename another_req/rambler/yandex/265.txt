@@ -1,0 +1,23 @@
+POST https://mc.yandex.ru/webvisor/26969997?wmode=0&rn=284186034&page-url=https%3A%2F%2Fweekend.rambler.ru%2Fcrazy-world%2F44045549-altaytsy-reshili-chto-ot-covid-ih-ohranyaet-mumiya%2F%3Futm_source%3Dhead%26utm_campaign%3Dself_promo%26utm_medium%3Dnews%26utm_content%3Dvideo&wv-type=5&wv-hit=842275092&wv-part=1&browser-info=ti%3A8%3Aet%3A1587371379%3Aw%3A785x600%3Av%3A1853%3Az%3A180%3Ai%3A20200420112938%3Ast%3A1587371381%3Au%3A1587371237691198303%3App%3A3629563401
+Host mc.yandex.ru
+Connection keep-alive
+Content-Length 395
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type text/plain
+Accept */*
+Origin https://weekend.rambler.ru
+Sec-Fetch-Site cross-site
+Sec-Fetch-Mode cors
+Referer https://weekend.rambler.ru/crazy-world/44045549-altaytsy-reshili-chto-ot-covid-ih-ohranyaet-mumiya/?utm_source=head&utm_campaign=self_promo&utm_medium=news&utm_content=video
+Accept-Encoding gzip, deflate, br
+Accept-Language ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie yuidss=70307391587371236; yandexuid=70307391587371236; yabs-sid=1880803411587371237; i=4zTrgMiZsIow6FLwBw4K7Ef9zq06EctqGG2AgexPtzsowkWBQrZnqgGxkCC1t/uRFKavc7Z2iB0VlI9JxGOLb9CTrm8=; ymex=1902731237.yrts.1587371237#1902731237.yrtsi.1587371237
+
+
+ÞæØ"ÕÙÜÚchttps://weekend.rambler.ru/crazy-world/44045549-altaytsy-reshili-chto-ot-covid-ih-ohranyaet-mumiya/RÐÐ»ÑÐ°Ð¹ÑÑ ÑÐµÑÐ¸Ð»Ð¸, ÑÑÐ¾Â Ð¾ÑÂ COVID Ð¸ÑÂ Ð¾ÑÑÐ°Ð½ÑÐµÑ Ð¼ÑÐ¼Ð¸Ñ"#
+!Ð Ð°Ð¼Ð±Ð»ÐµÑ/ÑÑÐ±Ð±Ð¾ÑÐ½Ð¸Ð¹*
+ÐÐµÐ·ÑÐ¼Ð½ÑÐ¹ Ð¼Ð¸Ñ22020-04-20T09:04:39+03:008B
+ÐÐµÐ·ÑÐ¼Ð½ÑÐ¹ Ð¼Ð¸ÑJ2020-04-20T09:08:26+03:00
+(¥#*!
+ÙÜÚ	® (é0£!=à]?@ÿ,

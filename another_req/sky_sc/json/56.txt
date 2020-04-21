@@ -1,0 +1,7 @@
+POST https://www.skyscanner.ru/slipstream/grp/v1/custom/public/carhire-homepage/funnel_events/clients.View
+Referer https://www.skyscanner.ru/carhire?
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type application/json
+
+{"header":{"guid":"839869f1-8158-42a7-afa7-83d1f96a1ef6","client_timestamp":{"unix_time_millis":1587316008981,"date_time_kind":0,"timezone_offset_mins":180,"daylight_savings_offset_mins":0},"traveller_identity":{"utid":"9e440a3a-9ce7-4d47-a83b-4f468a596c8c","authentication_status":"UNAUTHENTICATED"},"sequence_number":17,"device_guid":"0e9a5a74-b0bc-4508-9c4b-28651a835264","experiment_allocation_id":"95cff457efc43873631150e6681265e0d3ea78562ed0630663b6c4c50fc71b59"},"name":"https://www.skyscanner.ru/carhire?","referrer_url":"https://www.skyscanner.ru/sttc/px/captcha-v2/index.html?url=L2NhcmhpcmU/&uuid=fbb8d5c0-825f-11ea-a64a-3d89978e0302&vid=ba4fd701-825f-11ea-ad8a-83a1ee03969f"}

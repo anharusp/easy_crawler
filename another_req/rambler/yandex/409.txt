@@ -1,0 +1,17 @@
+POST https://mc.yandex.ru/watch/28161048?page-url=https%3A%2F%2Fwww.rambler.ru%2F&charset=utf-8&force-urlencoded=1&browser-info=ti%3A1%3Adp%3A0%3Ans%3A1587371436390%3As%3A1920x1080x24%3Ask%3A1%3Ahdl%3A1%3Aadb%3A2%3Afpr%3A207118962501%3Acn%3A1%3Aw%3A785x585%3Az%3A180%3Ai%3A20200420113052%3Aet%3A1587371452%3Aen%3Autf-8%3Ac%3A1%3Ala%3Aru-ru%3Aar%3A1%3Anb%3A1%3Acl%3A-533%3Als%3A953093822621%3Arqn%3A34%3Arn%3A649721813%3Ahid%3A189463331%3Ads%3A%2C%2C%2C%2C%2C%2C%2C%2C%2C2145%2C2145%2C8%2C%3Agdpr%3A14%3Av%3A1853%3Awv%3A2%3Arqnl%3A1%3Ast%3A1587371452%3Au%3A1587371237691198303%3App%3A3629563401
+Host mc.yandex.ru
+Connection keep-alive
+Content-Length 0
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type text/plain;charset=UTF-8
+Accept */*
+Origin https://www.rambler.ru
+Sec-Fetch-Site cross-site
+Sec-Fetch-Mode no-cors
+Referer https://www.rambler.ru/
+Accept-Encoding gzip, deflate, br
+Accept-Language ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie yclid_1587371374563=vse-svoi.ru:2069095925080172764:70307391587371236; yuidss=70307391587371236; yandexuid=70307391587371236; yabs-sid=1880803411587371237; i=4zTrgMiZsIow6FLwBw4K7Ef9zq06EctqGG2AgexPtzsowkWBQrZnqgGxkCC1t/uRFKavc7Z2iB0VlI9JxGOLb9CTrm8=; ymex=1902731237.yrts.1587371237#1902731237.yrtsi.1587371237
+
+undefined

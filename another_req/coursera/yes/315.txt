@@ -1,0 +1,7 @@
+POST https://www.coursera.org/eventing/infoBatch.v2
+Referer https://www.coursera.org/specializations/self-driving-cars
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type application/json;charset=UTF-8
+
+{"clientType":"web","app":"phoenix","clientVersion":"23ce4ce17a06113a8bc9bebecc755240365be429","events":[{"key":"xdp_v1.xdp.click.faq_open","value":{"namespace":{"app":"xdp_v1","page":"xdp","action":"click","component":"faq_open"},"question":"<co-content><text>Какие правила возврата средств?</text></co-content>","schema_type":"FRONTEND","appName":"xdp"},"clientType":"web","url":"https://www.coursera.org/specializations/self-driving-cars#faq","app":"phoenix","referrerUrl":"https://www.coursera.org/specializations/self-driving-cars#enroll","guid":"541052db-dc70-40dc-ba2a-6fa9b818b0f1","visitId":"4a4a40ca-5a27-4d6b-e19d-5f55109cf7a7","screenSize":{"height":1080,"width":1920},"clientVersion":"23ce4ce17a06113a8bc9bebecc755240365be429","clientTimestamp":1587207437199,"sequence":809}]}

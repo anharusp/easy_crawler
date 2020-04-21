@@ -1,0 +1,7 @@
+POST https://top-fwz1.mail.ru/tracker?js=13;id=2686816;u=https%3A//www.ozon.ru/context/detail/id/135382612/;r=https%3A//www.ozon.ru/referral/%3Fperehod%3Dheader;st=1587296584523;s=1920*1080;vp=785*585;touch=0;hds=1;flash=;sid=6cc2041ebcda6209;ver=60.1.0;tz=-180%2FEurope%2FMoscow;ni=10//4g/50/0/;detect=0;lvid=1587296229758%3A1587296591859%3A70%3A1bb26a8eb2fd055fbf57d462609581ac;opts=dl;_=0.04110765273360184;e=RT/unload;et=1587296591857;pvt=7334
+Referer https://www.ozon.ru/context/detail/id/135382612/
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type text/plain;charset=UTF-8
+
+undefined

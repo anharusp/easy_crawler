@@ -1,0 +1,18 @@
+POST https://mapixl.com/pixl/getpixl/34847p002/7/prod?eventParameters=%7B%22user%22%3A%225993795705-1587206910516%22%7D&utmValues=%7B%22utmSource%22%3A%22%22%2C%22utmMedium%22%3A%22%22%2C%22utmCampaign%22%3A%22%22%2C%22utmTerm%22%3A%22%22%2C%22utmContent%22%3A%22%22%2C%22isGoogleAd%22%3Afalse%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.coursera.org%2F%22%7D&isPageLoad=true&maCookie={%22cid%22:%22ee2371d08004a5f0b7512d7d641ac3ec%22,%22sid%22:%22cd5a6c6a-ecc9-48b8-9645-6fad483bbf13%22,%22isSidSaved%22:true,%22sessionStart%22:%222020-04-18T10:48:32.000Z%22}&isSessionStart=false&originUrl=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Faml&callback=?
+:method POST
+:authority mapixl.com
+:scheme https
+:path /pixl/getpixl/34847p002/7/prod?eventParameters=%7B%22user%22%3A%225993795705-1587206910516%22%7D&utmValues=%7B%22utmSource%22%3A%22%22%2C%22utmMedium%22%3A%22%22%2C%22utmCampaign%22%3A%22%22%2C%22utmTerm%22%3A%22%22%2C%22utmContent%22%3A%22%22%2C%22isGoogleAd%22%3Afalse%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.coursera.org%2F%22%7D&isPageLoad=true&maCookie={%22cid%22:%22ee2371d08004a5f0b7512d7d641ac3ec%22,%22sid%22:%22cd5a6c6a-ecc9-48b8-9645-6fad483bbf13%22,%22isSidSaved%22:true,%22sessionStart%22:%222020-04-18T10:48:32.000Z%22}&isSessionStart=false&originUrl=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Faml&callback=?
+content-length 0
+sec-fetch-dest empty
+user-agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+content-type application/x-www-form-urlencoded
+accept */*
+origin https://www.coursera.org
+sec-fetch-site cross-site
+sec-fetch-mode cors
+referer https://www.coursera.org/specializations/aml
+accept-encoding gzip, deflate, br
+accept-language ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+undefined

@@ -1,0 +1,7 @@
+POST https://a.et.nytimes.com/track
+Referer https://www.nytimes.com/
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type text/plain;charset=UTF-8
+
+[{"context_id":"SRQ9UYfn4DegwnRhtJgwRaxL","pageview_id":"pKK08EdvXf7-PsNm8YMELuUu","event_id":"RGwgRCHLoz9GgE24VZEQ_gpb","client_lib":"v1.0.6","sourceApp":"nyt-vi","how":"beacon","client_ts":1587229320133,"data":{"event":"impression","moduleObj":{"name":"meter","context":"eae06a2","label":"0","region":"false"},"subject":"impression","gtm":"GTM-P528B3-368-Production","sourceApp":"nyt-vi"}}]

@@ -1,0 +1,18 @@
+POST https://136-243-225-122.witstroom.com:8080/isbot
+:method POST
+:authority 136-243-225-122.witstroom.com:8080
+:scheme https
+:path /isbot
+content-length 1729
+sec-fetch-dest empty
+user-agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+content-type application/json
+accept */*
+origin https://doctor.rambler.ru
+sec-fetch-site cross-site
+sec-fetch-mode cors
+referer https://doctor.rambler.ru/coronavirus/44033449-detki-v-kletke-vrach-o-tom-chto-delat-s-detmi-na-karantine/?utm_source=head&utm_campaign=self_promo&utm_medium=news&utm_content=news
+accept-encoding gzip, deflate, br
+accept-language ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"s":712,"i":"03da03c23f4a2d46b76143703b3e3a5a","r":"https://www.rambler.ru/","u":"https://doctor.rambler.ru/coronavirus/44033449-detki-v-kletke-vrach-o-tom-chto-delat-s-detmi-na-karantine/?utm_source=head&utm_campaign=self_promo&utm_medium=news&utm_content=news","f":{"vendor":"Google Inc.","productSub":"20030107","pluginsBool":true,"pluginsLenght":3,"activeXObject":false,"browserName":"Chrome","fonts":["Arial","Bitstream Vera Sans Mono","Courier","Courier New","Helvetica","Times","Times New Roman"],"language":"ru-RU","colorDepth":24,"deviceMemory":8,"pixelRatio":1,"hardwareConcurrency":8,"screenResolution":[1920,1080],"availableScreenResolution":[1920,1080],"sessionStorage":true,"localStorage":true,"indexedDb":true,"addBehavior":false,"openDatabase":true,"cpuClass":null,"platform":"Linux x86_64","plugins":[["Chromium PDF Plugin","Portable Document Format",[["application/x-google-chrome-pdf","pdf"]]],["Chromium PDF Viewer","",[["application/pdf","pdf"]]],["Native Client","",[["application/x-nacl",""],["application/x-pnacl",""]]]],"canvas":null,"webgl":null,"webglVendorAndRenderer":"Google Inc.~ANGLE (Intel Open Source Technology Center, Mesa DRI Intel(R) UHD Graphics 620 (Kabylake GT2) , OpenGL 4.5 core)","touchSupport":[0,false,false],"adBlock":false,"bodyStyle":"undefined","buildId":"undefined","clipboard":true,"doNotTrack":false,"getBattery":true,"hasLiedLanguages":false,"hasLiedResolution":false,"hasLiedOs":false,"hasLiedBrowser":false,"locationBar":true,"mozInnerScreen":false,"requestFileSystem":true,"timezone":"Europe/Moscow","timezoneOffset":-180,"userAgent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36","webdriver":true,"audio":null}}

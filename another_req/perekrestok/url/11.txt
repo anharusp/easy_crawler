@@ -1,0 +1,9 @@
+POST https://www.perekrestok.ru/cart/put?ajax=true&count%5B308591%5D=6&package%5B308591%5D=1
+Accept application/json
+Referer https://www.perekrestok.ru/catalog/dacha-i-gril
+Sec-Fetch-Dest empty
+X-CSRF-TOKEN WIF4BMKYt40h8qsjtmFfltbOROLNSaVtGXgh7wI4
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+X-Requested-With XMLHttpRequest
+
+undefined

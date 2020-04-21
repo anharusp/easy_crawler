@@ -1,0 +1,16 @@
+POST https://slipstream.skyscanner.net/grp/v1/applog/public/perimeterx
+Host slipstream.skyscanner.net
+Connection keep-alive
+Content-Length 791
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type application/json
+Accept */*
+Origin https://www.skyscanner.ru
+Sec-Fetch-Site cross-site
+Sec-Fetch-Mode cors
+Referer https://www.skyscanner.ru/sttc/px/captcha-v2/index.html?url=L2NhcmhpcmU/&uuid=fbb8d5c0-825f-11ea-a64a-3d89978e0302&vid=ba4fd701-825f-11ea-ad8a-83a1ee03969f
+Accept-Encoding gzip, deflate, br
+Accept-Language ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"message":"Translation strings loaded","fields":{"locale":"ru-RU","locales":"uk-UA,en-US,ms-MY,nl-BE,zh-CN,el-GR,nl-NL,de-CH,ja-JP,hu-HU,pl-PL,pt-PT,qps-PLOC,ro-RO,zh-SG,fr-BE,it-CH,tr-TR,fr-FR,vi-VN,en-GB,fi-FI,nb-NO,hr-HR,en-GG,ar-AE,de-AT,fr-CH,bg-BG,cs-CZ,ca-ES,de-DE,zh-HK,zh-TW,ko-KR,pt-BR,sk-SK,es-ES,es-MX,it-IT,ru-RU,strmgmt_meta,sv-SE,id-ID,tl-PH,da-DK,th-TH","stringsLoaded":"true","verifiedCaptcha":"false","failedToVerifyCaptcha":"false","redirectURL":"/carhire?","redirectURLBase64":"L2NhcmhpcmU/","block_uuid":"fbb8d5c0-825f-11ea-a64a-3d89978e0302","px_app":"undefined","vid":"ba4fd701-825f-11ea-ad8a-83a1ee03969f","timeSincePageLoadMs":"326","os_name":"Linux","os_version":"0","browser_name":"Chrome","browser_version":"80.03987","event":"TRANSLATIONS_LOADED"},"severity":6}

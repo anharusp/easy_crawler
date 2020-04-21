@@ -1,0 +1,7 @@
+POST https://a.et.nytimes.com/track
+Referer https://www.nytimes.com/
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type text/plain;charset=UTF-8
+
+[{"context_id":"1LcONfCug4hMZzqlfYghMipm","pageview_id":"bxtiNZq3tyWQnS516cNx3KLs","event_id":"5RYZsn3ZzZLEOWuNSPzaNDyE","client_lib":"v1.0.6","sourceApp":"nyt-vi","how":"beacon","client_ts":1587229621938,"data":{"subject":"page_update","browser":{"size":"800x600","timeZone":3,"timeZoneHour":20,"orientation":"land","language":"ru-RU"},"url":"https://www.nytimes.com/","referrer":"https://www.nytimes.com/2020/04/18/us/coronavirus-updates.html","client_tz_offset":-180,"canonicalUrl":"https://www.nytimes.com/","gtm":"GTM-P528B3-368-Production","is_iframe":false,"sourceApp":"nyt-vi"}},{"context_id":"1LcONfCug4hMZzqlfYghMipm","pageview_id":"bxtiNZq3tyWQnS516cNx3KLs","event_id":"QTc1NK0WwPJxhtz_xsbTgnmI","client_lib":"v1.0.6","sourceApp":"nyt-vi","how":"beacon","client_ts":1587229622577,"data":{"subject":"ab_expose","test":"HOME_chartbeat","variant":"0_control","gtm":"GTM-P528B3-368-Production","sourceApp":"nyt-vi"}}]

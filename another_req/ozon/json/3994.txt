@@ -1,0 +1,12 @@
+POST https://www.ozon.ru/api/checkout/v7/checkout
+x-o3-app-name dweb_client
+Authorization Bearer 1al7CdK0RtxehWrYK91Xfkb84PE
+Content-Type application/json
+Accept application/json
+Referer https://www.ozon.ru/checkout
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+x-o3-app-version release_26-2-2020_fe0c9abc
+X-OZON-ABGROUP 50
+
+{"areaId":2,"balanceAmount":0,"filters":{"itemFields":["info","quantity","seller","price","availability","merchant","feedback","isDeliveryUnavailableItem","relations"],"deliveryFields":["id","name","coordinates","address","deliveryType","metro","provider","deliveryPrice","deliveryDiscountedPrice","useInLastOrders","hasLoyalty","restrictionAccessField","storagePeriod","properties","classInstanceDescription","foreignCustomFeesMessage","splits","timeSlotsAvailable"]},"items":[{"id":150277912,"quantity":1}],"options":{"deliveryToDoor":false,"legalUser":false,"rewriteStorage":true,"useStorage":true,"useAddressBook":true},"pointsAmount":0,"scope":["delivery","deliveryMethods","deliveryInfo","payment"]}

@@ -1,0 +1,17 @@
+POST https://mc.yandex.ru/watch/43992189?wmode=7&page-ref=https%3A%2F%2Fwww.perekrestok.ru%2Fcatalog%2Fdacha-i-gril&page-url=https%3A%2F%2Fwww.perekrestok.ru%2Fcatalog%2Favto-dom-sad-kuhnya%2Fhozyaystvennye-prinadlejnosti%2Fmeshki-dlya-musora%2Fhome-st-meshki-dmus-br-60l10sht--685981&charset=utf-8&browser-info=ti%3A10%3Avc%3Ab%3Ans%3A1587310477374%3As%3A1920x1080x24%3Ask%3A1%3Ahdl%3A1%3Aadb%3A2%3Afpr%3A207118962501%3Acn%3A1%3Aw%3A785x600%3Az%3A180%3Ai%3A20200419183438%3Aet%3A1587310478%3Aen%3Autf-8%3Ac%3A1%3Ala%3Aru-ru%3Antf%3A1%3Apv%3A1%3Als%3A1033978566134%3Arqn%3A62%3Arn%3A139736908%3Ahid%3A712512002%3Ads%3A0%2C0%2C741%2C5%2C3%2C0%2C0%2C%2C%2C%2C%2C%2C%3Afp%3A936%3Awn%3A29705%3Ahl%3A13%3Agdpr%3A14%3Av%3A1850%3Arqnl%3A1%3Ast%3A1587310478%3Au%3A1587310345688875454%3At%3A%D0%9A%D1%83%D0%BF%D0%B8%D1%82%D1%8C%20%D0%9C%D0%B5%D1%88%D0%BA%D0%B8%20%D0%B4%D0%BB%D1%8F%20%D0%BC%D1%83%D1%81%D0%BE%D1%80%D0%B0%20Home%20Story%20%D0%B1%D0%B8%D0%BE%D1%80%D0%B0%D0%B7%D0%BB%D0%B0%D0%B3%D0%B0%D0%B5%D0%BC%D1%8B%D0%B5%2060%D0%BB%2010%D1%88%D1%82%20%D1%81%20%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%BE%D0%B9%20%D0%BD%D0%B0%20%D0%B4%D0%BE%D0%BC%20%D0%BF%D0%BE%20%D1%86%D0%B5%D0%BD%D0%B5%2047.90%20%D1%80%D1%83%D0%B1%20%D0%B2%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82-%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD%D0%B5%20%D0%9F%D0%B5%D1%80%D0%B5%D0%BA%D1%80%D0%B5%D1%81%D1%82%D0%BE%D0%BA
+Host mc.yandex.ru
+Connection keep-alive
+Content-Length 0
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type application/x-www-form-urlencoded
+Accept */*
+Origin https://www.perekrestok.ru
+Sec-Fetch-Site cross-site
+Sec-Fetch-Mode cors
+Referer https://www.perekrestok.ru/catalog/avto-dom-sad-kuhnya/hozyaystvennye-prinadlejnosti/meshki-dlya-musora/home-st-meshki-dmus-br-60l10sht--685981
+Accept-Encoding gzip, deflate, br
+Accept-Language ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie yandexuid=7655678821587310345; yuidss=7655678821587310345; yabs-sid=539100571587310345; i=mCd+W6NPlrGFJPB5HPwJ/LqX1FzLYl8EvPyuhhCSd+3OlD5qNq6/prJiSS13tV8VkT+F/KkK/Rdm5hNXzUIhO0oHPyg=; ymex=1902670345.yrts.1587310345#1902670345.yrtsi.1587310345
+
+undefined

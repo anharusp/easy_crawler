@@ -1,0 +1,19 @@
+POST https://www.coursera.org/eventing/infoBatch.v2
+:method POST
+:authority www.coursera.org
+:scheme https
+:path /eventing/infoBatch.v2
+content-length 2104
+sec-fetch-dest empty
+user-agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+content-type application/json;charset=UTF-8
+accept */*
+origin https://www.coursera.org
+sec-fetch-site same-origin
+sec-fetch-mode cors
+referer https://www.coursera.org/
+accept-encoding gzip, deflate, br
+accept-language ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+cookie CSRF3-Token=1588070910.WRJsaUm57b0DmwdD; __204u=5993795705-1587206910516; __204r=; __400v=4a4a40ca-5a27-4d6b-e19d-5f55109cf7a7; __400vt=1587206912163; _ga=GA1.2.615938872.1587206912; _gid=GA1.2.108197036.1587206912; _dc_gtm_UA-28377374-1=1; _dc_gtm_UA-86370891-1=1; _uetsid=_ueta4ae73a1-6730-7854-de97-53ea169d15fb; _gd_visitor=b4ae0e76-3ba2-4784-8cda-d5d456b700e1; _gd_session=3f3d2764-f61b-486d-8b24-53ef6f5b0073; _fbp=fb.1.1587206912437.479278476
+
+{"clientType":"web","app":"phoenix","clientVersion":"629a8721bee7303460208f535aa7209b933d8ad5","events":[{"key":"epic.experiment.show","value":{"namespace":"Growth","idForAllocation":"5993795705-1587206910516","experimentId":"LbqJ4EUKEemSN6VaA-RPeg","variantId":"fBANLuyESoSn_epn-rIPuw","parameterName":"isNewSearchExperience","version":1,"value":true,"status":"RUNNING","appName":"front-page"},"clientType":"web","url":"https://www.coursera.org/","app":"phoenix","guid":"c45d6349-1abb-4b51-a90a-4c53f83fdca5","visitId":"4a4a40ca-5a27-4d6b-e19d-5f55109cf7a7","screenSize":{"height":1080,"width":1920},"clientVersion":"629a8721bee7303460208f535aa7209b933d8ad5","clientTimestamp":1587206912080,"sequence":3},{"key":"epic.experiment.show","value":{"namespace":"GrowthAcquisition","idForAllocation":"5993795705-1587206910516","experimentId":"M6gc8HtaEeq-0W-pbVIYGw","variantId":"xaSDmHGPRaaPMHbA7UC8Dw","parameterName":"showCoronavirusBannerVariants","version":1,"value":"oneLink","status":"RUNNING","appName":"front-page"},"clientType":"web","url":"https://www.coursera.org/","app":"phoenix","guid":"e2061a4e-7eec-464b-e603-33a9a9bd3336","visitId":"4a4a40ca-5a27-4d6b-e19d-5f55109cf7a7","screenSize":{"height":1080,"width":1920},"clientVersion":"629a8721bee7303460208f535aa7209b933d8ad5","clientTimestamp":1587206912116,"sequence":4},{"key":"epic.experiment.show","value":{"namespace":"Growth","idForAllocation":"5993795705-1587206910516","experimentId":"OAHoQGT-EeixDMMjZdsNTg","variantId":"g6mOUoyFS_27CJqr5jD1PQ","parameterName":"seoOverrideEnabledApps","version":1,"value":["premium-hub","xdp","browse","university-program","video-logged-out-page","catalog","partners-graphql","degrees-hub","directory-graphql","front-page","collections","search"],"status":"RUNNING","appName":"front-page"},"clientType":"web","url":"https://www.coursera.org/","app":"phoenix","guid":"3709f018-9e75-43b9-f0cf-82a126cdf44d","visitId":"4a4a40ca-5a27-4d6b-e19d-5f55109cf7a7","screenSize":{"height":1080,"width":1920},"clientVersion":"629a8721bee7303460208f535aa7209b933d8ad5","clientTimestamp":1587206912163,"sequence":5}]}

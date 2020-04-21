@@ -1,0 +1,18 @@
+POST https://www.youtube.com/comment_service_ajax?action_get_comments=1&pbj=1&ctoken=4qmFsgK_ARIYVUNkS3VFN2EyUVplSFBoRG50WFZaOTF3GqIBRWdsamIyMXRkVzVwZEhtNEFRREtBUjJ5QVJwVlozb3dlRFZOV1dKNlYxVjVUeTFFVDA1R05FRmhRVUpEVWVvQ0JCQUJHQUdxQXo4aVBUQUEyQUVCNmdFYVZXZDZNSGcxVFZsaWVsZFZlVTh0UkU5T1JqUkJZVUZDUTFIeUFSaFZRMlJMZFVVM1lUSlJXbVZJVUdoRWJuUllWbG81TVhjJTNE&continuation=4qmFsgK_ARIYVUNkS3VFN2EyUVplSFBoRG50WFZaOTF3GqIBRWdsamIyMXRkVzVwZEhtNEFRREtBUjJ5QVJwVlozb3dlRFZOV1dKNlYxVjVUeTFFVDA1R05FRmhRVUpEVWVvQ0JCQUJHQUdxQXo4aVBUQUEyQUVCNmdFYVZXZDZNSGcxVFZsaWVsZFZlVTh0UkU5T1JqUkJZVUZDUTFIeUFSaFZRMlJMZFVVM1lUSlJXbVZJVUdoRWJuUllWbG81TVhjJTNE&itct=CCAQybcCIhMIieOfu9D26AIVRHCbCh0PiwBF
+X-YouTube-Device cbr=Chrome&cbrver=80.0.3987.0&ceng=WebKit&cengver=537.36&cos=X11
+X-YouTube-Page-Label youtube.ytfe.desktop_20200416_4_RC1
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+X-YouTube-Variants-Checksum 4259290722fb325521839302de6c2dc4
+Content-Type application/x-www-form-urlencoded
+X-YouTube-Page-CL 306978223
+X-SPF-Referer https://www.youtube.com/post/Ugz0x5MYbzWUyO-DONF4AaABCQ
+X-YouTube-Utc-Offset 180
+X-YouTube-Client-Name 1
+X-SPF-Previous https://www.youtube.com/post/Ugz0x5MYbzWUyO-DONF4AaABCQ
+Referer https://www.youtube.com/post/Ugz0x5MYbzWUyO-DONF4AaABCQ
+X-YouTube-Client-Version 2.20200417.04.01
+Sec-Fetch-Dest empty
+X-YouTube-Time-Zone Europe/Moscow
+X-YouTube-Ad-Signals dt=1587372612995&flash=0&frm&u_tz=180&u_his=4&u_java&u_h=1080&u_w=1920&u_ah=1080&u_aw=1920&u_cd=24&u_nplug=3&u_nmime=4&bc=31&bih=600&biw=785&brdim=0%2C0%2C0%2C0%2C1920%2C0%2C960%2C1047%2C800%2C600&vis=1&wgl=true&ca_type=image&bid=ANyPxKpEeuNiGX2RtWYl_Meb_IJz-XXyzIcWCwPLlUTP07hDvsvI5MFSbymfeSTFwPGXfTtrxNjc6RCZR14WqOB6nNZDB1MWRw
+
+session_token=QUFFLUhqa1BoOGtpbktJN0xBQ2RoWDZ6ZnVXQTVZNmN3UXxBQ3Jtc0ttZWl3cmJkdkJWclJtb2Z6U3N1WFpEMllyWVFSZlc2M2VsR0JZQmJXRF9hZG9kZ2RLMXZteDZEQ0QxM2N0c19XYUxUaEpWRjE5VHJQV0lTa0xUbEVLMHVrUFRqeE11ZGdEVDJWYjdocXpBSHNVNXBxMTVpTEtsVlZnenNjWExfb2VsTm9KdExyMmlKYXZHb21Fel9wUEtzYUZwSGc%3D

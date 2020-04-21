@@ -1,0 +1,7 @@
+POST https://api.mindbox.ru/v3/js/operations/async?version=0.69.14&transport=beacon
+Referer https://www.perekrestok.ru/catalog/soki-vody-napitki/bezalkogolnoe-pivo/pivo-clausthaller-classic-ba-stb-0-33l--318506
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type text/plain;charset=UTF-8
+
+originDomain=www.perekrestok.ru&deviceUUID=f5f9d22a-e647-4f21-9068-e107be887824&operation=Online.ProductView.JS&ianaTimeZone=Europe%2FMoscow&data=%7B%22viewProduct%22%3A%7B%22product%22%3A%7B%22ids%22%3A%7B%22website%22%3A%22318506%22%7D%7D%7D%7D

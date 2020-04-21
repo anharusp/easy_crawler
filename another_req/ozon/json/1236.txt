@@ -1,0 +1,12 @@
+POST https://www.ozon.ru/api/composer-api.bx/widget/json/v2
+x-o3-app-name dweb_client
+Authorization Bearer 1al7CdK0RtxehWrYK91Xfkb84PE
+Content-Type application/json
+Accept application/json
+Referer https://www.ozon.ru/context/detail/id/150027041/?_bctx=CAYQ0doC
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+x-o3-app-version release_17-3-2020_a9aec27d
+X-OZON-ABGROUP 50
+
+{"asyncData":"eyJ1cmwiOiIvY29udGV4dC9kZXRhaWwvaWQvMTUwMDI3MDQxLz9fYmN0eD1DQVlRMGRvQyIsImNpIjp7ImlkIjozNDUwMjMsIm5hbWUiOiJ3ZWJTZWxsZXJCZXN0T2ZmZXIiLCJ2ZXJ0aWNhbCI6InBkcCIsInZlcnNpb24iOjEsInBhcmFtcyI6W3sibmFtZSI6InRoZW1lIiwidGV4dCI6ImRlZmF1bHQifSx7Im5hbWUiOiJ0aXRsZSIsInRleHQiOiLQmtGD0L/QuNGC0LUg0Y3RgtC+0YIg0YLQvtCy0LDRgCDRgyDQtNGA0YPQs9C+0LPQviDQv9GA0L7QtNCw0LLRhtCwIn1dLCJ0b2tlbnMiOnsid2lkZ2V0Ijoidy02MmZiMDZjNmYwNDFiNmUxOTY3ZWY1ZTFkN2MzNWZlNjVmMjQ5MmRhIiwicGFnZSI6InAtMmRiYmE2NjE3MGQwNTU3MjNkMWMwMjFlOGExMThiMmNjM2Y5NDNhOCJ9fX0=","componentName":"webSellerBestOffer"}

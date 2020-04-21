@@ -1,0 +1,7 @@
+POST https://a.et.nytimes.com/track
+Referer https://www.nytimes.com/2020/04/16/us/politics/bernie-sanders-joe-biden-democrats.html
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type text/plain;charset=UTF-8
+
+[{"context_id":"XcxplyPp8yjtVQpePXEZReqa","pageview_id":"7dMn2EA1-oTctOn6rEEzvksB","event_id":"7dMn2EA1-oTctOn6rEEzvksB","client_lib":"v1.0.6","sourceApp":"nyt-vi","how":"beacon","client_ts":1587230091531,"data":{"subject":"page","canonicalUrl":"https://www.nytimes.com/2020/04/16/us/politics/bernie-sanders-joe-biden-democrats.html","articleId":"100000007089856","nyt_uri":"nyt://article/4640122e-9fbe-56d7-a334-dcb9917904a2","pubpEventId":"pubp://event/0c1fcfeaa62c433999388dee268206db","url":"https://www.nytimes.com/2020/04/16/us/politics/bernie-sanders-joe-biden-democrats.html","referrer":"https://www.nytimes.com/news-event/2020-election","client_tz_offset":-180,"sourceApp":"nyt-vi"}}]

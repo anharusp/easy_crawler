@@ -1,0 +1,7 @@
+POST https://a.et.nytimes.com/track
+Referer https://www.nytimes.com/2020/04/16/sports/olympics/olympic-marathon-coronavirus.html
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type text/plain;charset=UTF-8
+
+[{"context_id":"HdqbM39kbD4a7n8gA5ajQ4H-","pageview_id":"kLJ5KYEsTMOgpun89b97YXkx","event_id":"ZEShk3DZI3mMb6NbBJ5ZJmZQ","client_lib":"v1.0.6","sourceApp":"nyt-vi","how":"beacon","client_ts":1587230001997,"data":{"event":"impression","moduleObj":{"name":"bar1","context":"","label":"MAG_web_anon_all_monthly-sale-April","region":"1"},"subject":"impression","gtm":"GTM-P528B3-368-Production","sourceApp":"nyt-vi"}}]

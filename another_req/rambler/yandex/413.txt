@@ -1,0 +1,7 @@
+POST https://mc.yandex.ru/watch/26649402?page-ref=https%3A%2F%2Fwww.rambler.ru%2F&page-url=https%3A%2F%2Fnews.rambler.ru%2Fworld%2F%3Futm_source%3Dhead%26utm_campaign%3Dself_promo%26utm_medium%3Dfooter%26utm_content%3Dnews_media&charset=utf-8&ut=noindex&force-urlencoded=1&browser-info=ti%3A1%3Adp%3A0%3Ans%3A1587371436390%3As%3A1920x1080x24%3Ask%3A1%3Ahdl%3A1%3Aadb%3A2%3Afpr%3A207118962501%3Acn%3A2%3Aw%3A785x585%3Az%3A180%3Ai%3A20200420113215%3Aet%3A1587371536%3Aen%3Autf-8%3Ac%3A1%3Ala%3Aru-ru%3Aln%3A1%3Als%3A857169414291%3Arqn%3A35%3Arn%3A625471904%3Ahid%3A189463331%3Ads%3A%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C%3Agdpr%3A14%3Afu%3A3%3Av%3A1853%3Awv%3A2%3Arqnl%3A1%3Ast%3A1587371536%3Au%3A1587371237691198303%3App%3A3629563401%3At%3A%D0%92%20%D0%BC%D0%B8%D1%80%D0%B5
+Referer https://www.rambler.ru/
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type text/plain;charset=UTF-8
+
+undefined

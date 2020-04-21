@@ -1,0 +1,18 @@
+POST https://www.google-analytics.com/collect
+:method POST
+:authority www.google-analytics.com
+:scheme https
+:path /collect
+content-length 2841
+sec-fetch-dest empty
+user-agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+content-type text/plain;charset=UTF-8
+accept */*
+origin https://www.skyscanner.ru
+sec-fetch-site cross-site
+sec-fetch-mode no-cors
+referer https://www.skyscanner.ru/
+accept-encoding gzip, deflate, br
+accept-language ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+v=1&_v=j81&a=260520786&t=event&ni=1&_s=5&dl=https%3A%2F%2Fwww.skyscanner.ru%2F&dp=%2F%3FgaPage%3D%5B%2F%5D&ul=ru-ru&de=UTF-8&dt=%D0%94%D0%B5%D1%88%D0%B5%D0%B2%D1%8B%D0%B5%20%D0%B0%D0%B2%D0%B8%D0%B0%D0%B1%D0%B8%D0%BB%D0%B5%D1%82%D1%8B%20%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD%3A%20%D0%BF%D0%BE%D0%B8%D1%81%D0%BA%20%D0%B8%20%D1%81%D1%80%D0%B0%D0%B2%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%20%D1%86%D0%B5%D0%BD%20%D0%BD%D0%B0%20%D0%B1%D0%B8%D0%BB%D0%B5%D1%82%D1%8B%20-%20Skyscanner&sd=24-bit&sr=1920x1080&vp=785x600&je=0&ec=home&ea=InspirationShelfLoaded&el=1_last-search_advert_recommendation&_u=aHBAiEABB~&jid=&gjid=&cid=216773474.1587315826&tid=UA-246109-1&_gid=706900904.1587315826&cd1=blackbird&cd2=POD_UNKNOWN&cd5=ru&cd10=800x600&cd143=RU&cd145=9e440a3a-9ce7-4d47-a83b-4f468a596c8c&cd146=9e440a3a9ce74d47a83b4f468a596c8c&cd130=visible&cd149=%2F&cd153=1&cd154=1&cd155=2&cd156=0&cd157=0&cd158=Home%3AIndex&cd159=ru-RU&cd160=RUB&cd161=RU&cd19=AAExperiment_V8-a%26%26BD_Desktop_HD_RR_V5-b%26%26BD_Mobile_DV_LoadingBar_V1-b%26%26CLABS_Web_New_Review_Page_V1-b%26%26ELMO_web_everywhere_month_view_show_prices_V5-true%26%26FLUX_GDT2791_SendPriceTraceToMixpanel_V6-b%26%26FSS_upsell_shadow_V13-a%26%26GDT_4463_turn_on_shelves_after_p1_V9-b%26%26MR_HotelRelevance_GuilinMR11_MarchRetrain_V6-e%26%26New_SEO_Pages_Airport_V7-b%26%26Refund_Enable_QueryHistory_V1-on%26%26TerraEcoSortFilter_V10-b%26%26Terra_Artemis_multi_segment_load_test_V19-a%26%26Trex_DirectDays_Web_V21-b%26%26WOM_insp_shelves_return_link_V1-b%26%26change_optional_extra_title_V10-b%26%26conductor_fps_response_logs_V4-a%26%26dbook_cust_trafficcontrol_web_V1-a%26%26dbook_jest_trafficcontrol_web_V12-a%26%26dbook_mang_trafficcontrol_WEB_V2-a%26%26dbook_ryan_trafficcontrol_web_V14-a%26%26dbook_sune_trafficcontrol_web_V5-a%26%26dbook_uair_trafficcontrol_web_V2-a%26%26elmo_tooltip_without_fss_V1-false%26%26fishmonger_split_ap_southeast_1_V7-a%26%26flights_geo_mirror_ap_northeast_1_V2-a%26%26flights_geo_mirror_ap_southeast_1_V5-a%26%26flights_geo_mirror_eu_central_1_V2-a%26%26flights_geo_mirror_eu_west_1_V2-a%26%26fps_mr_fqs_flights_pluto_V18-c%26%26fps_partner_data_if_V18-c%26%26fps_split_cell_web_euw_V29-cell%26%26freeag_flights_price_alerts_V4-b%26%26hercules_card_detection_V5-b%26%26hercules_new_payment_form_V6-b%26%26kbconnector_mirror_ap_northeast_1_V3-a%26%26kbconnector_mirror_ap_southeast_1_V2-a%26%26kbconnector_mirror_eu_central_1_V2-a%26%26kbconnector_mirror_eu_west_1_V2-a%26%26mr_entity_service_request_duplicator_V4-a%26%26mr_migration_proxy_test_always_75_percent_V1-a%26%26mr_migration_proxy_test_always_on_V3-a%26%26mr_request_duplicator_test_01_V9-a%26%26pel_use_website_link_data_V10-b%26%26tempatron_rollout_V8-a%26%26terra_artemis_conductor_V28-a%26%26tps_proxy_traffic_V1-a%26%26wom_hotel_search_price_alerts_V6-b&cd53=everywhere&cd57=NaN&cd58=home&z=327655208

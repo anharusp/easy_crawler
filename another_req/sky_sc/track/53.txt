@@ -1,0 +1,18 @@
+POST https://collector-pxrf8vapwa.px-cloud.net/api/v2/collector/beacon
+:method POST
+:authority collector-pxrf8vapwa.px-cloud.net
+:scheme https
+:path /api/v2/collector/beacon
+content-length 3919
+sec-fetch-dest empty
+user-agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+content-type application/x-www-form-urlencoded
+accept */*
+origin https://www.skyscanner.ru
+sec-fetch-site cross-site
+sec-fetch-mode no-cors
+referer https://www.skyscanner.ru/
+accept-encoding gzip, deflate, br
+accept-language ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+undefined

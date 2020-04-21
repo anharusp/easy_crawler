@@ -1,0 +1,7 @@
+POST https://a.et.nytimes.com/track
+Referer https://www.nytimes.com/
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type text/plain;charset=UTF-8
+
+[{"context_id":"SRQ9UYfn4DegwnRhtJgwRaxL","pageview_id":"pKK08EdvXf7-PsNm8YMELuUu","event_id":"IgQGNkF3VzSOZQYqRo1fiVj7","client_lib":"v1.0.6","sourceApp":"nyt-vi","how":"beacon","client_ts":1587229319642,"data":{"subject":"ab_alloc","allocs":[{"test":"HOME_chartbeat","variant":"0_control"},{"test":"HOME_greatReads","variant":"0_control"}],"sourceApp":"nyt-vi"}}]

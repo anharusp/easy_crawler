@@ -1,0 +1,7 @@
+POST https://an.yandex.ru/jstracer?pcode_native_error=418&event=attempToRenderWidget&version=418&widget_pf=no&adb=false
+Referer https://www.rambler.ru/
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type text/plain;charset=UTF-8
+
+{"service":"pcode_native_error","tags":{"event_attempToRenderWidget":1},"labels":{"version":"418","widget_pf":"no","adb":"false"},"timestamp":1587371237170,"eventType":"event","eventName":"attempToRenderWidget","data":{"widget_ver":"413","blockId":"250894-159"},"sid":"8722871587371236992","version":"418","location":"https://www.rambler.ru/","topLocation":"https://www.rambler.ru/","topAncestor":"https://www.rambler.ru","ancestorOrigins":[],"documentIsVisible":true,"referrer":"","topReferrer":"","currentScriptSrc":"https://yastatic.net/pcode-native/loaders/loader.js","secureIFrame":false,"isVideoADB":false,"value":1,"rnd":0.1432236963096878,"topDocumentFocus":false}

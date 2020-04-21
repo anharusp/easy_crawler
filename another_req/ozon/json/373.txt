@@ -1,0 +1,8 @@
+POST https://www.ozon.ru/api/logs-gateway/input
+Authorization Basic ZnJvbnRlbmQtb3pvbi1ydTo1ODM4NjIxZC0zYWZmLTQyMDQtYTY2MS05ZjMzYWY1ZmY0ZjE=
+Referer https://www.ozon.ru/context/detail/id/167526846/?_bctx=CAYQ0doC
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type application/json
+
+[{"type":"log","level":"ERROR","url":"https://www.ozon.ru/context/detail/id/167526846/?_bctx=CAYQ0doC","abGroup":50,"browser":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36","platform":"desktop","tag":"","message":"Script error.","ts":"2020-04-19T12:11:29.026Z","client_ts":"2020-04-19T12:11:29.026Z"}]

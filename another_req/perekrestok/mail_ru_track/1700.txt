@@ -1,0 +1,17 @@
+POST https://top-fwz1.mail.ru/tracker?js=13;id=3134996;e=RT/beat;sid=d2cdbb78ccdc88ce;ids=3134996,undefined,2928077;ver=60.1.0;_=0.6701451063978343
+Host top-fwz1.mail.ru
+Connection keep-alive
+Content-Length 0
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type text/plain;charset=UTF-8
+Accept */*
+Origin https://www.perekrestok.ru
+Sec-Fetch-Site cross-site
+Sec-Fetch-Mode no-cors
+Referer https://www.perekrestok.ru/cart
+Accept-Encoding gzip, deflate, br
+Accept-Language ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie VID=2YNtsE0Qw3nw00000Q0qD4Hw:::0-0-0-3b6c7ca:CAASEA0GyqP5B8ZNBBpXyVl0V8UaYIsJUzotW_nAItVIA2JPyr1rUyvLXBWNzmKlIzhPOaFGj_qhAUuMSy5p43G31RD6mGbcVEY8OrtS7ilcZmU1cpZG8o8Gr9eIfr2SrbADzh9Cmxm_Ehl-8wk1pjtjyFpGww
+
+undefined

@@ -1,0 +1,7 @@
+POST https://a.et.nytimes.com/track
+Referer https://www.nytimes.com/2020/04/16/us/politics/trump-coronavirus-promises-fact-check.html
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type text/plain;charset=UTF-8
+
+[{"context_id":"CqsnAbcE6aagQ4fFSfg8IXBn","pageview_id":"eojliDOWw9xQiD6oCII3TC8g","event_id":"LsHlyVu_UCLolo-ug2gt-FmW","client_lib":"v1.0.6","sourceApp":"nyt-vi","how":"beacon","client_ts":1587230228407,"data":{"subject":"page_update","performance":{"first-paint":1206},"gtm":"GTM-P528B3-368-Production","sourceApp":"nyt-vi"}},{"context_id":"CqsnAbcE6aagQ4fFSfg8IXBn","pageview_id":"eojliDOWw9xQiD6oCII3TC8g","event_id":"u845qDTHb0gOh3deXaarnkci","client_lib":"v1.0.6","sourceApp":"nyt-vi","how":"beacon","client_ts":1587230228411,"data":{"subject":"page_update","performance":{"first-paint":1206,"first-contentful-paint":1206},"gtm":"GTM-P528B3-368-Production","sourceApp":"nyt-vi"}},{"context_id":"CqsnAbcE6aagQ4fFSfg8IXBn","pageview_id":"eojliDOWw9xQiD6oCII3TC8g","event_id":"1adb_zsgqE7T8kTTTg2si_5l","client_lib":"v1.0.6","sourceApp":"nyt-vi","how":"beacon","client_ts":1587230228420,"data":{"subject":"ab_expose","test":"dfp_adslot4v2","variant":"1_external","gtm":"GTM-P528B3-368-Production","sourceApp":"nyt-vi"}}]

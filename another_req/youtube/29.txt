@@ -1,0 +1,17 @@
+POST https://www.youtube.com/youtubei/v1/log_event?alt=json&key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8
+X-YouTube-Device cbr=Chrome&cbrver=80.0.3987.0&ceng=WebKit&cengver=537.36&cos=X11
+X-YouTube-Page-Label youtube.ytfe.desktop_20200416_4_RC1
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+X-YouTube-Variants-Checksum 4259290722fb325521839302de6c2dc4
+Content-Type application/json
+X-YouTube-Page-CL 306978223
+X-YouTube-Utc-Offset 180
+X-YouTube-Client-Name 1
+Referer https://www.youtube.com/user/KuplinovPlay/community
+X-YouTube-Client-Version 2.20200417.04.01
+Sec-Fetch-Dest empty
+X-YouTube-Time-Zone Europe/Moscow
+X-Goog-Visitor-Id CgtnLUFhU25HT3JzSSjIxPX0BQ%3D%3D
+X-YouTube-Ad-Signals dt=1587372614385&flash=0&frm&u_tz=180&u_his=4&u_java&u_h=1080&u_w=1920&u_ah=1080&u_aw=1920&u_cd=24&u_nplug=3&u_nmime=4&bc=31&bih=600&biw=785&brdim=0%2C0%2C0%2C0%2C1920%2C0%2C960%2C1047%2C800%2C600&vis=1&wgl=true&ca_type=image&bid=ANyPxKpEeuNiGX2RtWYl_Meb_IJz-XXyzIcWCwPLlUTP07hDvsvI5MFSbymfeSTFwPGXfTtrxNjc6RCZR14WqOB6nNZDB1MWRw
+
+{"context":{"client":{"hl":"ru","gl":"RU","clientName":1,"clientVersion":"2.20200417.04.01"}},"events":[{"eventTimeMs":1587372763411,"foregroundHeartbeat":{"firstActivityMs":"29805","clientDocumentNonce":"eHIgT9L-JfwQPTPS","index":"7","lastEventDeltaMs":"29922","trigger":"FOREGROUND_HEARTBEAT_TRIGGER_ON_INTERVAL"},"context":{"lastActivityMs":"139"}},{"eventTimeMs":1587372763452,"streamzIncremented":{"serializedIncrementBatch":"Ci4vY2xpZW50X3N0cmVhbXoveW91dHViZS93ZWIvbmF2aWdhdGlvbl9yZXF1ZXN0GglwYWdlX3R5cGUiDgoICgZicm93c2USAggC"},"context":{"lastActivityMs":"26"}},{"eventTimeMs":1587372763452,"streamzIncremented":{"serializedIncrementBatch":"Ci8vY2xpZW50X3N0cmVhbXoveW91dHViZS93ZWIvbmF2aWdhdGlvbl9yZXNwb25zZRoGcmVzdWx0GglwYWdlX3R5cGUaCmVycm9yX3R5cGUiIQoJCgdzdWNjZXNzCggKBmJyb3dzZQoGCgRudWxsEgIIAg=="},"context":{"lastActivityMs":"27"}},{"eventTimeMs":1587372764280,"visualElementHidden":{"csn":"MC4zMTg4ODk2NjA0Njg1MjY3NA..","ve":{"trackingParams":"CIQBEMy_AhgBIhMI9PXB58_26AIVyjKbCh2UyALG"},"eventType":8},"context":{"lastActivityMs":"18"}},{"eventTimeMs":1587372764281,"visualElementShown":{"csn":"MC4zMTg4ODk2NjA0Njg1MjY3NA..","ve":{"trackingParams":"CG0QtXUiEwj09cHnz_boAhXKMpsKHZTIAsY="},"eventType":1},"context":{"lastActivityMs":"19"}},{"eventTimeMs":1587372764281,"visualElementShown":{"csn":"MC4zMTg4ODk2NjA0Njg1MjY3NA..","ve":{"trackingParams":"CHAQmE0iEwj09cHnz_boAhXKMpsKHZTIAsY="},"eventType":1},"context":{"lastActivityMs":"19"}},{"eventTimeMs":1587372764281,"visualElementShown":{"csn":"MC4zMTg4ODk2NjA0Njg1MjY3NA..","ve":{"trackingParams":"CG4QmE0iEwj09cHnz_boAhXKMpsKHZTIAsY="},"eventType":1},"context":{"lastActivityMs":"19"}},{"eventTimeMs":1587372764281,"visualElementShown":{"csn":"MC4zMTg4ODk2NjA0Njg1MjY3NA..","ve":{"trackingParams":"CG8Q8FsiEwj09cHnz_boAhXKMpsKHZTIAsY="},"eventType":1},"context":{"lastActivityMs":"19"}}],"requestTimeMs":1587372764838,"serializedClientEventId":{"serializedEventId":"Q2KdXoy0B5Wl7QTlk4PABA","clientCounter":24026}}

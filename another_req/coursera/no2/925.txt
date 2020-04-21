@@ -1,0 +1,10 @@
+POST https://www.coursera.org/graphqlBatch?opname=CatalogMastertrackBySlug
+accept */*
+Referer https://www.coursera.org/mastertrack/machine-learning-analytics-chicago
+Sec-Fetch-Dest empty
+R2-APP-VERSION d273c5102bbc2cc059de7b2cfe0b71e118123df2
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+OPERATION-NAME CatalogMastertrackBySlug
+content-type application/json
+
+[{"operationName":"CatalogMastertrackBySlug","variables":{"slug":"machine-learning-analytics-chicago"},"query":"query CatalogMastertrackBySlug($slug: String!) {\n  CatalogMastertracksV1Resource {\n    bySlug(slug: $slug) {\n      elements {\n        id\n        __typename\n      }\n      __typename\n    }\n    __typename\n  }\n}\n"}]

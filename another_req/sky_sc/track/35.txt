@@ -1,0 +1,18 @@
+POST https://collector-pxrf8vapwa.px-cloud.net/api/v2/collector
+:method POST
+:authority collector-pxrf8vapwa.px-cloud.net
+:scheme https
+:path /api/v2/collector
+content-length 551
+sec-fetch-dest empty
+user-agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+content-type application/x-www-form-urlencoded
+accept */*
+origin https://www.skyscanner.ru
+sec-fetch-site cross-site
+sec-fetch-mode cors
+referer https://www.skyscanner.ru/carhire/results/95673540/95673540/2020-04-21T10:00/2020-04-23T10:00/30
+accept-encoding gzip, deflate, br
+accept-language ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+payload=aUkQRhAIEGJqABAeEFYQCEkQYmoLBBAIEFpGRkJBCB0dRUVFHEFZS0FRU1xcV0AcQEcdUVNAWltAVx1AV0FHXkZBHQsHBAUBBwYCHQsHBAUBBwYCHQACAAIfAgYfAANmAwIIAgIdAAIAAh8CBh8AAWYDAggCAh0BAhAeEGJqBAEQCBB+W1xHShJKCgRtBAYQHhBiagoHAhAIAh4QYmoKBwMQCAMCCgMeEGJqAQUDEAhGQEdXT09v&appId=PXrf8vapwA&tag=v5.3.7&uuid=4cdacb20-8260-11ea-acaf-29d10e4d182b&ft=139&seq=0&en=NTA&pc=6672099146908188&sid=bc660cd0-825f-11ea-9eec-0587f99f8e98&vid=ba4fd701-825f-11ea-ad8a-83a1ee03969f&pxhd=5afeb20009dec207faeafb8ad2d977159bca69c5673df60862e26b7408b8af8f:ba4fd701-825f-11ea-ad8a-83a1ee03969f

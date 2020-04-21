@@ -1,0 +1,7 @@
+POST https://a.et.nytimes.com/track
+Referer https://www.nytimes.com/2020/04/18/us/politics/trump-china-virus.html?action=click&module=Spotlight&pgtype=Homepage
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type text/plain;charset=UTF-8
+
+[{"context_id":"uKWd8uX8iRIOoFZwk0DYMpUN","pageview_id":"4paef6fWP6yaKKVDYJ26T7is","event_id":"EXofOP3n4Mu-FCXESfyUoYn3","client_lib":"v1.0.6","sourceApp":"nyt-vi","how":"beacon","client_ts":1587229617857,"data":{"subject":"page_update","performance":{"first-paint":198},"gtm":"GTM-P528B3-368-Production","sourceApp":"nyt-vi"}},{"context_id":"uKWd8uX8iRIOoFZwk0DYMpUN","pageview_id":"4paef6fWP6yaKKVDYJ26T7is","event_id":"tMry4pT1pmi16Y45AJKudt4Q","client_lib":"v1.0.6","sourceApp":"nyt-vi","how":"beacon","client_ts":1587229617860,"data":{"subject":"page_update","performance":{"first-paint":198,"first-contentful-paint":198},"gtm":"GTM-P528B3-368-Production","sourceApp":"nyt-vi"}},{"context_id":"uKWd8uX8iRIOoFZwk0DYMpUN","pageview_id":"4paef6fWP6yaKKVDYJ26T7is","event_id":"HnJov4j8rbNYbo9GJlXv557z","client_lib":"v1.0.6","sourceApp":"nyt-vi","how":"beacon","client_ts":1587229617863,"data":{"subject":"ab_expose","test":"dfp_adslot4v2","variant":"1_external","gtm":"GTM-P528B3-368-Production","sourceApp":"nyt-vi"}}]

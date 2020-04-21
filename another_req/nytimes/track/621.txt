@@ -1,0 +1,7 @@
+POST https://a.et.nytimes.com/track
+Referer https://www.nytimes.com/2020/04/16/us/politics/trump-coronavirus-promises-fact-check.html
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type text/plain;charset=UTF-8
+
+[{"context_id":"CqsnAbcE6aagQ4fFSfg8IXBn","pageview_id":"eojliDOWw9xQiD6oCII3TC8g","event_id":"eojliDOWw9xQiD6oCII3TC8g","client_lib":"v1.0.6","sourceApp":"nyt-vi","how":"beacon","client_ts":1587230227959,"data":{"subject":"page","canonicalUrl":"https://www.nytimes.com/2020/04/16/us/politics/trump-coronavirus-promises-fact-check.html","articleId":"100000007091843","nyt_uri":"nyt://article/be6b5e16-d07f-5cd1-b053-d91224cb7cda","pubpEventId":"pubp://event/51bb53f47e074dd19bfca9e121d2fc84","url":"https://www.nytimes.com/2020/04/16/us/politics/trump-coronavirus-promises-fact-check.html","referrer":"https://www.nytimes.com/section/corrections","client_tz_offset":-180,"sourceApp":"nyt-vi"}}]

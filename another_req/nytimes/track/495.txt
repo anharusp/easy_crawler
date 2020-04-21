@@ -1,0 +1,7 @@
+POST https://a.et.nytimes.com/track
+Referer https://www.nytimes.com/2020/04/16/us/politics/latinos-coronavirus-trump.html
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type text/plain;charset=UTF-8
+
+[{"context_id":"0pG12NoJdnGo9-M3YufqLLJ2","pageview_id":"NBW8tlGQ8KFL8RPUVeCgwH4q","event_id":"NBW8tlGQ8KFL8RPUVeCgwH4q","client_lib":"v1.0.6","sourceApp":"nyt-vi","how":"beacon","client_ts":1587230066471,"data":{"subject":"page","canonicalUrl":"https://www.nytimes.com/2020/04/16/us/politics/latinos-coronavirus-trump.html","articleId":"100000007076398","nyt_uri":"nyt://article/92aa0760-e938-52ab-8fad-8e22c031abf5","pubpEventId":"pubp://event/79c175b94cdc4c4fad67e058a28ab785","url":"https://www.nytimes.com/2020/04/16/us/politics/latinos-coronavirus-trump.html","referrer":"https://www.nytimes.com/news-event/2020-election","client_tz_offset":-180,"sourceApp":"nyt-vi"}}]

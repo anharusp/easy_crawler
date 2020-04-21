@@ -1,0 +1,16 @@
+POST https://6852bd07.akstat.io/
+Host 6852bd07.akstat.io
+Connection keep-alive
+Content-Length 3780
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type application/x-www-form-urlencoded
+Accept */*
+Origin https://www.skyscanner.ru
+Sec-Fetch-Site cross-site
+Sec-Fetch-Mode no-cors
+Referer https://www.skyscanner.ru/sttc/px/captcha-v2/index.html?url=L2NhcmhpcmU/&uuid=fbb8d5c0-825f-11ea-a64a-3d89978e0302&vid=ba4fd701-825f-11ea-ad8a-83a1ee03969f
+Accept-Encoding gzip, deflate, br
+Accept-Language ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+undefined

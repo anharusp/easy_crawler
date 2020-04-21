@@ -1,0 +1,7 @@
+POST https://a.et.nytimes.com/track
+Referer https://www.nytimes.com/2020/04/18/us/coronavirus-updates.html?action=click&module=Spotlight&pgtype=Homepage
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type text/plain;charset=UTF-8
+
+[{"context_id":"LmK4dQiBgL6iRfhSz_vqqt-6","pageview_id":"ioj5ksIDIbTsO7-TRzXjWc0i","event_id":"DlzAZM2QSMvrTtc0hZ0pOZUw","client_lib":"v1.0.6","sourceApp":"nyt-vi","how":"beacon","client_ts":1587229571395,"data":{"subject":"page_update","viewport":{"scrollTop":25634,"height":600,"width":800,"documentHeight":27720,"activeTime":30000,"article":{"top":53,"height":26699},"bottomOfArticle":{"top":26164,"height":0}},"gtm":"GTM-P528B3-368-Production","sourceApp":"nyt-vi"}},{"context_id":"LmK4dQiBgL6iRfhSz_vqqt-6","pageview_id":"ioj5ksIDIbTsO7-TRzXjWc0i","event_id":"R5tuARqBbpgQ65Yo597ir1_D","client_lib":"v1.0.6","sourceApp":"nyt-vi","how":"beacon","client_ts":1587229572714,"data":{"subject":"page_exit","assetUrl":"https://www.nytimes.com/2020/04/18/us/coronavirus-updates.html","assetId":"100000007094668","nyt_uri":"nyt://article/e0aef3dd-d5f8-5b97-b65f-7338c234225d","url":"https://www.nytimes.com/2020/04/18/us/coronavirus-updates.html?action=click&module=Spotlight&pgtype=Homepage#link-7a7b2272","referrer":"https://www.nytimes.com/","client_tz_offset":-180,"activeTime":35000,"exit":true,"gtm":"GTM-P528B3-368-Production","sourceApp":"nyt-vi"}}]

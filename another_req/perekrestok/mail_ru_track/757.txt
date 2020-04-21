@@ -1,0 +1,17 @@
+POST https://top-fwz1.mail.ru/tracker?js=13;id=undefined;u=https%3A//www.perekrestok.ru/promos/supertseny-v-perekrestke;r=https%3A//www.perekrestok.ru/catalog/avto-dom-sad-kuhnya/kuhonnye-prinadlejnosti/kuhonnye-aksessuary/dom-kuh-nab-mertsayu-karandash--446876;st=1587310760383;s=1920*1080;vp=785*600;touch=0;hds=1;flash=;sid=3943aff1bc23df93;ver=60.1.0;tz=-180%2FEurope%2FMoscow;nt=0/0/1587310757289/2257/2258///3/3/3/3/3//6/2250/2254/2268/3094/3094/3345/3809/3810/3832;ni=10//4g/50/0/;detect=0;lvid=1587310346349%3A1587310761257%3A390%3Aa8ec92b6f36ea5ce4b1e53d48e069241;opts=sec%2Cdl;_=0.9464255267297008;e=RT/load;et=1587310761253
+Host top-fwz1.mail.ru
+Connection keep-alive
+Content-Length 0
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Content-Type text/plain;charset=UTF-8
+Accept */*
+Origin https://www.perekrestok.ru
+Sec-Fetch-Site cross-site
+Sec-Fetch-Mode no-cors
+Referer https://www.perekrestok.ru/promos/supertseny-v-perekrestke
+Accept-Encoding gzip, deflate, br
+Accept-Language ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie VID=2YNtsE0Qw3nw00000Q0qD4Hw:::0-0-0-3b6c7ca:CAASECaTxiqRrF1JYh3TaaZvYTAaYPd5XpCAi3v7sFwj9vLJuGmOgUkP-nKeE4V8cmMtrjDd04ncF9ZYbV6EVeBqDkRTBojxl1qbrH9IG6SCASIeV7MV92EmvyjRWMQii_c2ed4zuWy-opYgehCztraKxNnR6Q
+
+undefined

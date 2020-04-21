@@ -1,0 +1,18 @@
+POST https://async-px.dynamicyield.com/batch?cnst=1&_=1587310809493_754804
+:method POST
+:authority async-px.dynamicyield.com
+:scheme https
+:path /batch?cnst=1&_=1587310809493_754804
+content-length 1475
+sec-fetch-dest empty
+user-agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+content-type text/plain;charset=UTF-8
+accept */*
+origin https://www.perekrestok.ru
+sec-fetch-site cross-site
+sec-fetch-mode cors
+referer https://www.perekrestok.ru/promos/supertseny-v-perekrestke
+accept-encoding gzip, deflate, br
+accept-language ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"md":{"msn":"webserve-bc717d7.use","uid":"-3332663550868164856","sec":"8771419","ses":"5b6602bf3fe01bf504d0995ee00d4258","colors":"dk.l.c.ss.","sld":"perekrestok.ru","rurl":"https://www.perekrestok.ru/promos/supertseny-v-perekrestke","ts":"Direct","p":"38","ref":"internal","rref":"https://www.perekrestok.ru/catalog/avto-dom-sad-kuhnya/kuhonnye-prinadlejnosti/kuhonnye-aksessuary/dom-kuh-nab-mertsayu-karandash--446876","nses":false,"sesst":0,"reqts":1587310807333,"rri":9888521},"data":[{"type":"imp","expId":883994,"varIds":[21382663],"expSes":"43513","mech":"1","smech":null,"verId":"8107026","aud":"1060052.1060053.1060054.733448.733449.741171.752394.752400.823328.1036737.721231.721233.752447.808263.823381","expVisitId":"-7972195168272970267","eri":null},{"type":"imp","expId":824664,"varIds":[20520511],"expSes":"43513","mech":"1","smech":null,"verId":"7689107","aud":"1060052.1060053.1060054.733448.733449.741171.752394.752400.823328.1036737.721231.721233.752447.808263.823381","expVisitId":"-7972195170537354641","eri":null},{"type":"imp","expId":824666,"varIds":[20520476],"expSes":"43513","mech":"1","smech":null,"verId":"7689109","aud":"1060052.1060053.1060054.733448.733449.741171.752394.752400.823328.1036737.721231.721233.752447.808263.823381","expVisitId":"-7972195169242777685","eri":null},{"type":"sttime","timeInMS":1002,"isPerBrowser":true,"isPerSection":true},{"type":"asd","timeInMS":94,"isPerBrowser":true,"isPerSection":true}],"sectionId":"8771419"}

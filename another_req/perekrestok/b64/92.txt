@@ -1,0 +1,7 @@
+POST https://bam.eu01.nr-data.net/events/1/91d3f19a9b?a=16405072&v=1167.2a4546b&to=MhBSZQoZDUEABRUMXAtacVIMEQxcTgUAEVIJGlc%3D&rst=13580&ref=https://www.perekrestok.ru/catalog/vse-dlya-pashi/kulichi
+Referer https://www.perekrestok.ru/catalog/vse-dlya-pashi/kulichi
+Sec-Fetch-Dest empty
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+content-type text/plain
+
+bel.6;e,'fp,1m0,;e,'fcp,1m0,;e,'fi,9mv,2;5,'type,'pointerdown;6,'fid,9.;e,'lcp,2f8,2;6,'size,126225.;5,'eid
